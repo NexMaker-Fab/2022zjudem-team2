@@ -4,7 +4,7 @@
   - [1. PM]()
     - [how to build web](class/1pm/1pm-web.md)
     - introduce team
-    - introduce final project
+    - introduce finial project
   - [2. arduino basic]()
   - [3. CAD]()
   - [4. 3D printing]()

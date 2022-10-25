@@ -1,6 +1,12 @@
 <!-- navbar docs/_navbar.md -->
-- Sign in 
-  - https://www.zju.edu.cn/
+- About 
+  - Yannick K.MULUNDULE
+  - Saandi YOUSSOUF
+  - Hussein ABDULAAHI
+  - Hashem TAHER
+  - Heritier MIZERO
+  - Mutahar AL-SHAMERI
+  - Andry RABARISON
+  - Jeffrey CITA
 - Language 
   - English, Chinese, French
-- [Share]()
