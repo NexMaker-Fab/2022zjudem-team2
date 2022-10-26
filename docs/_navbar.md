@@ -1,12 +1,15 @@
 <!-- navbar docs/_navbar.md -->
-- About 
-  - Yannick K.MULUNDULE
-  - Saandi YOUSSOUF
-  - Hussein ABDULAAHI
-  - Hashem TAHER
-  - Heritier MIZERO
-  - Mutahar AL-SHAMERI
-  - Andry RABARISON
-  - Jeffrey CITA
+- About
+  - Team Members 
+     - [Yannick K.MULUNDULE](navbar/Team/members.md) 
+     - Saandi YOUSSOUF
+     - Hussein ABDULAAHI
+     - Hashem TAHER
+     - Heritier MIZERO
+     - Mutahar AL-SHAMERI
+     - Andry RABARISON
+     - Jeffrey CITA
 - Language 
-  - English, Chinese, French
+  - English
+  - Chinese
+  - French
