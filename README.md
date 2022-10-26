@@ -1,3 +1,2 @@
 # Brainii Makers
-Welcome to Team 2 Project number1
-try it
+Welcome to the Brainii Makers
