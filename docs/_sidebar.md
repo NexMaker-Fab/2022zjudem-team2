@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - TEAM MANAGE
- Daily homework
+- Daily homework
   - [1. PM]()
     - [how to build web](class/1pm/1pm-web.md)
     - introduce team
