@@ -7,6 +7,7 @@
     - introduce finial project
   - [2. arduino basic]()
   - [3. CAD]()
+  - [cad](class/2cad/3d.md)
   - [4. 3D printing]()
   - [try]()
 - Final project
