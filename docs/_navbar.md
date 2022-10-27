@@ -7,7 +7,7 @@
      - Hashem TAHER
      - Heritier MIZERO
      - Mutahar AL-SHAMERI
-     - Andry RABARISON
+     - Andry ERIC RABARISON
      - Jeffrey CITA
 - Language 
   - English
