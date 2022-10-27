@@ -9,7 +9,7 @@
      - Mutahar AL-SHAMERI
      - Andry ERIC RABARISON 安瑞
      - Jeffrey CITA
-- Language 
+- Languages 
   - English
   - Chinese
   - French
