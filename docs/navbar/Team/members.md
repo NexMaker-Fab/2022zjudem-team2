@@ -1,5 +1,5 @@
-<!-- Yannick K.MULUNDULE navbar/members.md -->
- - [Yannick K.MULUNDULE](navbar/members/Yannick.md) 
+<!-- Team navbar/members.md -->
+ - [Yannick K.MULUNDULE](navbar/memberslink/Yannick.md) 
  - Saandi YOUSSOUF
  - Hussein ABDULAAHI
  - Hashem TAHER

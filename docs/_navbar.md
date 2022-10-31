@@ -2,7 +2,8 @@
 - About
   - [Team Members](navbar/Team/members.md) 
     
-- Language 
+    
+- Languages 
   - English
   - Chinese
   - French
