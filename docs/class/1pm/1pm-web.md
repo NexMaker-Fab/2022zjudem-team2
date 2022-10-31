@@ -22,11 +22,15 @@
     * Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page
     * We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal
      1. Install docsify
-         "npm i docsify-cli -g"
+          "npm i docsify-cli -g"
      2. Make sure the position and then initialize environment
-         "docsify init ./docs"
+          
+          "docsify init ./docs"
+
      3. Preview
-         "docsify serve docs"
+          
+          "docsify serve docs"
+          
      4. Browser visit http://localhost:3000
 
    - Problems & Solution
