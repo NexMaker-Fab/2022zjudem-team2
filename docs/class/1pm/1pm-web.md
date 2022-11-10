@@ -22,6 +22,8 @@
 
    2. Local settings
       Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
+      <br> Example
+      <div class="loader"><img src="images/3.jpg" alt="#" /></div>
 
    3. Structure
     * Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page
@@ -30,19 +32,19 @@
      1. Install docsify
 
           "npm i docsify-cli -g"
-          <br>[Read more]()
+          <br>[Read more](https://www.npmjs.com/package/docsify-build-cli)
 
      2. Make sure the position and then initialize environment
           
           "docsify init ./docs"
-          <br>[Read more]()
+          <br>[Read more](https://cli.docsifyjs.org/#/?id=links)
 
      3. Preview
           
           "docsify serve docs"
-          <br>[Read more]()
 
      4. Browser visit http://localhost:3000
+
 
    - Problems & Solution
 
