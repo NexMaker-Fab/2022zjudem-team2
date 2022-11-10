@@ -23,7 +23,7 @@
    2. Local settings
       Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
       <br> Example
-      <div class="loader"><img src="images/3.jpg" alt="#" /></div>
+      <div class="loader"><img src="images/3.png" alt="#" /></div>
 
    3. Structure
     * Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page
