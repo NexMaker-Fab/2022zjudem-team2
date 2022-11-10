@@ -3,7 +3,7 @@
  ### STEP1: Prepare
    Installing all the necessary tools to build the webpage:
 
-  - Git; We used git to controil our version in gitlab
+  - [Git](https://git-scm.com/downloads); We used git to controil our version in gitlab
   - Github; We used github as a servicer for our webpage
   - Github desktop; We used github desktop to transport or push our coding from local to github
   - VScode; We used the visual studio code to write down our documents

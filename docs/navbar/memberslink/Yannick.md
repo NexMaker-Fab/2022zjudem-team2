@@ -1,2 +1,3 @@
-<!-- memberslink navbar/Yannick.md -->
-<iframe src="https://yannickkabasso.github.io/About-Yan/"></iframe>
+<!-- Responsive-->
+   <li><a href="https://yannickkabasso.github.io/About-Yan/">https://yannickkabasso.github.io/About-Yan/</a></li>
+    
