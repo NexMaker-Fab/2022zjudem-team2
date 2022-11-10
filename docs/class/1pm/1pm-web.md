@@ -47,6 +47,11 @@
      4. Browser visit http://localhost:3000
      <br> Example
       <div class="loader"><img src="images/5.png" alt="#" /></div>
+     5. Setting index.html
+     <br>[for more information](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
+     6. Add sidebar & navbar
+     <br>[for more information](https://github.com/kn0sky/docsify-autosidebar)
+     7. Write document and save all document on [VScode](https://code.visualstudio.com/)
 
 
    - Problems & Solution
