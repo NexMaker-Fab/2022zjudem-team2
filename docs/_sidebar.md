@@ -5,10 +5,9 @@
 
     - [how to build web](class/1pm/1pm-web.md)
     - [Introduce Team](class/1pm/1pm-team.md)
-    - introduce final project
-  - [2. arduino basic](https://www.arduino.cc/)
-  - [3. CAD]()
-    - [cad](class/2cad/3d.md)
+    - Introduce project
+  - [2. Arduino basic](https://www.arduino.cc/)
+  - [3.CAD](class/2cad/3d.md)
   - [4. 3D printing]()
   - [try]()
 - Final project
