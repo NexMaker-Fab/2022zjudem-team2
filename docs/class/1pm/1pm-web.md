@@ -16,7 +16,9 @@
       your project.
       <br>Example
       <div class="loader"><img src="images/1.jpg" alt="#" /></div>
-      <br>NOTE:Open the repository go to settings, pages under branch select the main source to enable Github pages for this repository and under folder select root and save(Attention; you selected root folder because you havn't yet installed a docs folder for this repository, therefore you will have to change this setting later) 
+      <br>NOTE:Open the repository go to settings, pages under branch select the main source to enable Github pages for this repository and under folder select root and save(Attention; you selected root folder because you havn't yet installed a docs folder for this repository, therefore you will have to change this setting later)
+      <br> Example
+      <div class="loader"><img src="images/2.jpg" alt="#" /></div>
 
    2. Local settings
       Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
@@ -28,14 +30,17 @@
      1. Install docsify
 
           "npm i docsify-cli -g"
+          <br>[Read more]()
 
      2. Make sure the position and then initialize environment
           
           "docsify init ./docs"
+          <br>[Read more]()
 
      3. Preview
           
           "docsify serve docs"
+          <br>[Read more]()
 
      4. Browser visit http://localhost:3000
 
