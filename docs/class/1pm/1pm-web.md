@@ -45,6 +45,8 @@
           "docsify serve docs"
 
      4. Browser visit http://localhost:3000
+     <br> Example
+      <div class="loader"><img src="images/5.png" alt="#" /></div>
 
 
    - Problems & Solution
