@@ -4,12 +4,12 @@
    Installing all the necessary tools to build the webpage:
 
   - [Git](https://git-scm.com/downloads); We used git to controil our version in gitlab
-  - Github; We used github as a servicer for our webpage
-  - Github desktop; We used github desktop to transport or push our coding from local to github
-  - VScode; We used the visual studio code to write down our documents
-  - Nodejs; We used it to build the environment 
-  - Markdown language; We used the Markdown language to write documents
-  - Image upload servive, We used Picgo to storage our image on cloud, in our case in gitlab and used in markdown document,
+  - [Github](https://github.com/); We used github as a servicer for our webpage
+  - [Github desktop](https://desktop.github.com/); We used github desktop to transport or push our coding from local to github
+  - [VScode](https://code.visualstudio.com/); We used the visual studio code to write down our documents
+  - [Nodejs](https://nodejs.org/en/); We used it to build the environment 
+  - [Markdown](https://www.nexmaker.com/doc/1projectmanage/markdown.html) language; We used the Markdown language to write documents
+  - [Image upload servive](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html), We used Picgo to storage our image on cloud, in our case in gitlab and used in markdown document,
  ### STEP2: Tips
    1. Web page settings
       Build a repository, keep it Public so that anyone on the internet can have access to it and add a README file to it cause that's where you can write a long description for your project.
