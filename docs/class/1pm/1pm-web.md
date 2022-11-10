@@ -13,7 +13,7 @@
  ### STEP2: Tips
    1. Web page settings
       Build a repository, keep it Public so that anyone on the internet can have access to it and add a README file to it cause that's where you can write a long description for your project.
-      NOTE:Open the repository go to settings, pages under branch select the main source to enable Github pages for this repository and under folder select root and save(Attention; you selected root folder because you havn't yet installed a docs folder for this repository, therefore you will have to change this setting later) 
+      <br>NOTE:Open the repository go to settings, pages under branch select the main source to enable Github pages for this repository and under folder select root and save(Attention; you selected root folder because you havn't yet installed a docs folder for this repository, therefore you will have to change this setting later) 
 
    2. Local settings
       Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
