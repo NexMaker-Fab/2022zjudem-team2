@@ -3,7 +3,5 @@
   - [Team Members](navbar/Team/members.md) 
     
     
-- Languages 
-  - English
-  - Chinese
-  - French
+- [Home]() 
+  
