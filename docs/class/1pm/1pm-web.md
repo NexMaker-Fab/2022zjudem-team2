@@ -51,8 +51,23 @@
      <br>[for more information](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
      6. Add sidebar & navbar
      <br>[for more information](https://github.com/kn0sky/docsify-autosidebar)
-     7. Write document and save all document on [VScode](https://code.visualstudio.com/)
+     7. Write document and save all document under [VScode](https://code.visualstudio.com/)
+     8. Push to Github
+     <br>Use github desktop to push new information uploaded on VScode, Open Github under repository settings/Pages change the branch's folder from root to docs.
+     <br> Example
+      <div class="loader"><img src="images/6.png" alt="#" /></div>
 
 
-   - Problems & Solution
+ ### Problems & Solution
+  1. Docsify init ./docs cannot be loaded because running scripts is disabled on this system.
+
+      <div class="loader"><img src="images/7.jpg" alt="#" /></div>
+      <br>Solution
+       <br>The reason why the running scripts was disable on the system was because the running mode was strict ,you can change to Unrestricted or Bypass，by using the following code Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force or Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force
+  2. The term 'docsify' is not recognized as the name of a cmdlet, function, script file, or operable program.
+
+      <div class="loader"><img src="images/7.jpg" alt="#" /></div>
+      <br>Solution
+       <br>The reason why
+  
 
