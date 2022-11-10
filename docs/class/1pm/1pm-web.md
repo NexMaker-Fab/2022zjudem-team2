@@ -28,7 +28,8 @@
    3. Structure
     * Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page
     * We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal
-    
+    <br> Example
+      <div class="loader"><img src="images/4.png" alt="#" /></div>
      1. Install docsify
 
           "npm i docsify-cli -g"
