@@ -73,7 +73,7 @@
      - [Verify Path](https://www.youtube.com/watch?v=pg4t48BPmh8&t=134s)
        <br>This PC->Properties->Advanced system settings->Environment Variables->User variables->Path->Edit
        <br>Verify the path> C:\Users\RAZER\Desktop\IDE\1ST YEAR\DESIGN ENGINEERING\Practice
-       <br>If the path is not there you can copy it and past a new path in the Edit environment variable
+       <br>If the path is not there you can copy it and past a new path under the Edit environment variable
        <br>
 
   
