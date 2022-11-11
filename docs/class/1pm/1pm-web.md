@@ -66,8 +66,15 @@
        <br>The reason why the running scripts was disable on the system was because the running mode was strict ,you can change to Unrestricted or Bypass，by using the following code Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force or Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force
   2. The term 'docsify' is not recognized as the name of a cmdlet, function, script file, or operable program.
 
-      <div class="loader"><img src="images/7.jpg" alt="#" /></div>
+      <div class="loader"><img src="images/8.jpg" alt="#" /></div>
       <br>Solution
-       <br>The reason why
+       <br>This error means docsify cannot be found in the PATH. Either install it globally (recommended for many command-line tools, and where it is found in the global Github folder, already in the PATH) or run it from where it is installed in the local Github 
+
+     - [Verify Path](https://www.youtube.com/watch?v=pg4t48BPmh8&t=134s)
+       <br>This PC->Properties->Advanced system settings->Environment Variables->User variables->Path->Edit
+       <br>Verify the path> C:\Users\RAZER\Desktop\IDE\1ST YEAR\DESIGN ENGINEERING\Practice
+       <br>If the path is not there you can copy it and past a new path in the Edit environment variable
+       <br>
+
   
 
