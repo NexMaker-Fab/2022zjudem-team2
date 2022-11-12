@@ -20,7 +20,7 @@
          <details><summary>3D Printer</summary>
          
            - [1.3D printer background](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
-           - [2.Assessment]()</details>
+           - [2.Assessment](class/2cad/cadass.md)</details>
            <details><summary>Final project</summary>
              
              - [1.Topic]()

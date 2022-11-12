@@ -9,6 +9,6 @@
   - [Hashem TAHER]
   - [Heritier MIZERO]
   - [Mutahar AL-SHAMERI](https://mutahar22251412.github.io/About-me/)
-  - [Ivonilde Oliveira]
+  - [Ivonilde Oliveira](https://ivonilde.github.io/About-me/)
   - [Jeffrey CITA]
   
