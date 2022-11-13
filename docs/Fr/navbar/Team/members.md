@@ -1,7 +1,7 @@
 <!-- Team navbar/members.md -->
   TEAM INTRODUCTION
   
-  Brainii makers est un groupe de designers industriels qui identifient les défis, recueillent suffisamment d'idées pour lancer et innover, et expérimentent de nouvelles choses, s'adapter et apprendre....
+  The Brainii Makers is a group of Industrial Designers that identify challenges and collect enough ideas to Initiates and Innovates them as well as trying new things, adapting and learning...
 <link rel="stylesheet" href="css/bootstrap-grid.min.css"/>
 <div class="demo">
         <div class="container">
@@ -23,7 +23,7 @@
                         <div class="team-content">
                             <h3 class="title">Yannick K.Mulundule</h3>
                             <span class="post">Electrical Engineer</span>
-                            <h3><a href="https://yannickkabasso.github.io/About-Yan/" class="title">visiter</a></h3>
+                            <h3><a href="https://yannickkabasso.github.io/About-Yan/" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                         <div class="team-content">
                             <h3 class="title">Saandi Youssouf</h3>
                             <span class="post">Software Engineer</span>
-                            <h3><a href="https://youssouf749.github.io/Danida2225/" class="title">visiter</a></h3>
+                            <h3><a href="https://youssouf749.github.io/Danida2225/" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <div class="team-content">
                             <h3 class="title">Hussein ABDULAAHI</h3>
                             <span class="post">Technicien de la surface</span>
-                        <h3><a href="#" class="title">visiter</a></h3>
+                        <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                         <div class="team-content">
                             <h3 class="title">Ivonilde Oliveira</h3>
                             <span class="post">Environment Engineer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                         <div class="team-content">
                             <h3 class="title">Heritier MIZERO</h3>
                             <span class="post">Fasion Designer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                         <div class="team-content">
                             <h3 class="title">Mutahar AL-SHAMERI</h3>
                             <span class="post">Computer Science</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -139,7 +139,7 @@
                         <div class="team-content">
                             <h3 class="title">Jeffrey CITA</h3>
                             <span class="post">Je m'en Fou Engineer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -157,8 +157,8 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Jerry Chinois</h3>
-                            <span class="post">Stupid Engineerer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <span class="post">Stupid Engineer</span>
+                            <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                         <div class="team-content">
                             <h3 class="title">Gneekee Shame Ahmed</h3>
                             <span class="post">Nihao Engineer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
