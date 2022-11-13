@@ -4,5 +4,5 @@
 - About
   - [Team Members](navbar/Team/members.md)
 - [EN]()
-  - [Chinese]()
+  - [Chinese](./Cn/)
   - [French](./Fr/)
