@@ -1,7 +1,7 @@
 <!-- Team navbar/members.md -->
   TEAM INTRODUCTION
   
-  Brainii makers est un groupe de designers industriels qui identifient les défis, recueillent suffisamment d'idées pour lancer et innover, et expérimentent de nouvelles choses, s'adapter et apprendre....
+  The Brainii Makers is a group of Industrial Designers that identify challenges and collect enough ideas to Initiates and Innovates them as well as trying new things, adapting and learning...
 <link rel="stylesheet" href="css/bootstrap-grid.min.css"/>
 <div class="demo">
         <div class="container">
