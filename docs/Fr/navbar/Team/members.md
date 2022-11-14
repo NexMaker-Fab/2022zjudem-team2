@@ -138,26 +138,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Jeffrey CITA</h3>
-                            <span class="post">Je m'en Fou Engineer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
-                        </div>
-                    </div>
-                </div>
-
-<div class="col-md-4 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Jerry Chinois</h3>
-                            <span class="post">Stupid Engineer</span>
+                            <span class="post">Engineer</span>
                             <h3><a href="#" class="title">visiter</a></h3>
                         </div>
                     </div>

@@ -59,8 +59,8 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title">Hussein ABDULAAHI</h3>
-                            <span class="post">Technicien de la surface</span>
+                            <h3 class="title">Hussein ABDULLAHI</h3>
+                            <span class="post">Engineer</span>
                         <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Ivonilde Oliveira</h3>
-                            <span class="post">Environment Engineer</span>
+                            <span class="post">Environmental Engineer</span>
                             <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Heritier MIZERO</h3>
-                            <span class="post">Fasion Designer</span>
+                            <span class="post">Engineer</span>
                             <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Mutahar AL-SHAMERI</h3>
-                            <span class="post">Computer Science</span>
+                            <span class="post">Engineer</span>
                             <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
@@ -138,11 +138,12 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Jeffrey CITA</h3>
-                            <span class="post">Je m'en Fou Engineer</span>
+                            <span class="post">Engineer</span>
                             <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
+
 
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
@@ -156,27 +157,8 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title">Jerry Chinois</h3>
-                            <span class="post">Stupid Engineer</span>
-                            <h3><a href="#" class="title">visit</a></h3>
-                        </div>
-                    </div>
-                </div>
-
-<div class="col-md-4 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Gneekee Shame Ahmed</h3>
-                            <span class="post">Nihao Engineer</span>
+                            <h3 class="title">Hashem Taher Mohammed</h3>
+                            <span class="post">Engineer</span>
                             <h3><a href="#" class="title">visit</a></h3>
                         </div>
                     </div>
