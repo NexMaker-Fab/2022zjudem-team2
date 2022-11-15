@@ -27,7 +27,7 @@ This is the assembled model
 
 
 
-# Mode2: Brushless Axial Fan
+# Model2: Brushless Axial Fan
 Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
 <br>
 <video width="320" height="240" controls>
