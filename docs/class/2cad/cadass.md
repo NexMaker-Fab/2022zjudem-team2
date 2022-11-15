@@ -9,4 +9,17 @@ Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusio
 Exported as stl format file that opens with [Flashprint](https://www.sz3dp.com/download-center?category=12)
 <br>
 <div class="loader"><img src="images/flashprint.png" alt="#" /></div>
-<br>After using the flashprint software to set parameters
+<br>After using the flashprint software to set parameters we printed the first 3D model
+<br>
+<div class="loader"><img src="images/1stmodel.jpg" alt="#" /></div>
+It was too small and could not work so we decided to print the component separately
+<br>
+<div class="loader"><img src="images/base.jpg" alt="#" /></div>
+<br>
+<div class="loader"><img src="images/jaw.jpg" alt="#" /></div>
+<br>
+<div class="loader"><img src="images/screw.jpg" alt="#" /></div>
+<br>
+<div class="loader"><img src="images/3pieces.jpg" alt="#" /></div>
+<br>
+<div class="loader"><img src="images/assembled.jpg" alt="#" /></div>
