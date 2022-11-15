@@ -1,3 +1,5 @@
 <!-- project/intro.md -->
 ### 1.Intelligent Dustbin
+Our intelligent Dustbin is an AI-based smart waste bin, designed for public places, private and home, enabling them to simplify recycling. It sorts and compresses the waste automatically, controls the fill level and processes data for convenient waste management.
 ### 2.Solar panel Tracking Energy
+Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation
