@@ -118,7 +118,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Mutahar AL-SHAMERI</h3>
-                            <span class="post">Computer Science</span>
+                            <span class="post">INDUSTRIAL ENGINEER</span>
                             <h3><a href="#" class="title">visiter</a></h3>
                         </div>
                     </div>
