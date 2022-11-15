@@ -21,5 +21,6 @@ It was too small and could not work so we decided to print the component separat
 <div class="loader"><img src="images/screw.jpg" alt="#" /></div>
 <br>
 <div class="loader"><img src="images/3pieces.jpg" alt="#" /></div>
+This is the assembled model
 <br>
 <div class="loader"><img src="images/assembled.jpg" alt="#" /></div>
