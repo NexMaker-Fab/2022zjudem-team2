@@ -117,9 +117,9 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title">Mutahar AL-SHAMERI</h3>
-                            <span class="post">Engineer</span>
-                            <h3><a href="#" class="title">visit</a></h3>
+                            <h3 class="title">MUTAHAR AL-SHAMERI</h3>
+                            <span class="post">Industrial Engineer</span>
+                            <h3><a href="https://mutahar22251412.github.io/About-me/" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
+                            <img src="images/1668281133348.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
