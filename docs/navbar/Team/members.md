@@ -108,7 +108,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/1668281133348.jpg">
+                            <img src="images/Mutahar.jpg">
                             <ul class="social">
                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
                                 <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
