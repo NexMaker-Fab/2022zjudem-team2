@@ -24,3 +24,16 @@ It was too small and could not work so we decided to print the component separat
 This is the assembled model
 <br>
 <div class="loader"><img src="images/assembled.jpg" alt="#" /></div>
+
+
+
+# Model2: Brushless Axial Fan
+Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
+<br>
+<video width="320" height="240" controls>
+  <source src="images/Brushless axial fan.mp4" id="video/Brushless axial fan.mp4"> loop autoplay muted</video>
+  <br>
+
+Exported as stl format file that opens with [Flashprint](https://www.sz3dp.com/download-center?category=12)
+<br>
+<div class="loader"><img src="images/Axial Fan.jpg" alt="#" /></div>
