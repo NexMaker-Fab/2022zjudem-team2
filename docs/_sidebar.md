@@ -14,10 +14,7 @@
   - [1.About Arduino](https://www.arduino.cc/)
   - [2.Arduino basic](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
   - [3.Assessment](https://www.nexmaker.com/doc/5arduino/assessment.html) 
-  + CAD Design
-    - [1.Software](https://www.nexmaker.com/doc/2cad/cad.html)
-    - [2.Fusion 360](https://www.nexmaker.com/doc/2cad/Fusion360prepare.html)
-    - [3.Assessment](class/2cad/3d.md) 
+  
 + 3D Printer
    - [1.3D printer background](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
    - [2.Assessment](class/2cad/cadass.md) 
