@@ -1,7 +1,7 @@
 <!-- navbar docs/_navbar.md -->
-- [Acceiul]() 
-- About Us
-  - [Membre du groupe](Fr/navbar/Team/members.md)
-- [AN]()
+- [Accueil]() 
+- [Membre du groupe](Fr/navbar/Team/members.md)
+  
+- [Anglais]()
   - [Chinois](./Cn/)
   - [Français](./Fr/)

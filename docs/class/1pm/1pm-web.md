@@ -20,6 +20,10 @@
       <br> Example
       <div class="loader"><img src="images/2.jpg" alt="#" /></div>
 
+### STEP3: Method to change Languages
+
+### STEP4: Method for steps sidebar
+
    2. Local settings
       Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
       <br> Example
