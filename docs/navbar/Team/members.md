@@ -8,6 +8,8 @@
             <div class="row text-center">
                 <h1 class="white"></h1>
             </div>
+
+
 <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
