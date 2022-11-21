@@ -2,7 +2,7 @@
 # Model: Bench vice
 Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
 <br>
- <video width="320" height="240" controls>
+ <video width="1280" height="960" controls>
   <source src="images/AutodeskFusion.mp4" id="video/AutodeskFusion.mp4"> loop autoplay muted</video>
 <br>
 

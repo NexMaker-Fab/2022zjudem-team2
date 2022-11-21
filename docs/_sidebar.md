@@ -4,7 +4,6 @@
  + Project Management
       - [1.Assessment](https://www.nexmaker.com/doc/1projectmanage/Assessment1.html)
       - [2.How to build web](class/1pm/1pm-web.md)
-      - [3.Introduce project](project/intro.md)
       
  + CAD Design
       - [1.Software](https://www.nexmaker.com/doc/2cad/cad.html)
@@ -20,7 +19,7 @@
    - [1.3D printer background](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
    - [2.Assessment](class/2cad/cadass.md) 
 + Final project
-   - [1.Topic]()
+   - [1.Topic](project/intro.md)
    - [2.Innovation]()
    - [3.Market]()
    - [4.How to design]()
