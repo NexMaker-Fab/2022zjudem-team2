@@ -90,8 +90,14 @@ localStorage.setItem('language', lang);
 
 #### Method 2
 
+Build your webpage using html under a docs folder.
+<br><img src="images/docs1.png">
 
-     or the name of the language you want to have (ex:folder named"Chinese")
+<br>After buildind, open the docs folder, copy every files and folders under it, create a new folder under the original docs folder and name it (ex:folder name"Cn" for Chinese language), past all in the new folder created (Cn), this will keep all files and folders identical in structure.
+
+<p><br><img src="images/docs2.png"><br><img src="images/docs3.png"></p>
+<br>Translate every file's contents into chinese 
+
 ### STEP4: Method for steps sidebar
 
    2. Local settings
