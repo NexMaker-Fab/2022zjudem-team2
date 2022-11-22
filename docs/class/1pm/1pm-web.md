@@ -138,8 +138,11 @@ Build your webpage using html under a docs folder.
 <br>Translate every file's contents into chinese 
 
 ### STEP4: Method for steps sidebar
+Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors,those are noted inline wherever possible.
 
- ### Problems & Solution
+<br>In our case it's as simple as adding 3 pound signs(#) in front of each step or phrase. Normally the number of pound signs(#) correspond to the heading level.
+
+ ### PROBLEMS & SOLUTIONS
   1. Docsify init ./docs cannot be loaded because running scripts is disabled on this system.
 
       <div class="loader"><img src="images/7.jpg" alt="#" /></div>
