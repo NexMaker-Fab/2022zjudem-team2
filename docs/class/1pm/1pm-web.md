@@ -21,7 +21,77 @@
       <div class="loader"><img src="images/2.jpg" alt="#" /></div>
 
 ### STEP3: Method to change Languages
+#### Method 1
+1. Create a folder called language and add 2 files to it(ex:en.json and cn.json)
 
+<br>The json files should be identical in structure but different in translation as below:
+
+<br><h1 style="font-size:1.5vw"><span style="color:black">en.json</span></h1>
+
+{<p>"date":<span style="color:green">"Date"</span>,</p>
+<p>"save":<span style="color:green">"save"</span>,</p>
+<p>"cancel":<span style="color:green">"cancel"</span>,</p>}
+
+<br><h1 style="font-size:1.5vw"><span style="color:black">cn.json</span></h1>
+
+{<p>"date":<span style="color:green">"日期"</span>,</p>
+<p>"save":<span style="color:green">"节省"</span>,</p>
+<p>"cancel":<span style="color:green">"取消"</span>,</p>}
+ 
+ <br>
+ 
+2. Create an html page containing a sample div and put 2 links to select the language pointing to the js function listed in point 3.
+
+<br>
+
+```html
+
+ <a href="#" onclick="setLanguage('en')">English</a> 
+ <a href="#" onclick="setLanguage('cn')">Chinese</a>
+
+ <div id="div1"></div>
+
+```
+3. Create 2 java script functions to get/set the selected language:
+
+```htm 
+
+<script>
+var language; 
+function getLanguage() {
+(localStorage.getItem('language') == null) ? setLanguage('en') : false;
+$.ajax({ 
+url:  '/language/' +  localStorage.getItem('language') + '.json', 
+dataType: 'json', async: false, dataType: 'json', 
+success: function (lang) { language = lang } });
+}
+function setLanguage(lang) {
+localStorage.setItem('language', lang);
+}
+</script>
+
+```
+<br>
+
+4. Use the variable language to populate the text.
+
+```html
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+
+    $(document).ready(function(){
+    $('#div1').text(language.date);
+    });
+
+    </script>
+``` 
+<br>
+
+#### Method 2
+
+
+     or the name of the language you want to have (ex:folder named"Chinese")
 ### STEP4: Method for steps sidebar
 
    2. Local settings

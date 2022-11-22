@@ -1,4 +1,4 @@
-<h1 style="font-size:5vw">
+<h1 style="font-size:4.5vw">
 <span style="color:#FF0000">B</span>
     <span style="color:#66CC66">R</span>
     <span style="color:#FF9966">A</span>
