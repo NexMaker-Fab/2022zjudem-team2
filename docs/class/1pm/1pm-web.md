@@ -140,7 +140,7 @@ Build your webpage using html under a docs folder.
 ### STEP4: Method for steps sidebar
 Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors,those are noted inline wherever possible.
 
-<br>In our case it's as simple as adding 3 pound signs(#) in front of each step or phrase. Normally the number of pound signs(#) correspond to the heading level.
+<br>In our case it's as simple as <span style="background-color: #FFFF00">adding 3 pound signs(#)</span> in front of each step or phrase. Normally the number of pound signs(#) correspond to the heading level.
 
  ### PROBLEMS & SOLUTIONS
   1. Docsify init ./docs cannot be loaded because running scripts is disabled on this system.
