@@ -9,6 +9,10 @@ Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusio
 Exported as stl format file that opens with [Flashprint](https://www.sz3dp.com/download-center?category=12)
 <br>
 <div class="loader"><img src="images/flashprint.png" alt="#" /></div>
+<br>Flashprint Parameters
+
+<div class="loader"><img src="images/flash.png" alt="#" /></div>
+
 <br>After using the flashprint software to set parameters we printed the first 3D model
 <br>
 <div class="loader"><img src="images/1stmodel.jpg" alt="#" /></div>
