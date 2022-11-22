@@ -20,6 +20,45 @@
       <br> Example
       <div class="loader"><img src="images/2.jpg" alt="#" /></div>
 
+   2. Local settings
+      Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
+      <br> Example
+      <div class="loader"><img src="images/3.png" alt="#" /></div>
+
+   3. Structure
+    * Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page
+    * We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal
+    <br> Example
+      <div class="loader"><img src="images/4.png" alt="#" /></div>
+     1. Install docsify
+
+          "npm i docsify-cli -g"
+          <br>[Read more](https://www.npmjs.com/package/docsify-build-cli)
+
+     2. Make sure the position and then initialize environment
+          
+          "docsify init ./docs"
+          <br>[Read more](https://cli.docsifyjs.org/#/?id=links)
+
+     3. Preview
+          
+          "docsify serve docs"
+
+     4. Browser visit http://localhost:3000
+     <br> Example
+      <div class="loader"><img src="images/5.png" alt="#" /></div>
+     5. Setting index.html
+     <br>[for more information](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
+     6. Add sidebar & navbar
+     <br>[for more information](https://github.com/kn0sky/docsify-autosidebar)
+     7. Write document and save all document under [VScode](https://code.visualstudio.com/)
+     8. Push to Github
+     <br><img src="images/push.png">
+
+     <br>Use github desktop to push new information uploaded on VScode, Open Github under repository settings/Pages change the branch's folder from root to docs.
+     <br> Example
+      <div class="loader"><img src="images/6.png" alt="#" /></div>
+
 ### STEP3: Method to change Languages
 #### Method 1
 1. Create a folder called language and add 2 files to it(ex:en.json and cn.json)
@@ -99,44 +138,6 @@ Build your webpage using html under a docs folder.
 <br>Translate every file's contents into chinese 
 
 ### STEP4: Method for steps sidebar
-
-   2. Local settings
-      Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code
-      <br> Example
-      <div class="loader"><img src="images/3.png" alt="#" /></div>
-
-   3. Structure
-    * Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page
-    * We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal
-    <br> Example
-      <div class="loader"><img src="images/4.png" alt="#" /></div>
-     1. Install docsify
-
-          "npm i docsify-cli -g"
-          <br>[Read more](https://www.npmjs.com/package/docsify-build-cli)
-
-     2. Make sure the position and then initialize environment
-          
-          "docsify init ./docs"
-          <br>[Read more](https://cli.docsifyjs.org/#/?id=links)
-
-     3. Preview
-          
-          "docsify serve docs"
-
-     4. Browser visit http://localhost:3000
-     <br> Example
-      <div class="loader"><img src="images/5.png" alt="#" /></div>
-     5. Setting index.html
-     <br>[for more information](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
-     6. Add sidebar & navbar
-     <br>[for more information](https://github.com/kn0sky/docsify-autosidebar)
-     7. Write document and save all document under [VScode](https://code.visualstudio.com/)
-     8. Push to Github
-     <br>Use github desktop to push new information uploaded on VScode, Open Github under repository settings/Pages change the branch's folder from root to docs.
-     <br> Example
-      <div class="loader"><img src="images/6.png" alt="#" /></div>
-
 
  ### Problems & Solution
   1. Docsify init ./docs cannot be loaded because running scripts is disabled on this system.
