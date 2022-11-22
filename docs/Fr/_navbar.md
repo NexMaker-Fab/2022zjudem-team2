@@ -2,6 +2,6 @@
 - [Accueil]() 
 - [Membre du groupe](Fr/navbar/Team/members.md)
   
-- [Anglais]()
+- [Français](./Fr/)
+  - [Anglais]()
   - [Chinois](./Cn/)
-  - [Français](./Fr/)
