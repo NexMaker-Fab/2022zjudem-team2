@@ -63,7 +63,7 @@
                         <div class="team-content">
                             <h3 class="title">Hussein ABDULLAHI</h3>
                             <span class="post">Engineer</span>
-                        <h3><a href="#" class="title">visit</a></h3>
+                        <h3><a href="https://malaay123.github.io/Hussein-Abdalla/" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
