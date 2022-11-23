@@ -16,10 +16,10 @@
                         <div class="pic">
                             <img src="images/about_img.jpg">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
+                                <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
@@ -54,10 +54,10 @@
                         <div class="pic">
                             <img src="images/HU.jpg">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
+                                <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
@@ -74,10 +74,10 @@
                         <div class="pic">
                             <img src="images/ivonilde.jpg">
                             <ul class="social">
-                               <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
+                               <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
@@ -93,10 +93,10 @@
                         <div class="pic">
                             <img src="images/yar1.jpg">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
+                                <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
@@ -112,10 +112,10 @@
                         <div class="pic">
                             <img src="images/MU.jpg">
                             <ul class="social">
-                               <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
+                               <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
@@ -152,10 +152,10 @@
                         <div class="pic">
                             <img src="images/hashem.jpg">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
+                                <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
