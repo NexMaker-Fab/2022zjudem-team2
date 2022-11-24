@@ -34,8 +34,8 @@
                             <img src="images/yar1.jpg">
                             <ul class="social">
                                 <li><a href="https://www.facebook.com/profile.php?id=100080783966190" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
+                                <li><a href="https://wa.me/+33649340278" class="fab fa-google-plus">W</a>whatsapp</li>
+                                <li><a href="https://www.linkedin.cn/incareer/in/ACoAADn9aNMBRttJCbWJcgJJM9Xr-DKgxb67GYA" class="fab fa-instagram">Ln</a>Linked in</li>
                                 <li><a href="https://v.douyin.com/M4Rt4pF/" class="fab fa-linkedin">Tk</a>Tik Tok</li>
                             </ul>
                         </div>
