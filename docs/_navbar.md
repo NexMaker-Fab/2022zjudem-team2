@@ -1,8 +1,8 @@
 <!-- navbar docs/_navbar.md -->
   
 - [Home]()
-- About
-  - [Team Members](navbar/Team/members.md)
-- [EN]()
+- [Team Members](navbar/Team/members.md)
+  
+- [English]()
   - [Chinese](./Cn/)
   - [French](./Fr/)

@@ -40,6 +40,7 @@
 .our-team .pic img{
     width: 100%;
     height: auto;
+    position: left;
 }
 
 .our-team .social{
@@ -107,4 +108,12 @@
 
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }
+}
+
+.sidebar {
+    background-color: #080808;
+    color: #0faac6
+    }
+nav ul{
+    background-color: #f65252;
 }

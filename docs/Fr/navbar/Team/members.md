@@ -1,7 +1,7 @@
 <!-- Team navbar/members.md -->
   TEAM INTRODUCTION
   
-  The Brainii Makers is a group of Industrial Designers that identify challenges and collect enough ideas to Initiates and Innovates them as well as trying new things, adapting and learning...
+  Brainii makers est un groupe de designers industriels qui identifient les défis, recueillent suffisamment d'idées pour lancer et innover, et expérimentent de nouvelles choses, s'adapter et apprendre....
 <link rel="stylesheet" href="css/bootstrap-grid.min.css"/>
 <div class="demo">
         <div class="container">
@@ -118,8 +118,8 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Mutahar AL-SHAMERI</h3>
-                            <span class="post">Computer Science</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <span class="post">Industrial Engineer</span>
+                            <h3><a href="https://mutahar22251412.github.io/About-me/" class="title">visiter</a></h3>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
+                            <img src="images/1668281133348.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
@@ -138,26 +138,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="title">Jeffrey CITA</h3>
-                            <span class="post">Je m'en Fou Engineer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
-                        </div>
-                    </div>
-                </div>
-
-<div class="col-md-4 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Jerry Chinois</h3>
-                            <span class="post">Stupid Engineer</span>
+                            <span class="post">Engineer</span>
                             <h3><a href="#" class="title">visiter</a></h3>
                         </div>
                     </div>
