@@ -31,7 +31,7 @@
                             <ul class="social">
                                 <li><a href="https://www.facebook.com/profile.php?id=100080783966190" class="fab fa-facebook">F</a>facebook</li>
                                 <li><a href="https://wa.me/+33649340278" class="fab fa-google-plus">W</a>Whatsapp</li>
-                                <li><a href="https://www.linkedin.cn/incareer/in/ACoAADn9aNMBRttJCbWJcgJJM9Xr-DKgxb67GYA" class="fab fa-instagram">Ln</a>Instagram</li>
+                                <li><a href="https://www.linkedin.cn/incareer/in/ACoAADn9aNMBRttJCbWJcgJJM9Xr-DKgxb67GYA" class="fab fa-instagram">Ln</a>ILinked</li>
                                 <li><a href="https://v.douyin.com/M4Rt4pF/" class="fab fa-linkedin">Tk</a>Tik Tok</li>
                             </ul>
                         </div>
