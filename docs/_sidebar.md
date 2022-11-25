@@ -17,9 +17,8 @@
   - [2.Arduino basic](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
   - [3.Assessment](https://www.nexmaker.com/doc/5arduino/assessment.html) 
   
-+ 3D Printer
++ 3D Printer [Software](https://www.flashforge.com/download-center)
    - [1.3D printer background](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
-   - [Software](https://www.flashforge.com/download-center)
    - [2.Assessment](class/2cad/cadass.md) 
 + Final project
    - [1.Topic](project/assessment.md)
