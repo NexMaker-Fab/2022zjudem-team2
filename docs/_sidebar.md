@@ -4,8 +4,8 @@
 - TEAM MANAGE
 
  + Project Management
-      - [1.Assessment](https://www.nexmaker.com/doc/1projectmanage/Assessment1.html)
-      - [2.How to build web](class/1pm/1pm-web.md)
+      
+      - [How to build web](class/1pm/1pm-web.md)
       
  + CAD Design
       - [1.Software](https://www.nexmaker.com/doc/2cad/cad.html)
