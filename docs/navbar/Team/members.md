@@ -15,12 +15,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/about_img.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Yannick K.Mulundule</h3>
@@ -53,12 +47,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/HU.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Hussein ABDULLAHI</h3>
@@ -73,12 +61,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/ivonilde.jpg">
-                            <ul class="social">
-                               <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Ivonilde Oliveira</h3>
@@ -92,17 +74,11 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Heritier MIZERO</h3>
                             <span class="post">Engineer</span>
-                            <h3><a href="#" class="title">visit</a></h3>
+                            <h3><a href="https://hmizero.github.io/My-Webpage/" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -111,12 +87,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/MU.jpg">
-                            <ul class="social">
-                               <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">MUTAHAR AL-SHAMERI</h3>
@@ -131,17 +101,11 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/jeffrey.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Jeffrey CITA</h3>
                             <span class="post">Engineer</span>
-                            <h3><a href="#" class="title">visit</a></h3>
+                            <h3><a href="https://github.com/22251423/Jeffrey-Practice-2/blob/main/Jeffrey%20Web%20page.html" class="title">visit</a></h3>
                         </div>
                     </div>
                 </div>
@@ -151,12 +115,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="images/hashem.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Hashem Taher Mohammed</h3>

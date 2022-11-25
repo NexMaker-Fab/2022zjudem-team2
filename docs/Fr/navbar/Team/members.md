@@ -12,13 +12,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/Untitled-3.png">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
+                            <img src="images/about_img.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Yannick K.Mulundule</h3>
@@ -34,8 +28,8 @@
                             <img src="images/yar1.jpg">
                             <ul class="social">
                                 <li><a href="https://www.facebook.com/profile.php?id=100080783966190" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
+                                <li><a href="https://wa.me/+33649340278" class="fab fa-google-plus">W</a>Whatsapp</li>
+                                <li><a href="https://www.linkedin.cn/incareer/in/ACoAADn9aNMBRttJCbWJcgJJM9Xr-DKgxb67GYA" class="fab fa-instagram">Ln</a>Linked in</li>
                                 <li><a href="https://v.douyin.com/M4Rt4pF/" class="fab fa-linkedin">Tk</a>Tik Tok</li>
                             </ul>
                         </div>
@@ -50,13 +44,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
+                            <img src="images/HU.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Hussein ABDULAAHI</h3>
@@ -70,13 +58,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                               <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
+                            <img src="images/ivonilde.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Ivonilde Oliveira</h3>
@@ -89,13 +71,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
+                            <img src="images/MyImage.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Heritier MIZERO</h3>
@@ -108,13 +84,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                               <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
+                            <img src="images/MU.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Mutahar AL-SHAMERI</h3>
@@ -128,18 +98,12 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/1668281133348.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
+                            <img src="images/jeffrey.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Jeffrey CITA</h3>
                             <span class="post">Engineer</span>
-                            <h3><a href="#" class="title">visiter</a></h3>
+                            <h3><a href="https://github.com/22251423/Jeffrey-Practice-2/blob/main/Jeffrey%20Web%20page.html" class="title">visiter</a></h3>
                         </div>
                     </div>
                 </div>
@@ -147,17 +111,11 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a>facebook</li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a>Google</li>
-                                <li><a href="#" class="fab fa-instagram">In</a>Instagram</li>
-                                <li><a href="#" class="fab fa-linkedin">W</a>Wechat</li>
-                            </ul>
+                            <img src="images/hashem.jpg">
                         </div>
                         <div class="team-content">
-                            <h3 class="title">Gneekee Shame Ahmed</h3>
-                            <span class="post">Nihao Engineer</span>
+                            <h3 class="title">Hashem Taher Mohammed</h3>
+                            <span class="post">Ingenieur</span>
                             <h3><a href="#" class="title">visiter</a></h3>
                         </div>
                     </div>

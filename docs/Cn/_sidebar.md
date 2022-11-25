@@ -9,7 +9,7 @@
 + 阿杜诺
   - [1.关于 Arduino](https://www.arduino.cc/)
   - [2.Arduino 基础](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
-  - [3.Assessment](https://www.nexmaker.com/doc/5arduino/assessment.html) 
+  - [3.作业](https://www.nexmaker.com/doc/5arduino/assessment.html) 
   + 卡片设计
     - [1.软件](https://www.nexmaker.com/doc/2cad/cad.html)
     - [2.Fusion 360](https://www.nexmaker.com/doc/2cad/Fusion360prepare.html)
