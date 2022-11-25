@@ -22,10 +22,6 @@
    - [Software](https://www.flashforge.com/download-center)
    - [2.Assessment](class/2cad/cadass.md) 
 + Final project
-   - [1.Topic](project/intro.md)
-   - [2.Innovation]()
-   - [3.Market]()
-   - [4.How to design]()
-   - [5.How to make]()
-   - [6.SDGs]() 
+   - [1.Topic](project/assessment.md)
+   - [2.Content](project/intro.md)
 
