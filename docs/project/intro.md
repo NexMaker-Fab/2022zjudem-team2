@@ -64,6 +64,18 @@ The trash will be install in isolated areas. The power will be provide by batter
 Example of Hardware Design Method
 
 <br><br><br><br><div class="loader"><img src="images/diagram.avif" alt="#" /></div>
+<br><br>
+<br><br>
+
+<h1 style="font-size:1.5vw"><span style="color:black">Project Steps</span></h1>
+
+<h1 style="font-size:1vw"><span style="color:black">Step 1: Understand Sigfox</span></h1>
+
+Sigfox is a solution to connect the device in scope of Internet of Things. It’s currently operated in 45+ countries and 3 millions + devices. The message can be up to 12 bytes which maximum of 140 uplink and 4 downlink per day.
+
+<h1 style="font-size:1vw"><span style="color:black">Step 2: Hardware Lookup</span></h1>
+
+<br><br><br><br><div class="loader"><img src="images/harwares.avif" alt="#" /></div>
 
 # 2.Solar panel Tracking Energy
 Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation
