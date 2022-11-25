@@ -73,7 +73,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/yar1.jpg">
+                            <img src="images/mizero.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">Heritier MIZERO</h3>
