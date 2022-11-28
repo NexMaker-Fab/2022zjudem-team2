@@ -96,4 +96,22 @@ Specialized toolsets:Unfortunately, the parts of AutoCAD that contain industry-s
 [200 AutoCAD Command and Shortcut list](https://www.thesourcecad.com/autocad-commands/)
 
 
+<h1 style="font-size:1.5vw"><span style="color:black">Features & Functions</span></h1>
+
+2D Functions
+<br>Text settings: Creates the text on your designs as a single or multi-line object so you can adjust the formatting all at once.
+<br>Data extraction: Exports object metadata for use outside AutoCAD without needing a user to manually copy from the file. This ensures fast and accurate information transfers.
+<br>Live data links: Creates a live link between data in an Excel spreadsheet and your AutoCAD file. Excellent for real-time calculations as projects change.
+<br>Create your own parametric constraints: Maintains your design’s specific geometric parameters so you don’t have to worry about manually adhering to them as you’re working. It’s also good for keeping the proportions you want within your design.
+<br>Centerlines and marks: Stays with each object as it moves so you’re always aware of its center no matter where it ends up on the design as a whole.
+<br>Revision clouds: Lets you freehand (or use a shape outline) to highlight areas that you’d like to revise without becoming part of the design. This eliminates the need for you to remember to remove it or to go back and forth between old and new versions to make sure you caught the change.
+<br>Arrays: Multiplies a selected object to create a repetitive pattern in a specified geometric pattern. Great for designs featuring evenly-spaced recurrences.
+
+<br><br>3D Functions
+<br>Solid, surface, and mesh modeling: Offers a variety of control over your 3D modeling so you can choose the process that best fits with your needs.
+<br>Light and shading controls: Adjusts to show how your 3D object looks with types of light, illuminated at different angles, and with different strengths of shadows.
+<br>Cloud rendering: Uses network capabilities to render your design without tying up your computer for the process.
+<br>Model documentation: Like with 2D designs, offers thorough information about your 3D model to share, export, and update in real-time.
+<br>Section planes: Creates planes that dissect your 3D object to show you its cross views at whatever angle you need.
+<br>Point clouds: Lets you import data from 3D scanners to create your design from real-life objects (a bit like connect-the-dots).
 
