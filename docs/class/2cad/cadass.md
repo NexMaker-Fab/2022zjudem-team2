@@ -41,6 +41,9 @@ It was too small and could not work so we decided to resize and print the compon
 This is the assembled model
 <br>
 <div class="loader"><img src="images/assembled.jpg" alt="#" /></div>
+<br>
+<br><br>
+<div class="loader"><img src="images/as.gif" alt="#" />
 <br><br>
 <h1 style="font-size:1.5vw"><span style="color:black">References</span></h1>
 <br>
