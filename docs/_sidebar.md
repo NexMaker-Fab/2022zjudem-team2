@@ -10,7 +10,8 @@
  + CAD Design
       - [1.Software](https://www.nexmaker.com/doc/2cad/cad.html)
       - [2.Fusion 360](https://www.nexmaker.com/doc/2cad/Fusion360prepare.html)
-      - [3.Assessment](class/2cad/3d.md)
+      - [3.AutoCAD](class/2cad/cad.md)
+      - [4.Assessment](class/2cad/3d.md)
      
 + Arduino
   - [1.About Arduino](https://www.arduino.cc/)
@@ -18,8 +19,7 @@
   - [3.Assessment](https://www.nexmaker.com/doc/5arduino/assessment.html) 
   
 + 3D Printer 
-   - [1.3D printer background](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
-   - [2.Assessment](class/2cad/cadass.md) 
+   - [Assessment](class/2cad/cadass.md) 
 + Final project
    - [1.Topic](project/assessment.md)
    - [2.Content](project/intro.md)

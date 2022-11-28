@@ -1,6 +1,6 @@
 <!-- Assessment/cadass.md -->
 
-3D printer [Software](https://www.flashforge.com/download-center)
+
 # Model: Bench vice
 Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
 <br>
@@ -30,4 +30,12 @@ It was too small and could not work so we decided to print the component separat
 This is the assembled model
 <br>
 <div class="loader"><img src="images/assembled.jpg" alt="#" /></div>
+<br><br>
+<h1 style="font-size:1.5vw"><span style="color:black">References</span></h1>
+<br>
+
+3D printer [background](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
+<br>
+
+3D printer [Software](https://www.flashforge.com/download-center)
 
