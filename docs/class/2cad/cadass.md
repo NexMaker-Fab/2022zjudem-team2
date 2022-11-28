@@ -7,18 +7,29 @@ Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusio
  <video width="1280" height="960" controls>
   <source src="images/AutodeskFusion.mp4" id="video/AutodeskFusion.mp4"> loop autoplay muted</video>
 <br>
-
 Exported as stl format file that opens with [Flashprint](https://www.sz3dp.com/download-center?category=12)
+<br>
+Open your Flashprint software and download the stl file on the software
+<br>
+<div class="loader"><img src="images/fp1.png" alt="#" /></div>
 <br>
 <div class="loader"><img src="images/flashprint.png" alt="#" /></div>
 <br>Flashprint Parameters
 
 <div class="loader"><img src="images/flash.png" alt="#" /></div>
+<br>You can preview the slice before transfering to the printer
+<br>
+<div class="loader"><img src="images/fp5.png" alt="#" /></div>
 
-<br>After using the flashprint software to set parameters we printed the first 3D model
+<br>After using the flashprint software to set parameters, download the file on the printer directly using a USB cable or download the file on your flash disk and plug the flash disk directly on the printer
+<br>
+<div class="loader"><img src="images/fp4.png" alt="#" /><br></div><div class="loader"><img src="images/fp6.jpg" alt="#" /></div>
+<br>we printed the first 3D model 
 <br>
 <div class="loader"><img src="images/1stmodel.jpg" alt="#" /></div>
-It was too small and could not work so we decided to print the component separately
+It was too small and could not work so we decided to resize and print the component separately
+<br>
+<div class="loader"><img src="images/fp2.png" alt="#" /></div>
 <br>
 <div class="loader"><img src="images/base.jpg" alt="#" /></div>
 <br>
