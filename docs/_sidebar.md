@@ -8,10 +8,9 @@
       - [How to build web](class/1pm/1pm-web.md)
       
  + CAD Design
-      - [1.Software](https://www.nexmaker.com/doc/2cad/cad.html)
-      - [2.Fusion 360](https://www.nexmaker.com/doc/2cad/Fusion360prepare.html)
-      - [3.AutoCAD](class/2cad/cad.md)
-      - [4.Assessment](class/2cad/3d.md)
+      
+      - [1.AutoCAD](class/2cad/cad.md)
+      - [2.Assessment](class/2cad/3d.md)
      
 + Arduino
   - [1.About Arduino](https://www.arduino.cc/)
