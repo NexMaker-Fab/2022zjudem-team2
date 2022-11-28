@@ -38,3 +38,62 @@ Easy Edits
 <br>3D WIREFRAME AND SURFACE MODELLING
 
 <br><h1 style="font-size:1.5vw"><span style="color:black">SOLID MODELLING </span></h1>
+<br>
+
+Install [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
+<br>
+
+[STEP 01] Go to https://www.autodesk.com/education/free-software/autocad on your Windows side, open a web browser (Chrome is recommended because the instructor tested).
+<br>
+
+[STEP 02] Click [CREATE ACCOUNT] if you do not have one. If you already have an Autodesk account, please sign in by clicking [SIGN IN](https://accounts.autodesk.com/Authentication/LogOn?viewmode=iframe&ReturnUrl=%2Fauthorize%3Fviewmode%3Diframe%26lang%3Den%26realm%3Ddownload-www.autodesk.com%26ctx%3Dadsk-download-www%26AuthKey%3Dfbdb35f8-2a05-4fa8-a190-5941bc22236d#username).
+<br>
+
+[STEP 03] Select an appropriate version of AutoCAD, for your system and language.
+<br>
+
+[STEP 04] Click [INSTALL](https://www.autodesk.com/products/autocad/free-trial).
+<br>
+
+[STEP 05] Accept the license and services agreement.
+<br>
+
+[STEP 06] You will receive an email from Autodesk for the license information (Product key and Serial Number). It will be needed for the activation process.
+<br>
+
+[STEP 07] Click the downloaded installation file to install. The installation will take a while.
+<br>
+
+[STEP 08] After installation, the software will require activation. Please use the license information.
+<br><h1 style="font-size:1.5vw"><span style="color:black">System Requirements </span></h1>
+<br>
+AutoCAD is generally compatible with both Windows and Mac operating systems. Its core program can run on either operating system with no issues.
+<br>However, when you get to the specialized tools, there are a couple of notable exceptions. If you need either of these features, make sure you’ll be able to use AutoCAD on a Windows machine:
+<br><br>
+Specialized toolsets:Unfortunately, the parts of AutoCAD that contain industry-specific drafting tools, like AutoCAD Mechanical 3D and AutoCAD Raster Design, are only compatible with Windows.
+<br><br>
+3D mapping: A more generalized feature that helps anyone who designs in 3D, 3D mapping helps you place objects in your designed world. It’s especially useful for those who use AutoCAD for interior design or other whole-space creations.
+<br><br>
+<h1 style="font-size:1.5vw"><span style="color:black">With that said, here are the system requirements for AutoCAD 2020: </span></h1>
+<br><br>
+<h1 style="font-size:1.5vw"><span style="color:black">Windows </span></h1>
+<br>Versions: Windows 7 SP1, 8.1, or 10 (64-bit only)
+<br>Processor: 2.5 GHz required, 3+ GHz recommended
+<br>Memory: 8 GB required, 16 GB recommended
+<br>Display: 1920 x 1080 with true color for conventional displays, 3840 x 2160 for high resolution and 4K displays
+<br>Display card: 1-GB GPU with 29 GB/s bandwidth, DirectX 11 compliant required; 4-GB GPU with 106 GB/s bandwidth and DirectX 11 compliant recommended
+<br>Disk space: 6 GB
+<h1 style="font-size:1.5vw"><span style="color:black">Mac </span></h1>
+<br>Versions: Catalina v10.15, Mojave v10.14, or High Sierra v10.13
+<br>Processor: 64-bit Intel CPU (Intel Core Duo CPU requried, 2 GHz or faster recommended)
+<br>Memory: 4 GB required, 8+ GB recommended
+<br>Display: 1280 x 800 with true color required, 2880 x 1800 with Retina Display recommended
+<br>Display card: Mac native-installed graphics cards
+<br>Disk space: 3 GB
+<br><br>
+<br>
+
+[200 AutoCAD Command and Shortcut list](https://www.thesourcecad.com/autocad-commands/)
+
+
+
