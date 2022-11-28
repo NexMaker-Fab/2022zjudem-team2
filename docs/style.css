@@ -117,3 +117,8 @@
 nav ul{
     background-color: #f65252;
 }
+
+img.animated-gif{
+    width: 50px;;
+    height: auto;
+  }

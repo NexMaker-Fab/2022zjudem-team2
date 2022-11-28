@@ -3,7 +3,7 @@
 <br>
 Prints with support material will require post-processing to remove the support structures. This can be achieved by breaking the support structures from the build material.
 <br>
-<div class="loader"><img src="images/fp.gif" alt="#" />
+<img src="images/fp.gif" alt="fp.gif" max-width="800" height="500">
 <br>Tear the inner support structure
 Start by removing the walls of the support structure with gripping pliers. This allows you to quickly tear away the majority of the inner support structure.
 
