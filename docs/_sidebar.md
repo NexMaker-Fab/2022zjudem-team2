@@ -19,7 +19,8 @@
   - [3.Assessment](https://www.nexmaker.com/doc/5arduino/assessment.html) 
   
 + 3D Printer 
-   - [Assessment](class/2cad/cadass.md) 
+   - [Assessment](class/2cad/cadass.md)
+   - [Postprocess](class/2cad/process.md)
 + Final project
    - [1.Topic](project/assessment.md)
    - [2.Content](project/intro.md)

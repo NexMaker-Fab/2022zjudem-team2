@@ -24,7 +24,7 @@ Open your Flashprint software and download the stl file on the software
 <br>After using the flashprint software to set parameters, download the file on the printer directly using a USB cable or download the file on your flash disk and plug the flash disk directly on the printer
 <br>
 <div class="loader"><img src="images/fp4.png" alt="#" /><br></div><div class="loader"><img src="images/fp6.jpg" alt="#" /></div>
-<br>we printed the first 3D model 
+<br>we printed the first 3D model
 <br>
 <div class="loader"><img src="images/1stmodel.jpg" alt="#" /></div>
 It was too small and could not work so we decided to resize and print the component separately
