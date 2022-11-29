@@ -93,32 +93,4 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="images/jeffrey.jpg">
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Jeffrey CITA</h3>
-                            <span class="post">工程师</span>
-                            <h3><a href="https://github.com/22251423/Jeffrey-Practice-2/blob/main/Jeffrey%20Web%20page.html" class="title"> 点击我</a></h3>
-                        </div>
-                    </div>
-                </div>
-<div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="images/hashem.jpg">
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Hashem Taher Mohammed</h3>
-                            <span class="post">工程师</span>
-                            <h3><a href="#" class="title"> 点击我</a></h3>
-                        </div>
-                    </div>
-                </div>
-</div>
-</div>
 </div>
