@@ -43,7 +43,7 @@
 <br>
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Sigfox 用法</span>(Still looking for more convinient)</h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Sigfox 用法</span>（还在寻找更方便的）</h1>
 
 垃圾将安装在隔离区域。电源将由电池提供，可能连接到太阳能电池板。对我们来说，到目前为止，Sigfox seams 是一个非常好的解决方案：
 
