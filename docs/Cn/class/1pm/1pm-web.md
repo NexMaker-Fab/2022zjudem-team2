@@ -74,7 +74,7 @@
 <p>"save":<span style="color:green">"节省"</span>,</p>
 <p>"cancel":<span style="color:green">"取消"</span>,</p>}
  
- <br>
+ <br><br>
  
 2. 创建一个包含示例div的html页面，并放置第三点中列出的2个链接函数.
 
