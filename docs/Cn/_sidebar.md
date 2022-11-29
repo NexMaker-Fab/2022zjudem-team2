@@ -3,7 +3,7 @@
 
  + 项目管理
       - [1.作业](https://www.nexmaker.com/doc/1projectmanage/Assessment1.html)
-      - [2.如何做网站](class/1pm/1pm-web.md)
+      - [2.如何做网站](Cn/class/1pm/1pm-web.md)
       - [3.项目介绍]()
      
 + 阿杜诺
@@ -13,10 +13,10 @@
   + 卡片设计
     - [1.软件](https://www.nexmaker.com/doc/2cad/cad.html)
     - [2.Fusion 360](https://www.nexmaker.com/doc/2cad/Fusion360prepare.html)
-    - [3.作业](class/2cad/3d.md) 
+    - [3.作业](Cn/class/2cad/3d.md) 
 + 三 D 打印
    - [1.三 D 打印背景](https://www.nexmaker.com/doc/3_3dprinter/1.3Dprintingbackground.html)
-   - [2.作业](class/2cad/cadass.md) 
+   - [2.作业](Cn/class/2cad/cadass.md) 
 + 最终项目
    - [1.题目]()
    - [2.新创]()

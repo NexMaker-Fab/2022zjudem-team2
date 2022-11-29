@@ -27,43 +27,43 @@
 
    3. Structure
     * Ajoutez le mot "Hello" au fichier README.md, enregistrez tout et utilisez le bureau github pour valider et pousser vers la page Web
-    * We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal
-    <br> Example
+    * Nous utilisons la méthode Docsify pour construire la structure, sous la barre de menu vscode ouvrez le Terminal
+    <br> Exemple
       <div class="loader"><img src="images/4.png" alt="#" /></div>
-     1. Install docsify
+     1. Installer docsify
 
           "npm i docsify-cli -g"
-          <br>[Read more](https://www.npmjs.com/package/docsify-build-cli)
+          <br>Pour [plus d'information](https://www.npmjs.com/package/docsify-build-cli)
 
      2. Make sure the position and then initialize environment
           
           "docsify init ./docs"
-          <br>[Read more](https://cli.docsifyjs.org/#/?id=links)
+          <br>Pour [plus d'information](https://cli.docsifyjs.org/#/?id=links)
 
-     3. Preview
+     3. Aperçu
           
           "docsify serve docs"
 
-     4. Browser visit http://localhost:3000
-     <br> Example
+     4. Visite le navigateur http://localhost:3000
+     <br> Exemple
       <div class="loader"><img src="images/5.png" alt="#" /></div>
-     5. Setting index.html
-     <br>[for more information](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
-     6. Add sidebar & navbar
+     5. Définition de index.html
+     <br>Pour [plus d'information](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
+     6. Ajouter une barre latérale et une barre de navigation (sidebar & navbar)
      <br>[for more information](https://github.com/kn0sky/docsify-autosidebar)
-     7. Write document and save all document under [VScode](https://code.visualstudio.com/)
-     8. Push to Github
+     7. Rédigez le document et enregistrez tous les documents sous [VScode](https://code.visualstudio.com/)
+     8. Pousser vers Github
      <br><img src="images/push.png">
 
-     <br>Use github desktop to push new information uploaded on VScode, Open Github under repository settings/Pages change the branch's folder from root to docs.
-     <br> Example
+     <br>Utilisez le bureau github pour pousser les nouvelles informations téléchargées sur VScode, ouvrez Github sous les paramètres du référentiel/pages changent le dossier de la branche de root à docs.
+     <br> Exemple
       <div class="loader"><img src="images/6.png" alt="#" /></div>
 
-### STEP3: Method to change Languages
-#### Method 1
-1. Create a folder called language and add 2 files to it(ex:en.json and cn.json)
+### TROISIEMEMENT: Méthode pour changer de langue
+#### Première méthode 
+1. Créez un dossier appelé langue et ajoutez-y 2 fichiers(ex:en.json and cn.json)
 
-<br>The json files should be identical in structure but different in translation as below:
+<br>Tles fichiers json doivent avoir une structure identique mais une traduction différente comme ci-dessous:
 
 <br><h1 style="font-size:1.5vw"><span style="color:black">en.json</span></h1>
 
@@ -79,7 +79,7 @@
  
  <br>
  
-2. Create an html page containing a sample div and put 2 links to select the language pointing to the js function listed in point 3.
+2. Créez une page html contenant un exemple de div et mettez 2 liens pour sélectionner la langue pointant vers la fonction js listée au point 3.
 
 <br>
 
@@ -91,7 +91,7 @@
  <div id="div1"></div>
 
 ```
-3. Create 2 java script functions to get/set the selected language:
+3. Créez 2 fonctions de script java pour obtenir/définir la langue sélectionnée:
 
 ```htm 
 
@@ -112,7 +112,7 @@ localStorage.setItem('language', lang);
 ```
 <br>
 
-4. Use the variable language to populate the text.
+4. Utiliser la variable langue pour remplir le texte.
 
 ```html
 
