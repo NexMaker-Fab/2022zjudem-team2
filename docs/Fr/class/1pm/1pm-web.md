@@ -127,22 +127,22 @@ localStorage.setItem('language', lang);
 ``` 
 <br>
 
-#### Method 2
+#### Deuxième méthode
 
-Build your webpage using html under a docs folder.
+Créez votre page Web en utilisant html dans un dossier docs.
 <br><img src="images/docs1.png">
 
-<br>After buildind, open the docs folder, copy every files and folders under it, create a new folder under the original docs folder and name it (ex:folder name"Cn" for Chinese language), past all in the new folder created (Cn), this will keep all files and folders identical in structure.
+<br>Après buildind, ouvrez le dossier docs, copiez tous les fichiers et dossiers qu'il contient, créez un nouveau dossier sous le dossier docs d'origine et nommez-le (ex:nom de dossier"Cn" pour la langue chinoise), passé tout dans le nouveau dossier créé (Cn), cela gardera tous les fichiers et dossiers identiques dans leur structure.
 
 <p><br><img src="images/docs2.png"><br><img src="images/docs3.png"></p>
-<br>Translate every file's contents into chinese 
+<br>Traduire le contenu de chaque fichier en chinois 
 
-### STEP4: Method for steps sidebar
-Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors,those are noted inline wherever possible.
+### QUATRIEMEMENT: Méthode pour la barre latérale des étapes
+Presque toutes les applications Markdown prennent en charge la syntaxe de base décrite dans le document de conception original de Markdown. Il existe des variations et des divergences mineures entre les processeurs Markdown, celles-ci sont notées en ligne dans la mesure du possible.
 
-<br>In our case it's as simple as <span style="background-color: #FFFF00">adding 3 pound signs(#)</span> in front of each step or phrase. Normally the number of pound signs(#) correspond to the heading level.
+<br>Dans notre cas, c'est aussi simple que <span style="background-color: #FFFF00">ajouter 3 signes dièse(#)</span> devant chaque pas ou phrase. Normalement, le nombre de signes dièse (#) correspond au niveau de titre.
 
- ### PROBLEMS & SOLUTIONS
+ ### PROBLEMES & SOLUTIONS
   1. Docsify init ./docs cannot be loaded because running scripts is disabled on this system.
 
       <div class="loader"><img src="images/7.jpg" alt="#" /></div>
@@ -156,8 +156,8 @@ Nearly all Markdown applications support the basic syntax outlined in the origin
 
      - [Verify Path](https://www.youtube.com/watch?v=pg4t48BPmh8&t=134s)
        <br><span style="background-color: #FFFF00">This PC->Properties->Advanced system settings->Environment Variables->User variables->Path->Edit</span>
-       <br>Verify the path> <span style="background-color: #FFFF00">C:\Users\RAZER\Desktop\IDE\1ST YEAR\DESIGN ENGINEERING\Practice</span>
-       <br>If the path is not there you can copy it and past a new path under the Edit environment variable
+       <br>Vérifiez le chemin> <span style="background-color: #FFFF00">C:\Users\RAZER\Desktop\IDE\1ST YEAR\DESIGN ENGINEERING\Practice</span>
+       <br>Si le chemin n'est pas là, vous pouvez le copier et coller un nouveau chemin sous la variable d'environnement Modifier
        <br>
 
   
