@@ -5,7 +5,7 @@
       - [Comment contruire un Site Web](Fr/class/1pm/1pm-web.md)
     
 + CAD Design
-    - [1.AutoCAD](class/2cad/cad.md)
+    - [1.AutoCAD](Fr/class/2cad/cad.md)
     - [2.Exercices](Fr/class/2cad/3d.md) 
 
 + Arduino
@@ -14,10 +14,10 @@
   - [3.Exercices](https://www.nexmaker.com/doc/5arduino/assessment.html) 
   
 + Imprimente 3D
-   - [2.Exercices](class/2cad/cadass.md)
-   - [Postprocess](class/2cad/process.md) 
+   - [2.Exercices](Fr/class/2cad/cadass.md)
+   - [Postprocess](Fr/class/2cad/process.md) 
 + Projet Final
    - [1.Les sujets]()
    - [2.contenu]()
    
-+ [Note](class/1pm/doing.md)
++ [Note](Fr/class/1pm/doing.md)
