@@ -1,6 +1,6 @@
 <!-- project/intro.md -->
-<h1 style="font-size:2vw"><span style="color:black">1.Intelligent Dustbin</span></h1> 
-Our intelligent Dustbin is an AI-based smart waste bin, designed for public places, private and home, enabling them to simplify recycling. It sorts and compresses the waste automatically, controls the fill level and processes data for convenient waste management.
+<h1 style="font-size:2vw"><span style="color:black">1.智能垃圾桶</span></h1> 
+我们的智能垃圾桶是一个基于人工智能的智能垃圾桶，专为公共场所、私人和家庭设计，使他们能够简化回收。它自动分类和压缩垃圾，控制填充水平和处理数据，以方便垃圾管理。
 
-<h1 style="font-size:2vw"><span style="color:black">2.Solar panel Tracking Energy</span></h1> 
-Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation
+<h1 style="font-size:2vw"><span style="color:black">2.太阳能电池板跟踪能量</span></h1> 
+跟踪能量是一种将太阳能收集器、反射器或光伏面板朝向太阳的技术。当太阳在天空中移动时，跟踪装置确保太阳能收集器自动跟随并保持最佳角度以接收大部分太阳辐射

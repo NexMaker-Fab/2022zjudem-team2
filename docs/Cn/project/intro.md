@@ -1,81 +1,78 @@
 <!-- project/intro.md -->
-# INTELLIGENT DUSTBIN
+# 智能垃圾桶
 <br>
 
-### I. Background Info
+### I一、背景资料
 
-Good waste management has become an essential issue for our planet. In public and natural spaces, many do not pay attention to the waste they leave behind. When there is no garbage collector available, it is easier to leave waste on site than bring them back. Even the so called preserved spaces are polluted by waste. So our AI based is designed for homes, offices, streets and public places. It simplifies recycling, sorts and compresses the waste automatically, It controls the fill level and processes data for convenient waste management.
+良好的废物管理已成为我们星球的一个基本问题。在公共和自然空间中，许多人并不关注他们留下的垃圾。当没有可用的垃圾收集器时，将垃圾留在现场比带回更容易。即使是所谓的保存空间也被废物污染了。因此，我们基于人工智能的设计适用于家庭、办公室、街道和公共场所。它简化了回收，自动分类和压缩垃圾，它控制填充水平和处理数据以方便垃圾管理。
 <br><div class="loader"><img src="images/garbage1.jpg" alt="#" /></div>
 
-<br>To preserve natural areas, homes and offices it is important to provide well-managed waste collection points :
+<br>为了保护自然区域、住宅和办公室，提供管理良好的废物收集点非常重要：
 <br><br>
-<br>To prevent them from overflowing, the bins must be raised regularly. It is hard to get through the right time : too soon, and the trash can be empty, too late and the trash can overflow. This problem is all the more critical when the bin is difficult to access (such as on hiking trails in the mountains)
-
+<br>为防止它们溢出，必须定期抬起垃圾箱。很难度过正确的时间：太早，垃圾可能会空，太晚，垃圾可能会溢出。当垃圾箱难以进入时（例如在山区的远足径上），这个问题就更加严重了
 <br><br><div class="loader"><img src="images/garbage2.jpg" alt="#" /></div>
 <br><br>
-In this rational waste management, sorting can be a major challenge. Organics waste can be directly processed by nature, in composting. Non organics waste must be collected to be treated by specific processes.
+在这种合理的废物管理中，分类可能是一项重大挑战。有机废物可以直接在大自然中进行堆肥处理。必须收集非有机废物，以通过特定流程进行处理。
 
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Purpose of the Project</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">项目目的</span></h1>
 
-The purpose of our project is to provide a supervision device for intelligent waste bin. This device integrates several sensors to supervise the state of the trash.
+我们项目的目的是提供一个智能垃圾桶的监管装置。该设备集成了多个传感器来监控垃圾的状态。
 
-- Level sensor: based on ultrasonic system, used to prevent overflows by alerting the garbage collection team.
+- 液位传感器：基于超声波系统，用于通过提醒垃圾收集团队来防止溢出。
 
-- Temperature and humidity sensor: used to monitor the trash environment. This can be useful to manage the condition of organic compost, and to prevent contamination in some specific case (very wet or hot conditions, risk of fire in very dry conditions)
+- 温湿度传感器：用于监测垃圾环境。这有助于管理有机堆肥的状况，并在某些特定情况下防止污染（非常潮湿或炎热的条件，非常干燥的条件下有火灾风险）
 
-- Flame sensor: some may deposit incandescent waste (like cigarette butts) or may intentionally set fire to the bin. A garbage fire can have dramatic effects on the environment (for example it can cause a forest fire). The flame sensor can alert supervision team about the problem.
+- 火焰传感器：有些可能会沉积白炽废物（如烟头）或可能故意点燃垃圾箱。垃圾火灾会对环境产生巨大影响（例如，它可能导致森林火灾）。火焰传感器可以提醒监督团队有关问题。
 
-- Moisture sensor : for the compost process, it is important to maintain a certain humidity level in the compost material. The moisture sensor, included in our project, will measure the humidity level on the compost.
+- 湿度传感器：对于堆肥过程，重要的是要在堆肥材料中保持一定的湿度水平。我们项目中包含的湿度传感器将测量堆肥的湿度水平。
 
-- Opening sensor : a opening detector will be installed on the trash lid to get statistics on garbage use and detect bad closure.
+- 打开传感器：将在垃圾桶盖上安装一个打开检测器，以获取垃圾使用统计数据并检测是否关闭。
 
-- Voice sensor : a mic will be installed on the trash (for homes and offices )
+- 语音传感器：垃圾桶上将安装一个麦克风（适用于家庭和办公室）
 
-- Location system : garbage must be identified and localized to help garbage collection team on their management. It will offer more agility on the garbage location management, with the possibility to deploy temporary garbage bins (eg. In summer on beach and hiking tracks, in winter on ski slope, on special events such as sports competition of music festivals)
-<br>The project takes on its full meaning with a waste bin with two compartments:
+- 定位系统：必须识别和定位垃圾，以帮助垃圾收集团队进行管理。它将提供更多的垃圾位置管理灵活性，可以部署临时垃圾桶（例如，夏季在海滩和远足径上，冬季在滑雪场，在音乐节体育比赛等特殊活动中）
+<br>该项目具有两个隔间的垃圾桶的全部意义：
 
-- One for non organics waste.
-- One for organic waste with composting process.
+- 一种用于非有机废物。
+- 一种用于堆肥过程中的有机废物。
 <br>
 <br><br><br><br><div class="loader"><img src="images/garbage3.avif" alt="#" /></div>
 
 <br>
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Sigfox Usage</span>(Still looking for more convinient)</h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Sigfox 用法</span>(Still looking for more convinient)</h1>
 
-The trash will be install in isolated areas. The power will be provide by battery, possibly connected to a solar panel. For us, Sigfox seams to be a very good solution so far:
+垃圾将安装在隔离区域。电源将由电池提供，可能连接到太阳能电池板。对我们来说，到目前为止，Sigfox seams 是一个非常好的解决方案：
 
-- Sigfox communication system has a wide area coverage : its allows to deploy the project on a large scale.
+- Sigfox 通信系统具有广泛的覆盖范围：它允许大规模部署项目。
 
-- Sigfox system provides sufficient communication capabilities for our use case.
+- Sigfox 系统为我们的用例提供了足够的通信能力。
 
-- Sigfox can provide a 100m localization solution : not necessary to add a GPS shield on the bin.
+- Sigfox 可以提供 100 米的定位解决方案：无需在垃圾箱上添加 GPS 屏蔽。
 
-- Sigfox is a low power solution, which allows the device to operate a long time autonomously.
+- Sigfox 是一种低功耗解决方案，可让设备长时间自主运行。
 
 <br><br>
 <br>
 
-### Project Details
-
-Example of Hardware Design Method
-
+### 项目详情
+硬件设计方法示例
 <br><br><br><br><div class="loader"><img src="images/diagram.avif" alt="#" /></div>
 <br><br>
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Project Steps</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">项目步骤</span></h1>
 
-<h1 style="font-size:1vw"><span style="color:black">Step 1: Understand Sigfox</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">第 1 步：了解 Sigfox</span></h1>
 
-Sigfox is a solution to connect the device in scope of Internet of Things. It’s currently operated in 45+ countries and 3 millions + devices. The message can be up to 12 bytes which maximum of 140 uplink and 4 downlink per day.
+Sigfox 是一种连接物联网范围内设备的解决方案。它目前在超过 45 个国家和超过 300 万台设备上运行。消息最多 12 个字节，每天最多 140 个上行链路和 4 个下行链路。
 
-<h1 style="font-size:1vw"><span style="color:black">Step 2: Hardware Lookup</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">第 2 步：硬件查找</span></h1>
 
 <br><br><br><br><div class="loader"><img src="images/harwares.avif" alt="#" /></div>
 
-# 2.Solar panel Tracking Energy
-Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation
+# 2.太阳能电池板跟踪能源
+我们的太阳能电池板跟踪能量是一项将太阳能收集器、反射器或光伏电池板定向到太阳的技术。当太阳在天空中移动时，跟踪装置确保太阳能收集器自动跟随并保持最佳角度以接收大部分太阳辐射

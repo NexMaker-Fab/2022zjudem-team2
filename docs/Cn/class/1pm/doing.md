@@ -1,7 +1,7 @@
-<!-- not problems just neeed to be updated/doing.md-->
+<!-- 不是问题只需要更新/doing.md-->
 
-1. We have updated everything accordingly with the last feedback
+1. 我们已根据上次反馈相应地更新了所有内容
 
-2. The Team members link and pictures have already been updated to the team webpage(button team members on the navbar), however updating members contents is done individually by each member (every member update their webpage themselves). (some member's profil have been deleted because their links have no content at all)
+2. 团队成员链接和图片已经更新到团队网页（导航栏上的团队成员按钮），但是更新成员内容由每个成员单独完成（每个成员自己更新他们的网页）。 （部分会员资料已被删除，因为他们的链接根本没有内容）
 
-3. Languages: all the language buttons work well, however you will notice that in other languages (except the english), you will find somethings that are still written in english, this is because we are updating first the english language version and after we finish with the english version we will surely update the remaining two languages as their are supposed to be.  
+3. 语言：所有的语言按钮都很好用，但是你会注意到在其他语言（除了英语）中，你会发现一些东西仍然是用英语写的，这是因为我们先更新英语版本，然后再更新完成英文版本后，我们一定会按预期更新其余两种语言。
