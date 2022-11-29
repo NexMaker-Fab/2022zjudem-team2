@@ -23,6 +23,6 @@
 
 + Final project
    - [1.Topic](project/assessment.md)
-   - [2.Content](project/intro.md)
+   - [2.Contents](project/intro.md)
 
 + [Note](class/1pm/doing.md)
