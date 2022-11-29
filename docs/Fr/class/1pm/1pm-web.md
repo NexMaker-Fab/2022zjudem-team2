@@ -1,16 +1,16 @@
 <!-- How to buil web class/1pm-web.md -->
- # HOW TO BUILD
- ### STEP1: Prepare
-   Installing all the necessary tools to build the webpage:
+ # COMMENT CONSTRUIRE LA PAGE
+ ### PREMIEREMENT: Préparer
+   Installation de tous les outils nécessaires pour créer la page Web:
 
-  - [Git](https://git-scm.com/downloads); We used git to controil our version in gitlab
-  - [Github](https://github.com/); We used github as a servicer for our webpage
-  - [Github desktop](https://desktop.github.com/); We used github desktop to transport or push our coding from local to github
-  - [VScode](https://code.visualstudio.com/); We used the visual studio code to write down our documents
-  - [Nodejs](https://nodejs.org/en/); We used it to build the environment 
-  - [Markdown](https://www.nexmaker.com/doc/1projectmanage/markdown.html) language; We used the Markdown language to write documents
-  - [Image upload servive](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html), We used Picgo to storage our image on cloud, in our case in gitlab and used in markdown document,
- ### STEP2: Tips
+  - [Git](https://git-scm.com/downloads); Nous avons utilisé git pour contrôler notre version dans gitlab
+  - [Github](https://github.com/); Nous avons utilisé github comme réparateur pour notre page Web
+  - [Github desktop](https://desktop.github.com/); Nous avons utilisé le bureau github pour transporter ou pousser notre codage de local à github
+  - [VScode](https://code.visualstudio.com/); Nous avons utilisé le code Visual Studio pour écrire nos documents
+  - [Nodejs](https://nodejs.org/en/); Nous l'avons utilisé pour construire l'environnement
+  - Le langage [Markdown](https://www.nexmaker.com/doc/1projectmanage/markdown.html); Nous avons utilisé le langage Markdown pour écrire des documents
+  - [Image upload servive](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html), Nous avons utilisé Picgo pour stocker nos images sur le cloud, dans notre cas dans gitlab et utilisé dans le document Markdown,
+ ### DEUXIEMEMENT: Les astuces
    1. Web page settings
       Build a repository, keep it Public for your team members so that anyone on the internet can have access to it and add a README file to it cause that's where you can write a long description for 
       your project.
