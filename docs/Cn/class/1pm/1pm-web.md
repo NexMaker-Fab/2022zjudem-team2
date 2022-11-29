@@ -54,7 +54,7 @@
      8. 推送到Github
      <br>使用 github desktop 推送新资料上传到 VScode, 打开 Github 在 repository settings/Pages 下将分支的文件夹从 root 改为 docs.
      <br><br> 例如
-      <div class="loader"><img src="images/6.png" alt="#" /></div>
+      <div class="loader"><img src="images/push.png" alt="#" /></div>
      <br>
 
 ### 第三步: 更改语言的方法
