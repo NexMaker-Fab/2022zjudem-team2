@@ -1,46 +1,46 @@
 <!-- Introduce newCAD/cad.md -->
-<h1 style="font-size:1.5vw"><span style="color:black">What Is AutoCAD?</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Qu'est-ce que AutoCAD?</span></h1>
 <br>
 
-[AutoCAD](https://www.autodesk.com/products/autocad/free-trial) is a computer-aided design software developed by the company Autodesk (hence the name AutoCAD). It allows you to draw and edit digital 2D and 3D designs more quickly and easily than you could by hand.
+[AutoCAD](https://www.autodesk.com/products/autocad/free-trial) est un logiciel de conception assistée par ordinateur développé par la société Autodesk (d'où le nom AutoCAD). Il vous permet de dessiner et de modifier des conceptions numériques 2D et 3D plus rapidement et facilement que vous ne le pourriez à la main.
 
-<br><h1 style="font-size:1.5vw"><span style="color:black">History</span></h1>
+<br><h1 style="font-size:1.5vw"><span style="color:black">Histoire</span></h1>
 <br>
 
-[AutoCAD](https://www.autodesk.com/products/autocad/free-trial) first became notable because it was the first [CAD](https://all3dp.com/2/what-is-cad-software/) program developed for PC use (instead of industrial computers) in the 1980s. With computer hardware becoming more capable, the company behind AutoCAD, Autodesk, wanted to make CAD accessible to more people. 
+[AutoCAD](https://www.autodesk.com/products/autocad/free-trial) s'est d'abord fait remarquer car il s'agissait du premier [CAD](https://all3dp.com/2/what-is-cad-software/) programme développé pour une utilisation sur PC (au lieu d'ordinateurs industriels) dans les années 1980s. Le matériel informatique devenant de plus en plus performant, la société à l'origine d'AutoCAD, Autodesk, souhaitait rendre la CAD accessible à davantage de personnes.. 
 <br><br>
-AutoCAD has remained the dominant program in many design industries because it’s continuously updated. There’s a new version released every year, and new features are always being added.
+AutoCAD est resté le programme dominant dans de nombreuses industries de conception car il est continuellement mis à jour. Une nouvelle version est publiée chaque année et de nouvelles fonctionnalités sont constamment ajoutées.
 
 <br><h1 style="font-size:1.5vw"><span style="color:black">Characteristics</span></h1>
-<br>AutoCAD’s core competency is 2D design. Its workspace is basically a drafting desk on your computer, and this hasn’t changed since its introduction.
+<br>La compétence principale d'AutoCAD est la conception 2D. Son espace de travail est essentiellement un bureau de dessin sur votre ordinateur, et cela n'a pas changé depuis son introduction.
 
 <br><br>
 
-At the same time, [AutoCAD](https://www.autodesk.com/products/autocad/free-trial) has kept up with the times. When 3D computer-aided design became popular, AutoCAD integrated corresponding capabilities to the rest of its feature toolbox.
+Dans le même temps, [AutoCAD](https://www.autodesk.com/products/autocad/free-trial) a évolué avec son temps. Lorsque la conception assistée par ordinateur 3D est devenue populaire, AutoCAD a intégré les fonctionnalités correspondantes au reste de sa boîte à outils de fonctionnalités.
 
 <br><br>
-In support of both 2D and 3D design, AutoCAD features a range of commands that help with precision, such as centering lines and marks automatically calculated from your design size and placement, drawing dimensions that can be set to fixed proportions, and geometric arrays that help you more quickly replicate patterns.
+Pour prendre en charge la conception 2D et 3D, AutoCAD propose une gamme de commandes qui contribuent à la précision, telles que les lignes de centrage et les marques automatiquement calculées à partir de la taille et de l'emplacement de votre conception, les dimensions de dessin qui peuvent être définies à des proportions fixes et les réseaux géométriques qui aident vous reproduisez plus rapidement les modèles.
 
 <br><br>
-For working in 3D, AutoCAD offers a variety of ways to view your design, so you can work on it at every angle. Whatever dimension you’re in, the software automatically saves useful design data for sharing and future reference. We’ll talk about specific features that are especially interesting in more detail later.
+Pour travailler en 3D, AutoCAD offre une variété de façons de visualiser votre conception, afin que vous puissiez y travailler sous tous les angles. Quelle que soit la dimension dans laquelle vous vous trouvez, le logiciel enregistre automatiquement les données de conception utiles pour le partage et la référence future. Nous parlerons des fonctionnalités spécifiques qui sont particulièrement intéressantes plus en détail plus tard.
 
-<br><h1 style="font-size:1.5vw"><span style="color:black">Here are a few other benefits of AutoCAD:</span></h1>
-Easy Edits
-<br>Faster Production
-<br>Better Accuracy
+<br><h1 style="font-size:1.5vw"><span style="color:black">Voici quelques autres avantages d'AutoCAD:</span></h1>
+Modifications faciles
+<br>Production plus rapide
+<br>Meilleure précision
 <br>
 
-[More](https://www.chartercollege.edu/news-hub/who-uses-autocad-and-why-it-important)
+[Plus](https://www.chartercollege.edu/news-hub/who-uses-autocad-and-why-it-important)
 
-<br><h1 style="font-size:1.5vw"><span style="color:black">Examples of CAD software: </span></h1>
+<br><h1 style="font-size:1.5vw"><span style="color:black">Exemples de logiciels de CAD: </span></h1>
 2D CAD
 <br>3D CAD
-<br>3D WIREFRAME AND SURFACE MODELLING
+<br>3D FILAIRE ET MODÉLISATION DE SURFACE
 
-<br><h1 style="font-size:1.5vw"><span style="color:black">SOLID MODELLING </span></h1>
+<br><h1 style="font-size:1.5vw"><span style="color:black">MODÉLISATION SOLIDE </span></h1>
 <br>
 
-Install [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
+Installer [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
 <br>
 
 [STEP 01] Go to https://www.autodesk.com/education/free-software/autocad on your Windows side, open a web browser (Chrome is recommended because the instructor tested).
@@ -67,14 +67,14 @@ Install [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
 [STEP 08] After installation, the software will require activation. Please use the license information.
 <br><h1 style="font-size:1.5vw"><span style="color:black">System Requirements </span></h1>
 <br>
-AutoCAD is generally compatible with both Windows and Mac operating systems. Its core program can run on either operating system with no issues.
-<br>However, when you get to the specialized tools, there are a couple of notable exceptions. If you need either of these features, make sure you’ll be able to use AutoCAD on a Windows machine:
+AutoCAD est généralement compatible avec les systèmes d'exploitation Windows et Mac. Son programme de base peut fonctionner sur l'un ou l'autre système d'exploitation sans aucun problème.
+<br>Cependant, lorsque vous accédez aux outils spécialisés, il existe quelques exceptions notables. Si vous avez besoin de l'une de ces fonctionnalités, assurez-vous de pouvoir utiliser AutoCAD sur une machine Windows.:
 <br><br>
-Specialized toolsets:Unfortunately, the parts of AutoCAD that contain industry-specific drafting tools, like AutoCAD Mechanical 3D and AutoCAD Raster Design, are only compatible with Windows.
+Jeux d'outils spécialisés : malheureusement, les parties d'AutoCAD qui contiennent des outils de dessin spécifiques à l'industrie, comme AutoCAD Mechanical 3D et AutoCAD Raster Design, ne sont compatibles qu'avec Windows..
 <br><br>
-3D mapping: A more generalized feature that helps anyone who designs in 3D, 3D mapping helps you place objects in your designed world. It’s especially useful for those who use AutoCAD for interior design or other whole-space creations.
+Cartographie 3D : une fonctionnalité plus générale qui aide toute personne qui conçoit en 3D, la cartographie 3D vous aide à placer des objets dans votre monde conçu. Il est particulièrement utile pour ceux qui utilisent AutoCAD pour la décoration intérieure ou d'autres créations d'espace entier.
 <br><br>
-<h1 style="font-size:1.5vw"><span style="color:black">With that said, here are the system requirements for AutoCAD 2020: </span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Cela dit, voici la configuration système requise pour AutoCAD 2020: </span></h1>
 <br><br>
 <h1 style="font-size:1.5vw"><span style="color:black">Windows </span></h1>
 <br>Versions: Windows 7 SP1, 8.1, or 10 (64-bit only)
