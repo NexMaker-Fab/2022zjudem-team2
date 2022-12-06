@@ -12,10 +12,11 @@
       - [1.AutoCAD](class/2cad/cad.md)
       - [2.Assessment](class/2cad/3d.md)
      
++ Laser cutting
+  - [Assessment](class/3ardla/laser.md) 
+
 + Arduino
-  - [1.About Arduino](https://www.arduino.cc/)
-  - [2.Arduino basic](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
-  - [3.Assessment](https://www.nexmaker.com/doc/5arduino/assessment.html) 
+  - [Assessment](class/3ardla/arduino.md) 
   
 + 3D Printer 
    - [Assessment](class/2cad/cadass.md)
