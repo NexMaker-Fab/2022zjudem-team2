@@ -101,5 +101,9 @@ In the Classic Family, you will find boards such as the legendary Arduino UNO an
                 </div>
             </div>
 
-[Check here for more](https://www.arduino.cc/en/hardware) 
+Check here for more about [Arduino Hardware](https://www.arduino.cc/en/hardware)
+<br>
+
+Click here for the [basics about Arduino](https://www.nexmaker.com/doc/5arduino/arduino_basic.html) and [download software](https://www.arduino.cc/en/software)
 <br><h1 style="font-size:1.5vw"><span style="color:black">About Arduino</span></h1>
+Arduino can sense the environment throught a variety of sensors, and feedback and influence the environment by controlling lights,motors and other devices. The microcontroller on the board can be programmed in the Arduino programming language, compiled into binary files. The programm is implemented using the Arduino programming language (based on wiring) and the Arduino development environment (based on processing). Arduino based projects can include only Arduino, or they can include Arduino and some other software running on a PC, and they communicate with each other (such as Flash, Processing, MaxMSP) to achieve. 
