@@ -107,3 +107,9 @@ Check here for more about [Arduino Hardware](https://www.arduino.cc/en/hardware)
 Click here for the [basics about Arduino](https://www.nexmaker.com/doc/5arduino/arduino_basic.html) and [download software](https://www.arduino.cc/en/software)
 <br><h1 style="font-size:1.5vw"><span style="color:black">About Arduino</span></h1>
 Arduino can sense the environment throught a variety of sensors, and feedback and influence the environment by controlling lights,motors and other devices. The microcontroller on the board can be programmed in the Arduino programming language, compiled into binary files. The programm is implemented using the Arduino programming language (based on wiring) and the Arduino development environment (based on processing). Arduino based projects can include only Arduino, or they can include Arduino and some other software running on a PC, and they communicate with each other (such as Flash, Processing, MaxMSP) to achieve. 
+
+<br><h1 style="font-size:1.5vw"><span style="color:black">Open Source</span></h1>
+
+1. Definition
+
+Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration. [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                                                                   
