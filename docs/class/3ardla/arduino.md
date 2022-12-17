@@ -148,7 +148,7 @@ Get started with Freshworks today! [Try Freshworks](https://www.freshworks.com/c
 
 <h1 style="font-size:1.5vw"><span style="color:black">Arduino Control</span></h1>
 
-1. Arduino IDE
+<h1 style="font-size:1.2vw"><span style="color:black">1.Arduino IDE</span></h1> 
 <br>
 
 The Arduino Integrated Development Environment - or [Arduino Software(IDE)](https://www.arduino.cc/en/software) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
@@ -281,3 +281,123 @@ Allows you to manage sketches with more than one file (each of which appears in 
 
 - [Nexmaker](https://www.nexmaker.com/doc/9IOT/NodeMCUESP8266_ALiYun.html)
 
+<h1 style="font-size:1.2vw"><span style="color:black">2.Arduino class works</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">Switch</span></h1>
+We can use swith to control the circuit, in this case we use pin 7 as input port
+<br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
+<div class="loader"><img src="images/switch.gif" alt="#" />
+<h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
+<h1 style="font-size:0.7vw"><span style="color:black">01.Description and Materials</span></h1>
+This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 
+<br>Material used are:
+
+- 1 Arduino Uno
+- 8 LEDs
+- 8 Resistors (220ohms)
+<h1 style="font-size:0.7vw"><span style="color:black">02.Codes</span></h1>
+
+```html
+const int LED1=8;
+const int LED2=7;
+const int LED3=6;
+const int LED4=5;
+const int LED5=4;
+const int LED6=3;
+const int LED7=2;
+const int LED8=1;
+void setup()
+{ 
+  pinMode(LED1, OUTPUT); 
+  pinMode(LED2, OUTPUT);
+  pinMode(LED3, OUTPUT);
+  pinMode(LED4, OUTPUT);
+  pinMode(LED5, OUTPUT); 
+  pinMode(LED6, OUTPUT);
+  pinMode(LED7, OUTPUT);
+  pinMode(LED8, OUTPUT);
+        
+}
+
+void loop()
+{
+    digitalWrite(LED1,HIGH);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,HIGH);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,HIGH);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,HIGH);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,HIGH);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,HIGH);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,HIGH);
+    digitalWrite(LED8,LOW);
+    delay(500);
+    digitalWrite(LED1,LOW);
+    digitalWrite(LED2,LOW);
+    digitalWrite(LED3,LOW);
+    digitalWrite(LED4,LOW);
+    digitalWrite(LED5,LOW);
+    digitalWrite(LED6,LOW);
+    digitalWrite(LED7,LOW);
+    digitalWrite(LED8,HIGH);
+    delay(500);
+}
+```
+<h1 style="font-size:0.7vw"><span style="color:black">03.Output</span></h1>
+<br><div class="loader"><img src="images/leds.png" alt="#" /></div>
+<div class="loader"><img src="images/leds.gif" alt="#" />
+<h1 style="font-size:0.7vw"><span style="color:black">04.Analysis</span></h1>
+The system run smoothly and without fault.
+
+<h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
