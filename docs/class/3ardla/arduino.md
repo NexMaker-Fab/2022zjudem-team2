@@ -115,7 +115,7 @@ Arduino can sense the environment throught a variety of sensors, and feedback an
 1. Definition
 
 Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration. [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                    <br>
-* Open Source Software
+2. Open Source Software
 <br>An Open-source software is a program that has publicly available code which anyone with technical expertise can use, modify and distribute. These types of software solutions don't always solve the same problems. In fact, most open-source software is geared towards different niche solutions. However, because it is accessible to the general public, it is typically very easy to obtain and incorporate into digital solutions.
 <br>Now, it is important to remember that just because open source software is free to use, it doesn't mean that just anyone can use it. Open-source software refers to lines of code (and its variations) that are available. So, depending on the type of this software, you'll likely still need a qualified software developer to inspect that code, customize the software to your specifications, and integrate it into your current operations.
 <br>
@@ -145,3 +145,10 @@ Get started with Freshworks today! [Try Freshworks](https://www.freshworks.com/c
 
 - [Open source software&Hardware](https://www.nexmaker.com/doc/5arduino/open_source.html)
 - [Open source Hardware wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_hardware)
+
+<h1 style="font-size:1.5vw"><span style="color:black">Arduino Control</span></h1>
+
+1. Arduino IDE
+<br>
+
+The Arduino Integrated Development Environment - or [Arduino Software(IDE)](https://www.arduino.cc/en/software) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
