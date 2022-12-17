@@ -453,4 +453,13 @@ void loop()
 <h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
 
+<h1 style="font-size:1vw"><span style="color:black">Arduino with Ultrasonic sensor</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
+
 <h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
+
+- [https://docs.arduino.cc/hardware/uno-rev3](https://docs.arduino.cc/hardware/uno-rev3)
+- [http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/liquidcrystal-library/](http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/liquidcrystal-library/)
+- [https://www.arduino.cc/reference/en/libraries/liquidcrystal/](https://www.arduino.cc/reference/en/libraries/liquidcrystal/)
+- [https://learn.adafruit.com/dht](https://learn.adafruit.com/dht)
+- [https://www.arduino.cc/reference/en/libraries/dht-sensor-library/](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/)
