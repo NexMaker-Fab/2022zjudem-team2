@@ -100,6 +100,8 @@ In the Classic Family, you will find boards such as the legendary Arduino UNO an
                     </div>
                 </div>
             </div>
+“Open hardware,” or “open source hardware,” refers to the design specifications of a physical object which are licensed in such a way that said object can be studied, modified, created, and distributed by anyone.
+<br>
 
 Check here for more about [Arduino Hardware](https://www.arduino.cc/en/hardware)
 <br>
@@ -112,4 +114,34 @@ Arduino can sense the environment throught a variety of sensors, and feedback an
 
 1. Definition
 
-Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration. [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                                                                   
+Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration. [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                    <br>
+* Open Source Software
+<br>An Open-source software is a program that has publicly available code which anyone with technical expertise can use, modify and distribute. These types of software solutions don't always solve the same problems. In fact, most open-source software is geared towards different niche solutions. However, because it is accessible to the general public, it is typically very easy to obtain and incorporate into digital solutions.
+<br>Now, it is important to remember that just because open source software is free to use, it doesn't mean that just anyone can use it. Open-source software refers to lines of code (and its variations) that are available. So, depending on the type of this software, you'll likely still need a qualified software developer to inspect that code, customize the software to your specifications, and integrate it into your current operations.
+<br>
+Open source CRM
+<br>CRM (customer relationship management) software allows companies to manage customer interactions and meet their requirements easier.
+<br>In other words, it helps businesses improve customer care which is essential in boosting client satisfaction and bringing profitability.  
+
+<br>This software makes it possible to stay organized and boost your productivity as well. There are different open source examples for CRM and they are usually free to download.
+
+<br>However, they do require technical ability to use and are customizable to your needs.
+<br>
+
+Example: [Freshworks](https://www.freshworks.com/crm/sales/?utm_source=DesignRush&utm_medium=blog&utm_campaign=develop_an_app)
+
+<br><div class="loader"><img src="images/Freshworks.jpg" alt="#" /></div>
+
+<br>Freshworks software fits businesses of all sizes and it allows them to manage contacts and develop customer success strategies.
+<br>This is an open source tool helping organizations boost customer engagement and drive more sales.
+<br>
+
+Some of its key features are lead management, email marketing, [IT integration management](https://www.designrush.com/agency/it-services/trends/it-integration), phone and email support.
+<br>
+
+Get started with Freshworks today! [Try Freshworks](https://www.freshworks.com/crm/sales/?utm_source=DesignRush&utm_medium=blog&utm_campaign=develop_an_app)
+
+<h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
+
+- [Open source software&Hardware](https://www.nexmaker.com/doc/5arduino/open_source.html)
+- [Open source Hardware wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_hardware)
