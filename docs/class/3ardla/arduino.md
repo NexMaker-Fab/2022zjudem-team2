@@ -287,14 +287,14 @@ We can use swith to control the circuit, in this case we use pin 7 as input port
 <br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
 <div class="loader"><img src="images/switch.gif" alt="#" />
 <h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
-<h1 style="font-size:0.7vw"><span style="color:black">01.Description and Materials</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 
 <br>Material used are:
 
 - 1 Arduino Uno
 - 8 LEDs
 - 8 Resistors (220ohms)
-<h1 style="font-size:0.7vw"><span style="color:black">02.Codes</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
 
 ```html
 const int LED1=8;
@@ -394,10 +394,10 @@ void loop()
     delay(500);
 }
 ```
-<h1 style="font-size:0.7vw"><span style="color:black">03.Output</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
 <br><div class="loader"><img src="images/leds.png" alt="#" /></div>
 <div class="loader"><img src="images/leds.gif" alt="#" />
-<h1 style="font-size:0.7vw"><span style="color:black">04.Analysis</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
 
 <h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
