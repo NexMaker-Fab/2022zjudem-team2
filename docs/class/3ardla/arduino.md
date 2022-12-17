@@ -285,7 +285,7 @@ Allows you to manage sketches with more than one file (each of which appears in 
 <h1 style="font-size:1vw"><span style="color:black">Switch</span></h1>
 We can use swith to control the circuit, in this case we use pin 7 as input port
 <br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
-<div class="loader"><img src="images/switch.gif" alt="#" />
+<div class="loader"><img src="images/switch.gif" alt="switch.gif"max-width="800" height="500" />
 <h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 
@@ -396,7 +396,60 @@ void loop()
 ```
 <h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
 <br><div class="loader"><img src="images/leds.png" alt="#" /></div>
-<div class="loader"><img src="images/leds.gif" alt="#" />
+<div class="loader"><img src="images/leds.gif" alt="leds.gif"max-width="600" height="1200" />
+<h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
+The system run smoothly and without fault.
+<h1 style="font-size:1vw"><span style="color:black">Humidity/Temperature sensors</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
+This is a simple humidity and temperature sensor circuit that detect a room temperature and humidity with a delay time of 1 second.
+<br>Material used are:
+
+- 1 Arduino Uno
+- DHT11
+- 1 Resistors (4.7Kohms)
+<h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
+
+```html
+
+#include "dht.h"  //call library file
+
+dht DHT;
+
+#define DHT11_PIN A0     // put the sensor in the digital pin A0
+
+void setup() 
+{
+  Serial.begin(9600);
+  Serial.println("DHT TEST PROGRAM");
+  Serial.print("LIBRARY VERSION:");
+  Serial.println(DHT_LIB_VERSION);
+  Serial.println();
+  Serial.println("Type,\tstatus,\tHumidity %),\tTemperature (C)");
+}
+
+void loop()
+{
+  //READ DATA
+  Serial.print("DHT11, \t");
+  int chk = DHT.read11 (DHT11_PIN);
+  switch (chk)
+  {
+    case 0: Serial.print("OK,\t"); break;
+    case -1: Serial.print("Checksum error,\t"); break;
+    case -2: Serial.print("Time out error,\t"); break;
+    default: Serial.print("Unknown error,\t"); break;
+  }
+  // DISPLAT DATA
+  Serial.print(DHT.humidity, 1);
+  Serial.print(",\t");
+  Serial.println(DHT.temperature, 1);
+  delay(1000);
+}
+
+```
+<h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
+<br><div class="loader"><img src="images/temperature.png" alt="#" /></div>
+<br><div class="loader"><img src="images/temperature.jpg" alt="#" /></div>
 <h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
 
