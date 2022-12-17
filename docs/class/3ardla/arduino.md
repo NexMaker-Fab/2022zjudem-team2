@@ -152,3 +152,132 @@ Get started with Freshworks today! [Try Freshworks](https://www.freshworks.com/c
 <br>
 
 The Arduino Integrated Development Environment - or [Arduino Software(IDE)](https://www.arduino.cc/en/software) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
+<h1 style="font-size:1vw"><span style="color:black">Writing Sketches</span></h1>
+<br>Programs written using Arduino Software (IDE) are called sketches. These sketches are written in the text editor and are saved with the file extension .ino. The editor has features for cutting/pasting and for searching/replacing text. The message area gives feedback while saving and exporting and also displays errors. The console displays text output by the Arduino Software (IDE), including complete error messages and other information. The bottom righthand corner of the window displays the configured board and serial port. The toolbar buttons allow you to verify and upload programs, create, open, and save sketches, and open the serial monitor.
+<br>Verify Checks your code for errors compiling it.
+<br>Upload Compiles your code and uploads it to the configured board. See uploading below for details.
+<br>Note: If you are using an external programmer with your board, you can hold down the "shift" key on your computer when using this icon. The text will change to "Upload using Programmer"
+<br>New Creates a new sketch.
+<br>Open Presents a menu of all the sketches in your sketchbook. Clicking one will open it within the current window overwriting its content.
+
+<br>Note: due to a bug in Java, this menu doesn't scroll; if you need to open a sketch late in the list, use the File | Sketchbook menu instead.
+<br>Save Saves your sketch.
+<br>Serial Monitor Opens the serial monitor.
+
+<br>Additional commands are found within the five menus: File, Edit, Sketch, Tools, Help. The menus are context sensitive, which means only those items relevant to the work currently being carried out are available.
+<br><div class="loader"><img src="images/ide.jpg" alt="#" /></div>
+<br>File
+
+- New Creates a new instance of the editor, with the bare minimum structure of a sketch already in place.
+
+- Open Allows to load a sketch file browsing through the computer drives and folders.
+
+- Open Recent Provides a short list of the most recent sketches, ready to be opened.
+
+- Sketchbook Shows the current sketches within the sketchbook folder structure; clicking on any name opens the corresponding sketch in a new editor instance.
+
+- Examples Any example provided by the Arduino Software (IDE) or library shows up in this menu item. All the examples are structured in a tree that allows easy access by topic or library.
+
+- Close Closes the instance of the Arduino Software from which it is clicked.
+
+- Save Saves the sketch with the current name. If the file hasn't been named before, a name will be provided in a "Save as.." window.
+
+- Save as... Allows to save the current sketch with a different name.
+
+- Page Setup It shows the Page Setup window for printing.
+
+- Print Sends the current sketch to the printer according to the settings defined in Page Setup.
+
+- Preferences Opens the Preferences window where some settings of the IDE may be customized, as the language of the IDE interface.
+
+- Quit Closes all IDE windows. The same sketches open when Quit was chosen will be automatically reopened the next time you start the IDE.
+<br>Edit
+
+- Undo/Redo Goes back of one or more steps you did while editing; when you go back, you may go forward with Redo.
+
+- Cut Removes the selected text from the editor and places it into the clipboard.
+
+- Copy Duplicates the selected text in the editor and places it into the clipboard.
+
+- Copy for Forum Copies the code of your sketch to the clipboard in a form suitable for posting to the forum, complete with syntax coloring.
+
+- Copy as HTML Copies the code of your sketch to the clipboard as HTML, suitable for embedding in web pages.
+
+- Paste Puts the contents of the clipboard at the cursor position, in the editor.
+
+- Select All Selects and highlights the whole content of the editor.
+
+- Comment/Uncomment Puts or removes the // comment marker at the beginning of each selected line.
+
+- Increase/Decrease Indent Adds or subtracts a space at the beginning of each selected line, moving the text one space on the right or eliminating a space at the beginning.
+
+- Find Opens the Find and Replace window where you can specify text to search inside the current sketch according to several options.
+
+- Find Next Highlights the next occurrence - if any - of the string specified as the search item in the Find window, relative to the cursor position.
+
+- Find Previous Highlights the previous occurrence - if any - of the string specified as the search item in the Find window relative to the cursor position.
+<br>Sketch
+
+- Verify/Compile Checks your sketch for errors compiling it; it will report memory usage for code and variables in the console area.
+
+- Upload Compiles and loads the binary file onto the configured board through the configured Port.
+
+- Upload Using Programmer This will overwrite the bootloader on the board; you will need to use Tools > Burn Bootloader to restore it and be able to Upload to USB serial port again. However, it allows you to use the full capacity of the Flash memory for your sketch. Please note that this command will NOT burn the fuses. To do so a Tools -> Burn Bootloader command must be executed.
+
+- Export Compiled Binary Saves a .hex file that may be kept as archive or sent to the board using other tools.
+
+- Show Sketch Folder Opens the current sketch folder.
+
+- Include Library Adds a library to your sketch by inserting #include statements at the start of your code. For more details, see libraries below. Additionally, from this menu item you can access the Library Manager and import new libraries from .zip files.
+
+- Add File... Adds a supplemental file to the sketch (it will be copied from its current location). The file is saved to the data subfolder of the sketch, which is intended for assets such as documentation. The contents of the data folder are not compiled, so they do not become part of the sketch program.
+
+<br>Tools
+
+- Auto Format This formats your code nicely: i.e. indents it so that opening and closing curly braces line up, and that the statements inside curly braces are indented more.
+
+- Archive Sketch Archives a copy of the current sketch in .zip format. The archive is placed in the same directory as the sketch.
+
+- Fix Encoding & Reload Fixes possible discrepancies between the editor char map encoding and other operating systems char maps.
+
+- Serial Monitor Opens the serial monitor window and initiates the exchange of data with any connected board on the currently selected Port. This usually resets the board, if the board supports Reset over serial port opening.
+
+- Board Select the board that you're using. See below for descriptions of the various boards.
+
+- Port This menu contains all the serial devices (real or virtual) on your machine. It should automatically refresh every time you open the top-level tools menu.
+
+- Programmer For selecting a hardware programmer when programming a board or chip and not using the onboard USB-serial connection. Normally you won't need this, but if you're burning a bootloader to a new microcontroller, you will use this.
+
+- Burn Bootloader The items in this menu allow you to burn a bootloader onto the microcontroller on an Arduino board. This is not required for normal use of an Arduino board but is useful if you purchase a new ATmega microcontroller (which normally come without a bootloader). Ensure that you've selected the correct board from the Boards menu before burning the bootloader on the target board. This command also set the right fuses.
+
+<br>Help
+
+- Here you find easy access to a number of documents that come with the Arduino Software (IDE). You have access to Getting Started, Reference, this guide to the IDE and other documents locally, without an internet connection. The documents are a local copy of the online ones and may link back to our online website.
+
+- Find in Reference This is the only interactive function of the Help menu: it directly selects the relevant page in the local copy of the Reference for the function or command under the cursor.
+Sketchbook
+- The Arduino Software (IDE) uses the concept of a sketchbook: a standard place to store your programs (or sketches). The sketches in your sketchbook can be opened from the File > Sketchbook menu or from the Open button on the toolbar. The first time you run the Arduino software, it will automatically create a directory for your sketchbook. You can view or change the location of the sketchbook location from with the Preferences dialog.
+
+- Beginning with version 1.0, files are saved with a .ino file extension. Previous versions use the .pde extension. You may still open .pde named files in version 1.0 and later, the software will automatically rename the extension to .ino.
+
+- Tabs, Multiple Files, and Compilation
+Allows you to manage sketches with more than one file (each of which appears in its own tab). These can be normal Arduino code files (no visible extension), C files (.c extension), C++ files (.cpp), or header files (.h).
+
+- Before compiling the sketch, all the normal Arduino code files of the sketch (.ino, .pde) are concatenated into a single file following the order the tabs are shown in. The other file types are left as is.
+
+<br>Uploading
+
+- Before uploading your sketch, you need to select the correct items from the Tools > Board and Tools > Port menus. The boards are described below. On the Mac, the serial port is probably something like /dev/tty.usbmodem241 (for an UNO or Mega2560 or Leonardo) or /dev/tty.usbserial-1B1 (for a Duemilanove or earlier USB board), or /dev/tty.USA19QW1b1P1.1 (for a serial board connected with a Keyspan USB-to-Serial adapter). On Windows, it's probably COM1 or COM2 (for a serial board) or COM4, COM5, COM7, or higher (for a USB board) - to find out, you look for USB serial device in the ports section of the Windows Device Manager. On Linux, it should be /dev/ttyACMx , /dev/ttyUSBx or similar. Once you've selected the correct serial port and board, press the upload button in the toolbar or select the Upload item from the Sketch menu. Current Arduino boards will reset automatically and begin the upload. With older boards (pre-Diecimila) that lack auto-reset, you'll need to press the reset button on the board just before starting the upload. On most boards, you'll see the RX and TX LEDs blink as the sketch is uploaded. The Arduino Software (IDE) will display a message when the upload is complete, or show an error.
+
+- When you upload a sketch, you're using the Arduino bootloader, a small program that has been loaded on to the microcontroller on your board. It allows you to upload code without using any additional hardware. The bootloader is active for a few seconds when the board resets; then it starts whichever sketch was most recently uploaded to the microcontroller. The bootloader will blink the on-board (pin 13) LED when it starts (i.e. when the board resets).
+
+<br>Libraries
+
+- Libraries provide extra functionality for use in sketches, e.g. working with hardware or manipulating data. To use a library in a sketch, select it from the Sketch > Import Library menu. This will insert one or more #include statements at the top of the sketch and compile the library with your sketch. Because libraries are uploaded to the board with your sketch, they increase the amount of space it takes up. If a sketch no longer needs a library, simply delete its #include statements from the top of your code.
+
+- There is a list of libraries in the reference. Some libraries are included with the Arduino software. Others can be downloaded from a variety of sources or through the Library Manager. Starting with version 1.0.5 of the IDE, you do can import a library from a zip file and use it in an open sketch. See these instructions for installing a third-party library.
+
+<h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
+
+- [Nexmaker](https://www.nexmaker.com/doc/9IOT/NodeMCUESP8266_ALiYun.html)
+
