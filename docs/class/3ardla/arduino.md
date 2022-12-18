@@ -145,6 +145,8 @@ Get started with Freshworks today! [Try Freshworks](https://www.freshworks.com/c
 
 - [Open source software&Hardware](https://www.nexmaker.com/doc/5arduino/open_source.html)
 - [Open source Hardware wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_hardware)
+<br>
+<br>
 
 <h1 style="font-size:1.5vw"><span style="color:black">Arduino Control</span></h1>
 
@@ -453,8 +455,27 @@ void loop()
 <h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
 
-<h1 style="font-size:1vw"><span style="color:black">Arduino with Ultrasonic sensor</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">DIY Security Alarm using LCD and Ultrasonic sensor.</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
+This is a simple Security alarm system that displays the level of risk. It makes different type of alerting sound based on distance, it also bright different type of LED based on distance.
+<br>Material used are:
+
+- 1 Arduino Uno
+- 1 green LED
+- 4 red LED
+- LCD display screen
+- Ultrasonic sensor
+- Buzzer
+- 1 Resistors (1Kohms)
+<h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
+
+```html
+
+```
+<h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
+
+<h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
+The system run smoothly and without fault.
 
 <h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
 

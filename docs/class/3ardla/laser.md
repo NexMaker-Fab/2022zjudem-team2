@@ -1,5 +1,20 @@
 <!-- lasercutting/laser.md -->
-<h1 style="font-size:2vw"><span style="color:black">I. SAFETY INSTRUCTION</span></h1>
+<h1 style="font-size:2vw"><span style="color:black">I. LASER CUTTING</span></h1>
+<br>What is it? 
+<br>Laser cutting is a technology that uses a laser to cut or engrave material based on computer-controlled parameters. The powerful and highly accurate laser focuses on a small area of the material. The laser can cut through different kinds of materials like: plastics, woods, rubbers, foams, papers, acrylics, fabrics and some even metal.
+
+<br>There are several techniques that can be performed with a laser cutter.
+
+<br>Laser marking: involves the melting of a surface layer of a material to leave a mark behind.
+<br>Laser engraving: is similar to laser marking, with the difference being that the aim here is to create a deep engraved mark.
+<br>Laser cutting: is a process where material is cut, and this can be for small and fine materials or materials with a much greater level of thickness.
+<br>Laser drilling: involves the creation of popped holes or dents in a material, which is achieved by pulsing a laser beam on a particular area repeatedly.
+<br>Laser welding: is the process of welding materials together, whether this is one piece or multiple pieces of similar or dissimilar materials.
+<h1 style="font-size:1vw"><span style="color:red">Reference</span></h1>
+
+- [Fabacademy](https://fabacademy.org/2019/labs/kamplintfort/students/alessandra-crotty/week3.html#eins)
+
+<h1 style="font-size:2vw"><span style="color:black">II. SAFETY INSTRUCTION</span></h1>
 <br>
 
 <h1 style="font-size:1vw"><span style="color:red">1. Introduction</span></h1>
@@ -33,4 +48,5 @@ During normal operation, the machine is enclosed and laser classification is Cla
 
 <h1 style="font-size:1vw"><span style="color:red">Reference</span></h1>
 
-<h1 style="font-size:2vw"><span style="color:black">II. DESIGN GUIDE</span></h1>
+- [Nexmaker](https://www.nexmaker.com/doc/6laser_cutter/Safety.html)
+<h1 style="font-size:2vw"><span style="color:black">III. DESIGN GUIDE</span></h1>
