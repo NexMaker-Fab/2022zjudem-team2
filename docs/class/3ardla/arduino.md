@@ -470,6 +470,7 @@ This is a simple Security alarm system that displays the level of risk. It makes
 <h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
 
 ```html
+
 #include<LiquidCrystal.h>
 
 int trig = 8;
