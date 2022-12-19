@@ -291,6 +291,7 @@ We can use swith to control the circuit, in this case we use pin 7 as input port
 <h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 
+
 <br>Material used are:
 
 - 1 Arduino Uno
@@ -458,6 +459,7 @@ The system run smoothly and without fault.
 <h1 style="font-size:1vw"><span style="color:black">DIY Security Alarm using LCD and Ultrasonic sensor.</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a simple Security alarm system that displays the level of risk. It makes different type of alerting sound based on distance, it also bright different type of LED based on distance.
+
 <br>Material used are:
 
 - 1 Arduino Uno
@@ -613,6 +615,13 @@ void loop()
 
 <h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
+<br>This project will help the People to identify the Distance of an object from the Sensor and shows the level of Risk through LED, LCD and Buzzer.
+
+It's Glows different type of LED based on Distance and Make Different type of Alarm
+
+When there is no Object it Glows green LED and Display Safe no Risk on LCD
+
+You can Change distance as per your requirement, you can change color of LED you can change beeping of Alarm as per your Requirement
 
 <h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
 
