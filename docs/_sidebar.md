@@ -3,29 +3,29 @@
 
 - TEAM MANAGE
 
- + Project Management
+ + PROJECT MANAGEMENT
       
       - [How to build web](class/1pm/1pm-web.md)
       
- + CAD Design
+ + CAD DESIGN
       
       - [1.AutoCAD](class/2cad/cad.md)
       - [2.Assessment](class/2cad/3d.md)
      
-+ Laser cutting
++ LASER CUTTING
   - [Assessment](class/3ardla/laser.md) 
 
-+ Arduino
++ ARDUINO
   - [Assessment](class/3ardla/arduino.md) 
 
-+ Processing
++ PROCESSING
   - [Assessment](class/3ardla/processing.md)
   
-+ 3D Printer 
++ 3D PRINTER 
    - [Assessment](class/2cad/cadass.md)
    - [Postprocess](class/2cad/process.md)
 
-+ Final project
++ FINAL PROJECT
    - [1.Topic](project/assessment.md)
    - [2.Contents](project/intro.md)
 
