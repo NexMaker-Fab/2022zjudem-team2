@@ -49,4 +49,49 @@ During normal operation, the machine is enclosed and laser classification is Cla
 <h1 style="font-size:1vw"><span style="color:red">Reference</span></h1>
 
 - [Nexmaker](https://www.nexmaker.com/doc/6laser_cutter/Safety.html)
-<h1 style="font-size:2vw"><span style="color:black">III. DESIGN GUIDE</span></h1>
+<h1 style="font-size:2vw"><span style="color:black">III. MATERIALS</span></h1>
+
+- Paper
+- Acrylic
+- Wood
+<h1 style="font-size:2vw"><span style="color:black">IV. MACHINE PREPARATION</span></h1>
+Make sure to check all connections, this includes the power socket for the laser cutter, the smoke exhaust fan which should be open and running, the water tank, and the pump.
+<h1 style="font-size:2vw"><span style="color:black">V. RUNNING THE MACHINE</span></h1>
+Turn on the laser cutter. place the material flat on the platform. place a block between the nozzle and material. rise platform to min the gap. 
+<h1 style="font-size:2vw"><span style="color:black">Power and Speed Demo</span></h1>
+<br><div class="loader"><img src="images/laserdemo.webp" alt="#" /></div>
+We create a demo which can check the best parameter. it is a 7 piece cutting demo with powers; 90,80,70,60,50,40,30 and a speed of 70mm/s.
+The squares are drawn in fusion360 and imported into LaserCAD as a DXF file.
+<br><div class="loader"><img src="images/laserdemo4.webp" alt="#" /></div>
+<br><div class="loader"><img src="images/laserdemo1.webp" alt="#" /></div>
+Each square is given an individual color during information insertion. the power and speed is also inserted and then the computer is connected to the machine and the process may begin
+<br><div class="loader"><img src="images/laserdemo3.webp" alt="#" /></div>
+<br><div class="loader"><img src="images/lasertable.webp" alt="#" /></div>
+<br><div class="loader"><img src="images/laserdemo2.webp" alt="#" /></div>
+The cutter successfully cut through with powers, 80, 70, 60 and 50. it did not successfully cut through powers 40 and 30.
+
+<h1 style="font-size:2vw"><span style="color:black">Laser Cut Christmas Tree</span></h1>
+
+-Step1: Material and Drawings
+<br>
+
+We first created all the components of the tree in [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
+<br><div class="loader"><img src="images/laserdraw.jpg" alt="#" /></div>
+
+- Step2:Next save all the components into your computer as DXF files
+<br><div class="loader"><img src="images/laserdxf.jpg" alt="#" /></div>
+
+- Step3:open the files in laser CAD, set the power and speed and download them into the laser cutter and cut.
+<br><div class="loader"><img src="images/laserset.jpg" alt="#" /></div>
+<div class="loader"><img src="images/laser.gif" alt="laser.gif"max-width="1000" height="500" />
+
+- Step4:Finally get all the components and assemble them.
+<br>Assembling the tree is quite easy. Start with the round base and add the two panels with the central piece. Then add the biggest leaves piece and add three bings rings. Add the slightly smaller leaves piece, three rings and repeat until four leaves pieces are stacked. Then add one big ring and two small ones. Add the remaining pieces like before.
+
+At the top I added a smaller ring to make a nice finish. The star then fits inside the slot at the top. A drop of glue can help it to stay in place if needed.
+
+<br><div class="loader"><img src="images/treepieces.webp" alt="#" /></div>
+<br><div class="loader"><img src="images/tree1.webp" alt="#" /></div>
+<br><div class="loader"><img src="images/tree2.webp" alt="#" /></div>
+<br>Here is the final result
+<br><div class="loader"><img src="images/tree3.webp" alt="#" /></div>
