@@ -1,23 +1,27 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - GESTION D'EQUIPE
 
- + Gestion de Projet
+ + GESTION DE PROJET
       - [Comment contruire un Site Web](Fr/class/1pm/1pm-web.md)
     
-+ CAD Design
++ CONCEPTION CAD
     - [1.AutoCAD](Fr/class/2cad/cad.md)
     - [2.Exercices](Fr/class/2cad/3d.md) 
 
-+ Arduino
-  - [1.A propos de Arduino](https://www.arduino.cc/)
-  - [2.Les base d'Arduino](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
-  - [3.Exercices](https://www.nexmaker.com/doc/5arduino/assessment.html) 
++ DÉCOUPE AU LASER
+  - [Exercices](Fr/class/3ardla/laser.md) 
+
++ ARDUINO
+  - [Exercices](Fr/class/3ardla/arduino.md)
+
++ EN TRAITEMENT
+  - [Exercices](Fr/class/3ardla/processing.md)
   
-+ Imprimente 3D
-   - [2.Exercices](Fr/class/2cad/cadass.md)
++ IMPRIMENTE 3D
+   - [Exercices](Fr/class/2cad/cadass.md)
    - [Postprocess](Fr/class/2cad/process.md) 
 
-+ Projet Final
++ PROJET FINAL
    - [1.Les sujets](Fr/project/assessment.md)
    - [2.contenu](Fr/project/intro.md)
    
