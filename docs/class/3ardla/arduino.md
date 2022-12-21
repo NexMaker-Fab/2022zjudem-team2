@@ -112,10 +112,10 @@ Arduino can sense the environment throught a variety of sensors, and feedback an
 
 <br><h1 style="font-size:1.5vw"><span style="color:black">Open Source</span></h1>
 
-1. Definition
+<br><h1 style="font-size:1vw"><span style="color:black">1. Definition</span></h1>
 
 Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration. [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                    <br>
-2. Open Source Software
+<br><h1 style="font-size:1vw"><span style="color:black">2. Open Source Software</span></h1>
 <br>An Open-source software is a program that has publicly available code which anyone with technical expertise can use, modify and distribute. These types of software solutions don't always solve the same problems. In fact, most open-source software is geared towards different niche solutions. However, because it is accessible to the general public, it is typically very easy to obtain and incorporate into digital solutions.
 <br>Now, it is important to remember that just because open source software is free to use, it doesn't mean that just anyone can use it. Open-source software refers to lines of code (and its variations) that are available. So, depending on the type of this software, you'll likely still need a qualified software developer to inspect that code, customize the software to your specifications, and integrate it into your current operations.
 <br>
@@ -168,7 +168,7 @@ The Arduino Integrated Development Environment - or [Arduino Software(IDE)](http
 
 <br>Additional commands are found within the five menus: File, Edit, Sketch, Tools, Help. The menus are context sensitive, which means only those items relevant to the work currently being carried out are available.
 <br><div class="loader"><img src="images/ide.jpg" alt="#" /></div>
-<br>File
+<br><h1 style="font-size:1vw"><span style="color:black">File</span></h1>
 
 - New Creates a new instance of the editor, with the bare minimum structure of a sketch already in place.
 
@@ -193,7 +193,7 @@ The Arduino Integrated Development Environment - or [Arduino Software(IDE)](http
 - Preferences Opens the Preferences window where some settings of the IDE may be customized, as the language of the IDE interface.
 
 - Quit Closes all IDE windows. The same sketches open when Quit was chosen will be automatically reopened the next time you start the IDE.
-<br>Edit
+<br><br><h1 style="font-size:1vw"><span style="color:black">Edit</span></h1>
 
 - Undo/Redo Goes back of one or more steps you did while editing; when you go back, you may go forward with Redo.
 
@@ -218,7 +218,7 @@ The Arduino Integrated Development Environment - or [Arduino Software(IDE)](http
 - Find Next Highlights the next occurrence - if any - of the string specified as the search item in the Find window, relative to the cursor position.
 
 - Find Previous Highlights the previous occurrence - if any - of the string specified as the search item in the Find window relative to the cursor position.
-<br>Sketch
+<br><br><h1 style="font-size:1vw"><span style="color:black">Sketch</span></h1>
 
 - Verify/Compile Checks your sketch for errors compiling it; it will report memory usage for code and variables in the console area.
 
@@ -234,7 +234,7 @@ The Arduino Integrated Development Environment - or [Arduino Software(IDE)](http
 
 - Add File... Adds a supplemental file to the sketch (it will be copied from its current location). The file is saved to the data subfolder of the sketch, which is intended for assets such as documentation. The contents of the data folder are not compiled, so they do not become part of the sketch program.
 
-<br>Tools
+<br><br><h1 style="font-size:1vw"><span style="color:black">Tools</span></h1>
 
 - Auto Format This formats your code nicely: i.e. indents it so that opening and closing curly braces line up, and that the statements inside curly braces are indented more.
 
@@ -252,7 +252,7 @@ The Arduino Integrated Development Environment - or [Arduino Software(IDE)](http
 
 - Burn Bootloader The items in this menu allow you to burn a bootloader onto the microcontroller on an Arduino board. This is not required for normal use of an Arduino board but is useful if you purchase a new ATmega microcontroller (which normally come without a bootloader). Ensure that you've selected the correct board from the Boards menu before burning the bootloader on the target board. This command also set the right fuses.
 
-<br>Help
+<br><br><h1 style="font-size:1vw"><span style="color:black">Help</span></h1>
 
 - Here you find easy access to a number of documents that come with the Arduino Software (IDE). You have access to Getting Started, Reference, this guide to the IDE and other documents locally, without an internet connection. The documents are a local copy of the online ones and may link back to our online website.
 
@@ -267,13 +267,13 @@ Allows you to manage sketches with more than one file (each of which appears in 
 
 - Before compiling the sketch, all the normal Arduino code files of the sketch (.ino, .pde) are concatenated into a single file following the order the tabs are shown in. The other file types are left as is.
 
-<br>Uploading
+<br><br><h1 style="font-size:1vw"><span style="color:black">Uploading</span></h1>
 
 - Before uploading your sketch, you need to select the correct items from the Tools > Board and Tools > Port menus. The boards are described below. On the Mac, the serial port is probably something like /dev/tty.usbmodem241 (for an UNO or Mega2560 or Leonardo) or /dev/tty.usbserial-1B1 (for a Duemilanove or earlier USB board), or /dev/tty.USA19QW1b1P1.1 (for a serial board connected with a Keyspan USB-to-Serial adapter). On Windows, it's probably COM1 or COM2 (for a serial board) or COM4, COM5, COM7, or higher (for a USB board) - to find out, you look for USB serial device in the ports section of the Windows Device Manager. On Linux, it should be /dev/ttyACMx , /dev/ttyUSBx or similar. Once you've selected the correct serial port and board, press the upload button in the toolbar or select the Upload item from the Sketch menu. Current Arduino boards will reset automatically and begin the upload. With older boards (pre-Diecimila) that lack auto-reset, you'll need to press the reset button on the board just before starting the upload. On most boards, you'll see the RX and TX LEDs blink as the sketch is uploaded. The Arduino Software (IDE) will display a message when the upload is complete, or show an error.
 
 - When you upload a sketch, you're using the Arduino bootloader, a small program that has been loaded on to the microcontroller on your board. It allows you to upload code without using any additional hardware. The bootloader is active for a few seconds when the board resets; then it starts whichever sketch was most recently uploaded to the microcontroller. The bootloader will blink the on-board (pin 13) LED when it starts (i.e. when the board resets).
 
-<br>Libraries
+<br><br><h1 style="font-size:1vw"><span style="color:black">Libraries</span></h1>
 
 - Libraries provide extra functionality for use in sketches, e.g. working with hardware or manipulating data. To use a library in a sketch, select it from the Sketch > Import Library menu. This will insert one or more #include statements at the top of the sketch and compile the library with your sketch. Because libraries are uploaded to the board with your sketch, they increase the amount of space it takes up. If a sketch no longer needs a library, simply delete its #include statements from the top of your code.
 
@@ -294,9 +294,10 @@ This is a eight lights circuit which has a delay time that makes the LED lights 
 
 <br>Material used are:
 
-- 1 Arduino Uno
-- 8 LEDs
-- 8 Resistors (220ohms)
+  - 1 Arduino Uno
+  - 8 LEDs
+  - 8 Resistors (220ohms)
+
 <h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
 
 ```html
@@ -407,9 +408,10 @@ The system run smoothly and without fault.
 This is a simple humidity and temperature sensor circuit that detect a room temperature and humidity with a delay time of 1 second.
 <br>Material used are:
 
-- 1 Arduino Uno
-- DHT11
-- 1 Resistors (4.7Kohms)
+   - 1 Arduino Uno
+   - DHT11
+   - 1 Resistors (4.7Kohms)
+
 <h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
 
 ```html
@@ -462,13 +464,14 @@ This is a simple Security alarm system that displays the level of risk. It makes
 
 <br>Material used are:
 
-- 1 Arduino Uno
-- 1 green LED
-- 4 red LED
-- LCD display screen
-- Ultrasonic sensor
-- Buzzer
-- 1 Resistors (1Kohms)
+   - 1 Arduino Uno
+   - 1 green LED
+   - 4 red LED
+   - LCD display screen
+   - Ultrasonic sensor
+   - Buzzer
+   - 1 Resistors (1Kohms)
+
 <h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
 
 ```html
