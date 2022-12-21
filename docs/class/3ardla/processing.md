@@ -316,3 +316,162 @@ float sinecolor(float percent)
 ```
 
 - [Reference](https://openprocessing.org/sketch/50988/#)
+
+<h1 style="font-size:1vw"><span style="color:black">Demo Processing communicate with Arduino</span>: Control Arduino Using GUI</h1>
+In this demo we will show how to control LEDs using processing, it's a verfy interesting project to create GUI
+
+<h1 style="font-size:1vw"><span style="color:black">Material used are:</span></h1>
+
+   - 1 Arduino Nano V3
+   - 1 green LED
+   - 1 red LED
+   - 1 bleu LED
+   - Breadboard (generic)
+   - 3 Resistors (220ohms)
+   - jumper wires
+
+<h1 style="font-size:1vw"><span style="color:black">Circuit Diagram:</span></h1>
+<br><div class="loader"><img src="images/ledsgui.jpg" alt="#" /></div>
+   
+<h1 style="font-size:1vw"><span style="color:black">Processing Codes</span></h1>
+
+```html
+
+import controlP5.*;                              //import ControlP5 library
+import processing.serial.*;
+
+Serial port;
+
+ControlP5 cp5;                                   //create ControlP5 object
+PFont font;
+
+void setup() {
+
+  size(480, 360);                                //window size, (width, height)
+  port = new Serial(this, "COM10", 9600);         //Change Your COM Port Here
+
+  cp5 = new ControlP5(this);
+  font = createFont("calibri light bold", 20);   //Custom Font
+
+  cp5.addButton("red_on")                        //Name of the Button
+    .setPosition(40, 60)                         //(x,y) top left Corner
+    .setSize(180, 60)                            //(width, height)
+    .setFont(font)
+    .setColorBackground(color(255, 0, 0))
+    ;   
+  cp5.addButton("red_off")                       //Name of the Button
+    .setPosition(260, 60)                        //(x,y) top left Corner
+    .setSize(180, 60)                            //(width, height)
+    .setFont(font)
+    .setColorBackground(color(255, 0, 0))
+    ;   
+
+  cp5.addButton("green_on")                      //Name of the Button
+    .setPosition(40, 160)                        //(x,y) top left Corner
+    .setSize(180, 60)                            //(width, height)
+    .setFont(font)
+    .setColorBackground(color(0, 255, 0))
+    ;
+  cp5.addButton("green_off")                     //Name of the Button
+    .setPosition(260, 160)                       //(x,y) top left Corner
+    .setSize(180, 60)                            //(width, height)
+    .setFont(font)
+    .setColorBackground(color(0, 255, 0))
+    ;
+
+  cp5.addButton("blue_on")                       //Name of the Button
+    .setPosition(40, 260)                        //(x,y) top left Corner
+    .setSize(180, 60)                            //(width, height)
+    .setFont(font)
+    .setColorBackground(color(0, 0, 255))
+    ;
+  cp5.addButton("blue_off")                      //Name of the Button
+    .setPosition(260, 260)                       //(x,y) top left Corner
+    .setSize(180, 60)                            //(width, height)
+    .setFont(font)
+    .setColorBackground(color(0, 0, 255))
+    ;
+}
+
+void draw() {
+
+  background(50, 50, 50);                        //background color of window (r, g, b)
+  //Title
+  fill(255, 255, 255);                           //text color (r, g, b)
+  textFont(font);
+  text("Simple LED Control", 150, 30);           //("text", x, y)
+}
+
+void red_on() {
+  port.write('R');
+}
+
+void green_on() {
+  port.write('G');
+}
+
+void blue_on() {
+  port.write('B');
+}
+
+void red_off() {
+  port.write('r');
+}
+
+void green_off() {
+  port.write('g');
+}
+
+void blue_off() {
+  port.write('b');
+}
+
+```
+
+<h1 style="font-size:1vw"><span style="color:black">Arduino Codes</span></h1>
+
+```html
+
+#define led1 4    //red
+#define led2 3    //green
+#define led3 2    //blue
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+  pinMode(led3, OUTPUT);
+}
+
+void loop() {
+  if (Serial.available()) {
+    char val = Serial.read();
+    if (val == 'R') {
+      digitalWrite(led1, HIGH);
+    }
+    if (val == 'r') {
+      digitalWrite(led1, LOW);
+    }
+    if (val == 'G') {
+      digitalWrite(led2, HIGH);
+    }
+    if (val == 'g') {
+      digitalWrite(led2, LOW);
+    }
+    if (val == 'B') {
+      digitalWrite(led3, HIGH);
+    }
+    if (val == 'b') {
+      digitalWrite(led3, LOW);
+    }
+  }
+}
+
+```
+
+<h1 style="font-size:1vw"><span style="color:black">Output result</span></h1>
+
+<div class="loader"><img src="images/ledsgui.gif" alt="ledsgui.gif"max-width="800" height="500" />
+
+- [Reference](https://www.hackster.io/hardikrathod/control-arduino-using-gui-arduino-processing-2c9c6c)
+- [Youtube](https://www.youtube.com/watch?v=5WjEQSMiqMQ)

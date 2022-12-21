@@ -288,6 +288,7 @@ Allows you to manage sketches with more than one file (each of which appears in 
 We can use swith to control the circuit, in this case we use pin 7 as input port
 <br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
 <div class="loader"><img src="images/switch.gif" alt="switch.gif"max-width="800" height="500" />
+<br>
 <h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 

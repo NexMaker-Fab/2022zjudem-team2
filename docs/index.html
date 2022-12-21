@@ -45,6 +45,24 @@
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
      },
 
+     copyCode: {
+    buttonText: {
+      '/zh-cn/': '点击复制',
+      '/ru/'   : 'Скопировать в буфер обмена',
+      '/de-de/': 'Klicken Sie zum Kopieren',
+      '/es/'   : 'Haga clic para copiar',
+      '/'      : 'Copy to clipboard'
+    },
+    successText: {
+      '/zh-cn/': '复制',
+      '/ru/'   : 'Скопировано',
+      '/de-de/': 'Kopiert',
+      '/es/'   : 'Copiado',
+      '/'      : 'Copied'
+    }
+  },
+
+
 
      subMaxLevel: 3,
      sidebarDisplayLevel: 1, // set sidebar display level
@@ -56,6 +74,7 @@
         <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+        <script src="https://unpkg.com/docsify-copy-code"></script>
     </div>
 </div>
 </body>

@@ -80,7 +80,11 @@ We first created all the components of the tree in [AutoCAD](https://www.autodes
 
 - Step2:Next save all the components into your computer as DXF files
 <br><div class="loader"><img src="images/laserdxf.jpg" alt="#" /></div>
+<br>
+<h1 style="font-size:1vw"><span style="color:black">Model size</span>The tree is made with 3 mm lasered PLA and a length of aluminium tubing. All the parts fit into an A4-sheet of wood, and the whole thing is designed to be packed up into an A5 envelope.</h1>
+What we've used for this small tree (+/- 13cm) is one sheet of 3mm MDF of 60x30 cm.
 
+You can directly <a href="images/parts_to_laser.dxf" download="parts_to_laser.dxf">Download dxf file</a> here
 - Step3:open the files in laser CAD, set the power and speed and download them into the laser cutter and cut.
 <br><div class="loader"><img src="images/laserset.jpg" alt="#" /></div>
 <div class="loader"><img src="images/laser.gif" alt="laser.gif"max-width="1000" height="500" />
@@ -95,3 +99,13 @@ At the top I added a smaller ring to make a nice finish. The star then fits insi
 <br><div class="loader"><img src="images/tree2.webp" alt="#" /></div>
 <br>Here is the final result
 <br><div class="loader"><img src="images/tree3.webp" alt="#" /></div>
+
+<h1 style="font-size:2vw"><span style="color:black">Christmas Tree</span>/Arduino function</h1>
+<br>
+
+Finally, after attaching the needed materials to the tree and we used Arduino to code the needed instructions for the tree to lightup. the Arduino function is made up of a battery, Arduino uno and LEDs light. Check [details](https://nexmaker-fab.github.io/2022zjudem-team2/#/class/3ardla/arduino) on our webpage Arduino tab LEDs lights
+<br>
+<div class="loader"><img src="images/ledsard.gif" alt="ledsard.gif"max-width="800" height="500" />
+<br>
+<br>
+<div class="loader"><img src="images/ledsardu.gif" alt="ledsardu.gif"max-width="800" height="500" />
