@@ -66,7 +66,7 @@ The squares are drawn in fusion360 and imported into LaserCAD as a DXF file.
 <br><div class="loader"><img src="images/laserdemo1.webp" alt="#" /></div>
 Each square is given an individual color during information insertion. the power and speed is also inserted and then the computer is connected to the machine and the process may begin
 <br><div class="loader"><img src="images/laserdemo3.webp" alt="#" /></div>
-<br><div class="loader"><img src="images/lasertable.webp" alt="#" /></div>
+<br><div class="loader"><img src="images/lasertable.jpg" alt="#" /></div>
 <br><div class="loader"><img src="images/laserdemo2.webp" alt="#" /></div>
 The cutter successfully cut through with powers, 80, 70, 60 and 50. it did not successfully cut through powers 40 and 30.
 
