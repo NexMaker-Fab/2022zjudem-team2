@@ -82,6 +82,10 @@ We first created all the components of the tree in [AutoCAD](https://www.autodes
 <br><div class="loader"><img src="images/laserdxf.jpg" alt="#" /></div>
 <br>
 <h1 style="font-size:1vw"><span style="color:black">Model size</span>The tree is made with 3 mm lasered PLA and a length of aluminium tubing. All the parts fit into an A4-sheet of wood, and the whole thing is designed to be packed up into an A5 envelope.</h1>
+
+<h1 style="font-size:1vw"><span style="color:black">Parts Instructions</span></h1>
+<br><div class="loader"><img src="images/partsinstruction.jpg" alt="#" /></div>
+
 What we've used for this small tree (+/- 13cm) is one sheet of 3mm MDF of 60x30 cm.
 
 You can directly <a href="images/parts_to_laser.dxf" download="parts_to_laser.dxf">Download dxf file</a> here
