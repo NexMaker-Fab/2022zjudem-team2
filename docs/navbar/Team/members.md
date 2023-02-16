@@ -96,4 +96,16 @@
                     </div>
                 </div>
             </div>
-            
+          <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="images/hashem.jpg">
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Hashem Taher Mohammed Ameen</h3>
+                            <span class="post">Engineer</span>
+                            <h3><a href="https://22251400.github.io/my-repo/" class="title">visit</a></h3>
+                        </div>
+                    </div>
+                </div>
