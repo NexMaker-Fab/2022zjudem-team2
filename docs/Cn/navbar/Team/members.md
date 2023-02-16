@@ -14,7 +14,7 @@
                             <img src="images/about_img.jpg">
                         </div>
                         <div class="team-content">
-                            <h3 class="title">Yannick K.Mulundule</h3>
+                            <h3 class="title">杨毅 Yannick K.Mulundule</h3>
                             <span class="post">电气工程师</span>
                             <h3><a href="https://yannickkabasso.github.io/About-Yan/" class="title"> 点击我</a></h3>
                         </div>
@@ -94,3 +94,16 @@
                 </div>
             </div>
 </div>
+<div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="images/hashem.jpg">
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Hashem Taher Mohammed Ameen</h3>
+                            <span class="post">工程师</span>
+                            <h3><a href="https://22251400.github.io/my-repo/" class="title">点击我</a></h3>
+                        </div>
+                    </div>
+                </div>

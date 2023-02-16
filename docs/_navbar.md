@@ -3,6 +3,6 @@
 - [Home]()
 - [Team Members](navbar/Team/members.md)
   
-- [English]()
-  - [Chinese](./Cn/)
-  - [French](./Fr/)
+- [English :us:]()
+  - [Chinese :cn:](./Cn/)
+  - [French :fr:](./Fr/)
