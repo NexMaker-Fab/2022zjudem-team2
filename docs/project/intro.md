@@ -77,5 +77,3 @@ Sigfox is a solution to connect the device in scope of Internet of Things. It’
 
 <br><br><br><br><div class="loader"><img src="images/harwares.avif" alt="#" /></div>
 
-# 2.Solar panel Tracking Energy
-Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation

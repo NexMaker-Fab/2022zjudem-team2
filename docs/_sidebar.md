@@ -28,5 +28,6 @@
 + FINAL PROJECT
    - [1.Topic](project/assessment.md)
    - [2.Contents](project/intro.md)
+   - [3.Final Presentation](project/presentation)
 
 + [Note](class/1pm/doing.md)
