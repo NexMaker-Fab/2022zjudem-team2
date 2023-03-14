@@ -134,4 +134,27 @@ Our Solar Panel tracking energy is a technology for orienting a solar collector,
 <h1 style="font-size:1.5vw"><span style="color:black">II. Software Used</span></h1>
 
 <a href="https://www.arduino.cc/en/software" class="fab fa-facebook"><span style="font-size:1.2vw">Arduino IDE</span></a>
+<br>
 <br><a href="https://easyeda.com/" class="fab fa-facebook"><span style="font-size:1.2vw">EasyEDA</span></a>
+<br><br><a href="https://www.autodesk.com/products/fusion-360/free-trial" class="fab fa-facebook"><span style="font-size:1.2vw">Fusion 360</span></a>
+
+<br>
+<h1 style="font-size:1.5vw"><span style="color:black">III. Fusion 360 parts</span></h1>
+
+<br>
+
+<img src="images/fusion.jpg" alt="fusion.jpg" max-width="1200" height="800">
+
+<br>
+<h1 style="font-size:1.5vw"><span style="color:black">IV. How to make </span></h1>
+
+<br>
+We first bought the materials and printed the 3D parts 
+<br>
+
+<img src="images/allparts.jpg" alt="allparts.jpg" max-width="1200" height="800">
+
+<br>After we used Easyeda to design the schematic and made our self custom pcb
+<br><div class="loader"><img src="images/pcb.png" alt="#" /></div>
+<br><div class="loader"><img src="images/pcb1.jpg" alt="#" /></div>
+<br><div class="loader"><img src="images/pcb2.jpg" alt="#" /></div>
