@@ -342,8 +342,9 @@ when the light is minimum, the micro controller Arduino read the resistance valu
 
 <br>
 <h1 style="font-size:1.5vw"><span style="color:black">Innovation</span></h1>
+Our Solar Panel Tracking Energy have 6 panels rotating at a 90-degree angle, producing 40% more energy than fixed solar panels. They work with a dual-axis tracking system, so they always face the sun — increasing productivity by up to 10%. Their elevated design also allows the panels to cool naturally, increasing their efficiency.
 
-
+<br>
 <br>
 <h1 style="font-size:1.5vw"><span style="color:black">Solar Flower Market- Global Industry Analysis and Forecast (2022-2029)</span></h1>
 <br>The Global Solar Flower Market was valued at US $14 million in 2022 and is predicted to reach 39.20 million in 2028, at a compound annual growth rate of ( CAGR )16.00% between 2023 and 2028.
