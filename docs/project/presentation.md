@@ -378,8 +378,42 @@ Execution of strict rules to assist environmental preservation increases the ene
 
 
 <h1 style="font-size:1.5vw"><span style="color:black">Key Tech Analysis</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">*01 Photovoltaic Cell (Solar PV) </span></h1>
 <br><div class="loader"><img src="images/solar-photovoltaic-pv.jpeg" alt="#" /></div>
-<br>Solar PV generation increased by a record 179 TWh (up 22%) in 2021 to exceed 1 000 TWh. It demonstrated the second largest absolute generation growth of all renewable technologies in 2021, after wind. Solar PV is becoming the lowest-cost option for new electricity generation in most of the world, which is expected to propel investment in the coming years. However, average annual generation growth of 25% in the period 2022-2030 is needed to follow the Net Zero Emissions by 2050 Scenario. This corresponds to a more than threefold increase in annual capacity deployment until 2030, requiring much greater policy ambition and more effort from both public and private stakeholders, especially in the areas of grid integration and the mitigation of policy, regulation and financing challenges. This is particularly the case in emerging and developing countries. 
+<br>Solar PV generation increased by a record 179 TWh (up 22%) in 2021 to exceed 1 000 TWh. It demonstrated the second largest absolute generation growth of all renewable technologies in 2021, after wind. Solar PV is becoming the lowest-cost option for new electricity generation in most of the world, which is expected to propel investment in the coming years. However, average annual generation growth of 25% in the period 2022-2030 is needed to follow the Net Zero Emissions by 2050 Scenario. This corresponds to a more than threefold increase in annual capacity deployment until 2030, requiring much greater policy ambition and more effort from both public and private stakeholders, especially in the areas of grid integration and the mitigation of policy, regulation and financing challenges. This is particularly the case in emerging and developing countries.
+
+<br>
+<h1 style="font-size:1vw"><span style="color:black">*02 Arduino Nano v3</span></h1>
+<br><div class="loader"><img src="images/v3.webp" alt="#" /></div>
+<br>The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328 (Arduino Nano 3.x). It has more or less the same functionality of the Arduino Duemilanove, but in a different package. It lacks only a DC power jack, and works with a Mini-B USB cable instead of a standard one. The Arduino Nano can be powered via the Mini-B USB connection, 6-20V unregulated external power supply (pin 30), or 5V regulated external power supply (pin 27). The power source is automatically selected to the highest voltage source.
+<br>Each of the 14 digital pins on the Nano can be used as an input or output, using pinMode(), digitalWrite(), and digitalRead() functions. They operate at 5 volts. Each pin can provide or receive a maximum of 40 mA and has an internal pull-up resistor (disconnected by default) of 20-50 kOhms. In addition, some pins have specialized functions:
+<br>
+
+* Serial: 0 (RX) and 1 (TX). Used to receive (RX) and transmit (TX) TTL serial data. These pins are connected to the corresponding pins of the FTDI USB-to-TTL Serial chip.
+* External Interrupts: 2 and 3. These pins can be configured to trigger an interrupt on a low value, a rising or falling edge, or a change in value. See the attachInterrupt() function for details.
+* PWM: 3, 5, 6, 9, 10, and 11. Provide 8-bit PWM output with the analogWrite() function.
+* SPI: 10 (SS), 11 (MOSI), 12 (MISO), 13 (SCK). These pins support SPI communication, which, although provided by the underlying hardware, is not currently included in the Arduino language.
+* LED: 13. There is a built-in LED connected to digital pin 13. When the pin is HIGH value, the LED is on, when the pin is LOW, it's off.
+<br>The Nano has 8 analog inputs, each of which provide 10 bits of resolution (i.e. 1024 different values). By default they measure from ground to 5 volts, though is it possible to change the upper end of their range using the analogReference() function. Analog pins 6 and 7 cannot be used as digital pins. Additionally, some pins have specialized functionality:
+<br>
+* I2C: A4 (SDA) and A5 (SCL). Support I2C (TWI) communication using the Wire library (documentation on the Wiring website).
+<br>
+There are a couple of other pins on the board:
+
+* AREF. Reference voltage for the analog inputs. Used with analogReference().
+* Reset. Bring this line LOW to reset the microcontroller. Typically used to add a reset button to shields which block the one on the board.
+
+<h1 style="font-size:1vw"><span style="color:black">*03 L293D IC Driver</span></h1>
+<br><div class="loader"><img src="images/L293D.webp" alt="#" /></div>
+<br>The L293D is a dual-channel H-Bridge motor driver capable of driving a pair of DC motors or a single stepper motor. This means it can drive up to two motors individually it's also one of the cheapest and easiest way to control dc motors through arduino boards, which makes it ideal for building this project.
+
+<br>The L293D is most often used to drive motors, but can also be used to drive any inductive load such as a relay solenoid or large switching power transistor.It is capable of driving four solenoids, four uni-directional DC motors, two bi-directional DC motors or one stepper motor.
+
+<br>
+<h1 style="font-size:1vw"><span style="color:black">*04 PCB</span></h1>
+<br><div class="loader"><img src="images/npcb.jpg" alt="#" /></div>
+<br>One of the key concepts in electrical and electronics is the printed circuit board(PCB). It allows component to connect to one another in a safe and controlled manner. It is a board that has lines and pads that connect various points together, it also allows signals and power to be routed between physical devices
+<br>Electrical components may be fixed to conductive pads on the outer layers in the shape designed to accept the component's terminals, generally by means of soldering, to both electrically connect and mechanically fasten them to it.
 
 <br>
 <h1 style="font-size:1.5vw"><span style="color:black">Our Project and the UN Sustainable Delevelopment Goals (SDGs)</span></h1>
