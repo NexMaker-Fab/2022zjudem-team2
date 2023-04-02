@@ -288,6 +288,39 @@ Allows you to manage sketches with more than one file (each of which appears in 
 We can use swith to control the circuit, in this case we use pin 7 as input port
 <br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
 <div class="loader"><img src="images/switch.gif" alt="switch.gif"max-width="800" height="500" />
+
+<br><br>
+<h1 style="font-size:1vw"><span style="color:black">Codes</span></h1>
+<br>
+
+
+```html
+const int LED1=12;
+const int LED2=13;
+int val=0;
+void setup()
+{ 
+  pinMode(LED1, OUTPUT); 
+  pinMode(LED2, OUTPUT);
+  pinMode(7, INPUT);
+  void loop (){
+    val=digitalRead(7);
+    if(val==HIGH)
+    {
+      digitalWrite(LED1,HIGH);
+      digitalWrite(LED2,LOW);
+    }
+    else
+    {
+      digitalWrite(LED2,HIGH);
+      digitalWrite(LED1,LOW);
+    }
+    delay(1000);
+  }
+}
+```
+
+
 <br>
 <h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
