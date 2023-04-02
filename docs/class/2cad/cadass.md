@@ -3,6 +3,21 @@
 
 # Model: Bench vice
 Designed and assembled with [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
+<br><br>
+<h1 style="font-size:1.2vw"><span style="color:black">Machine Control</span></h1>
+<br>
+
+* First check if there is enough material(PLA) to print out your model
+<br>
+<div class="loader"><img src="images/power.jpg" alt="#" /></div>
+* Secondly switch on the power
+* Make sure the platform is Leveled as shown in the picture below(1select Tools, 2Level,3Turn the corresponding nut under the platform clockwise or counterclockwise until you hear the beep "according to the instruction given by the machine", 3wait for a moment until the machine finishes to check whether the distance is appropriate than tap verify to verify the new condition. Repeat the process until all the 3 nuts distance are appropriate)
+
+<br>
+<div class="loader"><img src="images/matcha.jpg" alt="#" /></div>
+<br><br>
+<div class="loader"><img src="images/ma.gif" alt="#" />
+
 <br>
  <video width="1280" height="960" controls>
   <source src="images/AutodeskFusion.mp4" id="video/AutodeskFusion.mp4"> loop autoplay muted</video>
