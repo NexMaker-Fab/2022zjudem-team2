@@ -283,7 +283,7 @@ Allows you to manage sketches with more than one file (each of which appears in 
 
 - [Nexmaker](https://www.nexmaker.com/doc/9IOT/NodeMCUESP8266_ALiYun.html)
 
-<h1 style="font-size:1.2vw"><span style="color:black">2.Arduino class works</span></h1>
+<h1 style="font-size:1.3vw"><span style="color:black">2.Arduino class works</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">Switch</span></h1>
 We can use swith to control the circuit, in this case we use pin 7 as input port
 <br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
@@ -322,7 +322,7 @@ void setup()
 
 
 <br>
-<h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
+<h1 style="font-size:1.3vw"><span style="color:black">LED Lights</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 
 
@@ -437,7 +437,10 @@ void loop()
 <div class="loader"><img src="images/leds.gif" alt="leds.gif"max-width="600" height="1200" />
 <h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
-<h1 style="font-size:1vw"><span style="color:black">Humidity/Temperature sensors</span></h1>
+
+
+<br>
+<h1 style="font-size:1.3vw"><span style="color:black">Humidity/Temperature sensors</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a simple humidity and temperature sensor circuit that detect a room temperature and humidity with a delay time of 1 second.
 <br>Material used are:
@@ -492,7 +495,8 @@ void loop()
 <h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
 The system run smoothly and without fault.
 
-<h1 style="font-size:1vw"><span style="color:black">DIY Security Alarm using LCD and Ultrasonic sensor.</span></h1>
+<br>
+<h1 style="font-size:1.3vw"><span style="color:black">DIY Security Alarm using LCD and Ultrasonic sensor.</span></h1>
 <h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
 This is a simple Security alarm system that displays the level of risk. It makes different type of alerting sound based on distance, it also bright different type of LED based on distance.
 
