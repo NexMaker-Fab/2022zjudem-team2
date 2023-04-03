@@ -24,5 +24,6 @@
 + PROJET FINAL
    - [1.Les sujets](Fr/project/assessment.md)
    - [2.contenu](Fr/project/intro.md)
+   - [3.Presentation Finale](Fr/project/presentation.md)
    
 + [Note](Fr/class/1pm/doing.md)
