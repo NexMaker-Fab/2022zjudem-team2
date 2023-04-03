@@ -1,97 +1,94 @@
 <!-- lasercutting/laser.md -->
-<h1 style="font-size:2vw"><span style="color:black">I. LASER CUTTING</span></h1>
-<br>What is it? 
-<br>Laser cutting is a technology that uses a laser to cut or engrave material based on computer-controlled parameters. The powerful and highly accurate laser focuses on a small area of the material. The laser can cut through different kinds of materials like: plastics, woods, rubbers, foams, papers, acrylics, fabrics and some even metal.
+<h1 style="font-size:2vw"><span style="color:black">I. 激光切割</span></h1>
+<br>什么是激光切割? 
+<br>激光切割是一种利用激光根据计算机控制参数来切割或雕刻材料的技术。强大而高精确度的激光聚焦于材料的一个小区域，可以切割各种材料，如塑料、木材、橡胶、泡沫、纸张、亚克力、织物，甚至一些金属材料.
 
-<br>There are several techniques that can be performed with a laser cutter.
+<br>这里有几种技术可以使用激光切割机实现.
 
-<br>Laser marking: involves the melting of a surface layer of a material to leave a mark behind.
-<br>Laser engraving: is similar to laser marking, with the difference being that the aim here is to create a deep engraved mark.
-<br>Laser cutting: is a process where material is cut, and this can be for small and fine materials or materials with a much greater level of thickness.
-<br>Laser drilling: involves the creation of popped holes or dents in a material, which is achieved by pulsing a laser beam on a particular area repeatedly.
-<br>Laser welding: is the process of welding materials together, whether this is one piece or multiple pieces of similar or dissimilar materials.
-<h1 style="font-size:1vw"><span style="color:red">Reference</span></h1>
+<br>激光标记：涉及将材料表面层熔化，以留下标记。
+<br>激光雕刻：与激光标记类似，不同之处在于这里的目的是创建深度雕刻的标记。
+<br>激光切割：是一种将材料切割的过程，可以是针对小而精细的材料，也可以是对厚度较大的材料进行切割。
+<br>激光钻孔：涉及在材料中创建凸起的孔或凹痕，这是通过重复对特定区域进行激光束脉冲来实现的。
+<br>激光焊接：将材料焊接在一起的过程，无论是一块材料还是多块相似或不同材料的组合。<h1 style="font-size:1vw"><span style="color:red">参考</span></h1>
 
 - [Fabacademy](https://fabacademy.org/2019/labs/kamplintfort/students/alessandra-crotty/week3.html#eins)
 
-<h1 style="font-size:2vw"><span style="color:black">II. SAFETY INSTRUCTION</span></h1>
+<h1 style="font-size:2vw"><span style="color:black">II. 安全指导</span></h1>
 <br>
 
-<h1 style="font-size:1vw"><span style="color:red">1. Introduction</span></h1>
-     Laser cutting devices are very versatile tools that can be used to cut or drill wood, plastics, and metals. These devices are often very economical, efficient and can easily be automated. Due to these features, these devices have found their way to campus and before purchasing or using this type of equipment, there are some things to consider.
-<h1 style="font-size:1vw"><span style="color:red">2. Laser Hazard Classification</span></h1>
-Typically, LASER cutters are classified by the American National Standards Institute (ANSI) as Class 1 LASERs. Class 1 LASERs emit low levels of energy that are not hazardous to the eyes or skin. However, enclosed within these devices are often Class 3B or 4 LASERs, which are capable of emitting high levels of energy, and are hazardous to the eyes and skin. Only manufacturer-trained personnel should perform maintenance on the device.
+<h1 style="font-size:1vw"><span style="color:red">1. 简介</span></h1>
+     激光切割设备是非常多用途的工具，可以用于切割或钻孔木材、塑料和金属。这些设备通常非常经济、高效，且易于自动化。由于这些特点，这些设备已经进入校园，并在购买或使用此类设备之前，有一些事情需要考虑。
+<h1 style="font-size:1vw"><span style="color:red">2. 激光危险等级分类</span></h1>
+通常情况下，激光切割机被美国国家标准学会（ANSI）分类为1类激光器。1类激光器发射的能量水平较低，不会对眼睛或皮肤造成危害。然而，这些设备内部通常包含3B类或4类激光器，这些激光器能够发射高能量，对眼睛和皮肤有危害。只有经过制造商培训的人员才能对设备进行维护。
 <br> 
 
-- DO NOT modify or disable any safety features of the laser system.
-- DO NOT operate the laser unless all covers are in place and interlocks are working properly.
-- DO NOT look directly into LASER beam.
+- 不要修改或禁用激光系统的任何安全功能。
+- 在所有盖子都放置好且联锁器工作正常之前，不要操作激光器。
+- 不要直接注视激光束。
 
-<h1 style="font-size:1vw"><span style="color:red">3. Laser Generated Air Contaminants</span></h1>
-While LASER cutters typically pose little hazard due to the Class 1 Enclosure, these devices can pose a hazard when the beam is used to cut or drill certain metals, plastics, and other materials. As the beam strikes these materials, there is potential to produce Laser-Generated Air Contaminants. These contaminants may be gaseous or particulate and can, under certain conditions, pose health risks to those exposed to them. The contaminant generated will depend on the type of material that is being cut or drilled. Cutting or drilling of some materials can generate airborne benzene, toluene, hydrochloric acid, isocyanates and other by-products which may be hazardous.
+<h1 style="font-size:1vw"><span style="color:red">3. 激光产生的空气污染物</span></h1>
+虽然激光切割机通常由于 1级 封闭而几乎不会产生危害，但是当激光束用于切割或钻孔某些金属、塑料和其他材料时，这些设备可能会造成危害。随着激光束照射这些材料，可能会产生激光产生的空气污染物。这些污染物可能是气态或颗粒态的，且在某些条件下可能对暴露于其下的人员构成健康风险。生成的污染物将取决于正在切割或钻孔的材料类型。切割或钻孔某些材料可能会产生空气中的苯、甲苯、盐酸、异氰酸酯和其他副产品，这些副产品可能是有害的。
+<h1 style="font-size:1vw"><span style="color:red">4. 过滤和通风要求</span></h1>
+为了控制激光产生的空气污染物，必须使用过滤和/或排气系统来减少或消除人员的接触。除了减少或消除人员的接触外，适当的污染物去除对确保激光切割机的正常运行以及生产优质产品至关重要。是否使用过滤或排气系统的选择将由制造商指定，应遵循这些规格。
 
-<h1 style="font-size:1vw"><span style="color:red">4. Filtration and Ventilation Requirements</span></h1>
-To control the LASER-generated air contaminants, filtration and/or exhaust systems must be used to reduce or eliminate personnel exposures. In addition to reducing or eliminating personnel exposures, proper removal of contaminants is essential to ensure a properly functioning LASER cutter, as well as producing a quality product. The choice of whether to use filtration or exhaust systems will be specified by the manufacturer and these specifications should be followed. 
+<h1 style="font-size:1vw"><span style="color:red">5. 激光安全ty</span></h1>
+大多数在可见光和近红外区域工作的激光器足够强烈，会对眼睛造成危害。虽然所有眼部组织都可能受到损伤，但最脆弱的部位是视网膜，光束可能被眼睛晶状体聚焦在上面，导致组织破坏和永久性盲点的形成。高功率激光器也可以损伤皮肤。只有经过培训的人员才能操作该设备，并且在运行设备之前必须关闭围护装置。
 
-<h1 style="font-size:1vw"><span style="color:red">5. Laser safety</span></h1>
-Most types of lasers operating in the visible and near infrared regions are sufficiently intense as to represent a hazard to the eye. Although damage may be caused to all parts of the eyes, the most vulnerable part is the retina, on which the beam may be focussed by the eye lens resulting in the destruction of tissues and the creation of permanent blind spots. High power lasers can also damage the skin. Only trained peaple can operate the machine, and we must close the enclosure before run the machine.
+<h1 style="font-size:1vw"><span style="color:red">6. 激光等级</span></h1>
+目前国家激光分类有五类：1级、2级、3A级、3B级和4级。每种激光的级别必须由供应商清晰标识。
 
-<h1 style="font-size:1vw"><span style="color:red">6. Laser classes</span></h1>
-The current laser classes in national laser classes are: 1, 2, 3A, 3B and 4. The class of each laser must be marked clearly by the supplier.
+一级激光器：在合理的工作条件下是安全的，不需要特定的安全控制。
+二级激光器：波长范围从400nm到700nm，是可见激光器。
+三级A激光器：比三级B激光器低风险，但直接观察光束通常是安全的。
+三级B激光器：眼睛不安全的光束不能直接观察，漫反射的光束通常对眼睛是安全的，但对皮肤是安全的。
+四级激光器：产生危险漫反射光束的激光器，可能对眼睛或皮肤有害，可能存在火灾危险。
+在正常操作期间，机器是封闭的，激光器分类为一级。在正常使用过程中，互锁机器不允许接触任何危险的激光辐射。切割室在标准操作期间完全封闭，需要钥匙才能访问所有打开的机身面板。在学校的安全规定中，激光操作人员需要穿戴普通的个人防护装备（实验室外套、安全眼镜、防尘口罩）。
 
-Class 1:It is safe in the reasonable working condition, and no specific safety controls are required.
-Class 2: Wavelength range from 400nm to 700nm, visible lasers
-Class 3A: Lower risk than 3B, but direct viewing of beam usually safe
-Class 3B: Intrabeam viewing not safe to the eye, diffusely reflected beam usually safe to the eye, assumed to be safe to the skin.
-Class 4: Those that generate the hazardous diffusely reflected beam, which may be harmful to the eye or skin, and can present a fire hazard.
-During normal operation, the machine is enclosed and laser classification is Class 1. In normal usage the interlocked machine does not allow exposure to any dangerous laser radiation. The cutting chamber is fully enclosed during standard operation and keys are needed to access all body panels that open. In school's safety rule,laser operator need wear normal PPE (Laboratory coat, Safety glasses, Dust mask).
-
-<h1 style="font-size:1vw"><span style="color:red">Reference</span></h1>
+<h1 style="font-size:1vw"><span style="color:red">参考</span></h1>
 
 - [Nexmaker](https://www.nexmaker.com/doc/6laser_cutter/Safety.html)
-<h1 style="font-size:2vw"><span style="color:black">III. MATERIALS</span></h1>
+<h1 style="font-size:2vw"><span style="color:black">III. 材料</span></h1>
 
-- Paper
-- Acrylic
-- Wood
-<h1 style="font-size:2vw"><span style="color:black">IV. MACHINE PREPARATION</span></h1>
-Make sure to check all connections, this includes the power socket for the laser cutter, the smoke exhaust fan which should be open and running, the water tank, and the pump.
-<h1 style="font-size:2vw"><span style="color:black">V. RUNNING THE MACHINE</span></h1>
-Turn on the laser cutter. place the material flat on the platform. place a block between the nozzle and material. rise platform to min the gap. 
+- 纸张
+- 亚克力
+- 木材
+<h1 style="font-size:2vw"><span style="color:black">IV. 机器准备</span></h1>
+确保检查所有连接，包括激光切割机的电源插座，应该打开并运行的排烟风扇，水箱和水泵。
+<h1 style="font-size:2vw"><span style="color:black">V. 运行机器</span></h1>
+打开激光切割机。将材料平放在工作台上。在喷嘴和材料之间放置一个块。提高平台以减小间隙。
 <h1 style="font-size:2vw"><span style="color:black">Power and Speed Demo</span></h1>
 <br><div class="loader"><img src="images/laserdemo.webp" alt="#" /></div>
-We create a demo which can check the best parameter. it is a 7 piece cutting demo with powers; 90,80,70,60,50,40,30 and a speed of 70mm/s.
-The squares are drawn in fusion360 and imported into LaserCAD as a DXF file.
+我们创建了一个演示，可以检查最佳参数。这是一个由7个切割件组成的演示，使用功率分别为90、80、70、60、50、40和30，速度为70mm/s。
+正方形是在Fusion360中绘制并作为DXF文件导入到LaserCAD中的。
 <br><div class="loader"><img src="images/laserdemo4.webp" alt="#" /></div>
 <br><div class="loader"><img src="images/laserdemo1.webp" alt="#" /></div>
-Each square is given an individual color during information insertion. the power and speed is also inserted and then the computer is connected to the machine and the process may begin
+每个正方形在信息插入期间被赋予一个单独的颜色。还插入了功率和速度，然后将计算机连接到机器，即可开始处理。
 <br><div class="loader"><img src="images/laserdemo3.webp" alt="#" /></div>
 <br><div class="loader"><img src="images/lasertable.webp" alt="#" /></div>
 <br><div class="loader"><img src="images/laserdemo2.webp" alt="#" /></div>
-The cutter successfully cut through with powers, 80, 70, 60 and 50. it did not successfully cut through powers 40 and 30.
-
+切割机在功率为80、70、60和50的情况下成功切割通过了。但在功率为40和30的情况下未能成功切割通过。
 <h1 style="font-size:2vw"><span style="color:black">Laser Cut Christmas Tree</span></h1>
 
--Step1: Material and Drawings
+- 步骤1：材料和绘图。
 <br>
 
-We first created all the components of the tree in [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
+我们首先创造了树的所有组件 [AutoCAD 自动计算机辅助设计](https://www.autodesk.com/products/autocad/free-trial)
 <br><div class="loader"><img src="images/laserdraw.jpg" alt="#" /></div>
 
-- Step2:Next save all the components into your computer as DXF files
+- 步骤2：接下来将所有组件保存为DXF文件到您的电脑中。
 <br><div class="loader"><img src="images/laserdxf.jpg" alt="#" /></div>
 
-- Step3:open the files in laser CAD, set the power and speed and download them into the laser cutter and cut.
+- 步骤3：在激光雕刻软件中打开这些文件，设置功率和速度，将它们下载到激光切割机中进行切割。
 <br><div class="loader"><img src="images/laserset.jpg" alt="#" /></div>
 <div class="loader"><img src="images/laser.gif" alt="laser.gif"max-width="1000" height="500" />
 
-- Step4:Finally get all the components and assemble them.
-<br>Assembling the tree is quite easy. Start with the round base and add the two panels with the central piece. Then add the biggest leaves piece and add three bings rings. Add the slightly smaller leaves piece, three rings and repeat until four leaves pieces are stacked. Then add one big ring and two small ones. Add the remaining pieces like before.
+- 步骤4：最后获取所有组件并进行组装
+<br>组装这个树非常容易。首先从圆形底座开始，加上两个带有中央部件的面板。然后加上最大的叶子部件并加上三个环形部件。添加略小的叶子部件，三个环形部件，重复直到叠放四个叶子部件。然后加上一个大环和两个小环。像之前一样添加其余的部件。
 
-At the top I added a smaller ring to make a nice finish. The star then fits inside the slot at the top. A drop of glue can help it to stay in place if needed.
+在树的顶部，我添加了一个较小的环以做为一个漂亮的结束。星星可以放置在顶部的槽中。如果需要，可以滴上一滴胶水以帮助它固定在位置上。
 
 <br><div class="loader"><img src="images/treepieces.webp" alt="#" /></div>
 <br><div class="loader"><img src="images/tree1.webp" alt="#" /></div>
 <br><div class="loader"><img src="images/tree2.webp" alt="#" /></div>
-<br>Here is the final result
+<br>终于结果
 <br><div class="loader"><img src="images/tree3.webp" alt="#" /></div>

@@ -1,10 +1,9 @@
 <!-- Processing/processing.md -->
-<h1 style="font-size:2vw"><span style="color:black">PROCESSING</span></h1>
-<h1 style="font-size:1.5vw"><span style="color:black">Introduction</span></h1>
+<h1 style="font-size:2vw"><span style="color:black">PROCESSING 编程语言</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">简介</span></h1>
 <br>
 
-[Processing](https://processing.org/download) is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
-<br>Processing is a free graphical library and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context.
+[Processing 编程语言](https://processing.org/download) 是一个灵活的软件草图本和一种在视觉艺术背景下学习编码的语言。自 2001 年以来，Processing 在视觉艺术领域推广软件素养，并在技术领域推广视觉素养。有成千上万的学生、艺术家、设计师、研究人员和爱好者使用 Processing 进行学习和原型制作。<br>Processing 编程语言是一个免费的图形库和集成开发环境（IDE），旨在为电子艺术、新媒体艺术和视觉设计社区提供帮助，并通过可视化编程的方式教授非程序员计算机编程的基础知识。
 
 <br>Processing uses the Java language, with additional simplifications such as additional classes and aliased mathematical functions and operations. It also provides a graphical user interface for simplifying the compilation and execution stage.
 
