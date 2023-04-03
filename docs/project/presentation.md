@@ -346,9 +346,14 @@ when the light is minimum, the micro controller Arduino read the resistance valu
 <div class="loader"><img src="images/trial2.gif" alt="#" />
 <br><br>
 <div class="loader"><img src="images/trial3.gif" alt="#" />
-<br> Final design with Power and current display
+<br> Final design with Power and current display (voltage=11.14v, current=445mA and the power=4.978W)
 <br><br><div class="loader"><img src="images/display.jpg" alt="#" /></div>
-
+<br><br><div class="loader"><img src="images/displayp.jpg" alt="#" /></div>
+<br><br><div class="loader"><img src="images/displaypo.jpg" alt="#" /></div>
+<br>
+<h1 style="font-size:1.5vw"><span style="color:black">Demo</span></h1> 
+<br><br>
+<div class="loader"><img src="images/demo.gif" alt="#" />
 
 <br>
 <h1 style="font-size:1.5vw"><span style="color:black">Innovation</span></h1>
