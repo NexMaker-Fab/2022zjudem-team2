@@ -1,81 +1,81 @@
 <!-- project/intro.md -->
-# INTELLIGENT DUSTBIN
+# POUBELLE INTELLIGENTE
 <br>
 
-### I. Background Info
+### I. Informations de base
 
-Good waste management has become an essential issue for our planet. In public and natural spaces, many do not pay attention to the waste they leave behind. When there is no garbage collector available, it is easier to leave waste on site than bring them back. Even the so called preserved spaces are polluted by waste. So our AI based is designed for homes, offices, streets and public places. It simplifies recycling, sorts and compresses the waste automatically, It controls the fill level and processes data for convenient waste management.
+Une bonne gestion des déchets est devenue une question essentielle pour notre planète. Dans les espaces publics et naturels, nombreux sont ceux qui ne prêtent pas attention aux déchets qu'ils laissent derrière eux. Lorsqu'il n'y a pas de collecteur de déchets disponible, il est plus facile de laisser les déchets sur place que de les ramener. Même les espaces dits préservés sont pollués par les déchets. C'est pourquoi notre système basé sur l'IA est conçu pour les maisons, les bureaux, les rues et les lieux publics. Il simplifie le recyclage, trie et compresse automatiquement les déchets, contrôle le niveau de remplissage et traite les données pour une gestion pratique des déchets.
 <br><div class="loader"><img src="images/garbage1.jpg" alt="#" /></div>
 
-<br>To preserve natural areas, homes and offices it is important to provide well-managed waste collection points :
+<br>Pour préserver les zones naturelles, les maisons et les bureaux, il est important de fournir des points de collecte de déchets bien gérés:
 <br><br>
-<br>To prevent them from overflowing, the bins must be raised regularly. It is hard to get through the right time : too soon, and the trash can be empty, too late and the trash can overflow. This problem is all the more critical when the bin is difficult to access (such as on hiking trails in the mountains)
+<br>Pour éviter qu'ils ne débordent, les poubelles doivent être vidées régulièrement. Il est difficile de trouver le bon moment : trop tôt, et la poubelle peut être vide, trop tard et la poubelle peut déborder. Ce problème est d'autant plus critique lorsque la poubelle est difficile d'accès (comme sur les sentiers de randonnée en montagne)
 
 <br><br><div class="loader"><img src="images/garbage2.jpg" alt="#" /></div>
 <br><br>
-In this rational waste management, sorting can be a major challenge. Organics waste can be directly processed by nature, in composting. Non organics waste must be collected to be treated by specific processes.
+Dans cette gestion rationnelle des déchets, le tri peut constituer un défi majeur. Les déchets organiques peuvent être directement traités par la nature, en compostage. Les déchets non organiques doivent être collectés pour être traités par des processus spécifiques.
 
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Purpose of the Project</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">But du projet</span></h1>
 
-The purpose of our project is to provide a supervision device for intelligent waste bin. This device integrates several sensors to supervise the state of the trash.
+Le but de notre projet est de fournir un dispositif de supervision pour poubelle intelligente. Ce dispositif intègre plusieurs capteurs pour surveiller l'état de la poubelle.
 
-- Level sensor: based on ultrasonic system, used to prevent overflows by alerting the garbage collection team.
+- Capteur de niveau : basé sur un système ultrasonique, utilisé pour éviter les débordements en alertant l'équipe de collecte des déchets.
 
-- Temperature and humidity sensor: used to monitor the trash environment. This can be useful to manage the condition of organic compost, and to prevent contamination in some specific case (very wet or hot conditions, risk of fire in very dry conditions)
+- Capteur de température et d'humidité : utilisé pour surveiller l'environnement des déchets. Cela peut être utile pour gérer l'état du compost organique et prévenir la contamination dans certains cas spécifiques (conditions très humides ou chaudes, risque d'incendie dans des conditions très sèches).
 
-- Flame sensor: some may deposit incandescent waste (like cigarette butts) or may intentionally set fire to the bin. A garbage fire can have dramatic effects on the environment (for example it can cause a forest fire). The flame sensor can alert supervision team about the problem.
+- Capteur de flamme : certains peuvent déposer des déchets incandescents (comme des mégots de cigarette) ou intentionnellement mettre le feu à la poubelle. Un incendie de déchets peut avoir des effets dramatiques sur l'environnement (par exemple, il peut causer un incendie de forêt). Le capteur de flamme peut alerter l'équipe de supervision sur le problème.
 
-- Moisture sensor : for the compost process, it is important to maintain a certain humidity level in the compost material. The moisture sensor, included in our project, will measure the humidity level on the compost.
+- Capteur d'humidité : pour le processus de compostage, il est important de maintenir un certain niveau d'humidité dans le matériau de compostage. Le capteur d'humidité inclus dans notre projet mesurera le niveau d'humidité sur le compost.
 
-- Opening sensor : a opening detector will be installed on the trash lid to get statistics on garbage use and detect bad closure.
+- Capteur d'ouverture : un détecteur d'ouverture sera installé sur le couvercle de la poubelle pour obtenir des statistiques sur l'utilisation des déchets et détecter une mauvaise fermeture.
 
-- Voice sensor : a mic will be installed on the trash (for homes and offices )
+- Capteur vocal : un microphone sera installé sur la poubelle (pour les maisons et les bureaux)
 
-- Location system : garbage must be identified and localized to help garbage collection team on their management. It will offer more agility on the garbage location management, with the possibility to deploy temporary garbage bins (eg. In summer on beach and hiking tracks, in winter on ski slope, on special events such as sports competition of music festivals)
-<br>The project takes on its full meaning with a waste bin with two compartments:
+- Système de localisation : les déchets doivent être identifiés et localisés pour aider l'équipe de collecte des déchets dans leur gestion. Cela offrira plus d'agilité dans la gestion de la localisation des déchets, avec la possibilité de déployer des poubelles temporaires (par exemple en été sur la plage et les sentiers de randonnée, en hiver sur les pistes de ski, lors d'événements spéciaux tels que des compétitions sportives ou des festivals de musique).
+<br>Le projet prend tout son sens avec une poubelle à deux compartiments :
 
-- One for non organics waste.
-- One for organic waste with composting process.
+- Un pour les déchets non-organiques.
+- Un pour les déchets organiques avec un processus de compostage.
 <br>
 <br><br><br><br><div class="loader"><img src="images/garbage3.avif" alt="#" /></div>
 
 <br>
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Sigfox Usage</span>(Still looking for more convinient)</h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Utilisation de Sigfox</span>(S'il vous plaît, spécifiez ce que vous voulez traduire en français.)</h1>
 
-The trash will be install in isolated areas. The power will be provide by battery, possibly connected to a solar panel. For us, Sigfox seams to be a very good solution so far:
+Les poubelles seront installées dans des zones isolées. L'alimentation sera assurée par une batterie, éventuellement connectée à un panneau solaire. Pour nous, Sigfox semble être une très bonne solution jusqu'à présent :
 
-- Sigfox communication system has a wide area coverage : its allows to deploy the project on a large scale.
+- Le système de communication Sigfox a une large couverture : cela permet de déployer le projet à grande échelle.
 
-- Sigfox system provides sufficient communication capabilities for our use case.
+- Le système Sigfox offre des capacités de communication suffisantes pour notre cas d'utilisation.
 
-- Sigfox can provide a 100m localization solution : not necessary to add a GPS shield on the bin.
+- Sigfox peut fournir une solution de localisation de 100m : pas besoin d'ajouter un module GPS sur la poubelle.
 
-- Sigfox is a low power solution, which allows the device to operate a long time autonomously.
+- Sigfox est une solution à faible consommation d'énergie, ce qui permet au dispositif de fonctionner pendant longtemps de manière autonome.
 
 <br><br>
 <br>
 
-### Project Details
+### Détails du projet
 
-Example of Hardware Design Method
+Exemple de méthode de conception matérielle
 
 <br><br><br><br><div class="loader"><img src="images/diagram.avif" alt="#" /></div>
 <br><br>
 <br><br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Project Steps</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Étapes du proje</span></h1>
 
-<h1 style="font-size:1vw"><span style="color:black">Step 1: Understand Sigfox</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">Step 1: Comprendre Sigfox</span></h1>
 
-Sigfox is a solution to connect the device in scope of Internet of Things. It’s currently operated in 45+ countries and 3 millions + devices. The message can be up to 12 bytes which maximum of 140 uplink and 4 downlink per day.
+Sigfox est une solution permettant de connecter des dispositifs dans le cadre de l'Internet des objets. Elle est actuellement utilisée dans plus de 45 pays et sur plus de 3 millions de dispositifs. Le message peut atteindre 12 octets avec un maximum de 140 uplinks et 4 downlinks par jour.
 
-<h1 style="font-size:1vw"><span style="color:black">Step 2: Hardware Lookup</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">Step 2: Recherche de matériel</span></h1>
 
 <br><br><br><br><div class="loader"><img src="images/harwares.avif" alt="#" /></div>
 
-# 2.Solar panel Tracking Energy
-Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation
+# 2. Suivi d'énergie du panneau solaire
+Notre système de suivi d'énergie solaire est une technologie permettant d'orienter un collecteur solaire, un réflecteur ou un panneau photovoltaïque vers le soleil. Au fur et à mesure que le soleil se déplace dans le ciel, un dispositif de suivi s'assure que le collecteur solaire suit automatiquement et maintient l'angle optimal pour recevoir le plus de rayonnement solaire possible.
