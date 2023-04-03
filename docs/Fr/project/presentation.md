@@ -1,13 +1,13 @@
 <!-- project/presentation.md -->
-# SOLAR PANEL TRACKING ENERGY
+# PANNEAU SOLAIRE QUI SUIT L'ENERGY SOLAIRE
 
 <br>
-Our final goal is to build a self solar tracking energy and the vision is to capture as much as possible sunlight as a source of radiant energy, which is converted into electric energy in the form of direct current electricity. The project is based on LDR sensor, we made the rotatable Solar system which has the home position during night time but when the light is available in day time the solar system automatically waking up through sensing the light presence and all the solar panels rotate counter clockwise and open like a sunflower and follow the sun rotation, after the sun fallen down all the solar panels are automatically rotate clockwise and go to the home position for next day sun light.
+Notre objectif final est de construire une énergie de suivi solaire autonome et la vision est de capter autant que possible la lumière du soleil comme source d'énergie rayonnante, qui est convertie en énergie électrique sous forme d'électricité à courant continu. Le projet est basé sur le capteur LDR, nous avons créé le système solaire rotatif qui a la position d'origine pendant la nuit, mais lorsque la lumière est disponible pendant la journée, le système solaire se réveille automatiquement en détectant la présence de lumière et tous les panneaux solaires tournent dans le sens inverse des aiguilles d'une montre. et ouvrez-vous comme un tournesol et suivez la rotation du soleil, après que le soleil soit tombé, tous les panneaux solaires tournent automatiquement dans le sens des aiguilles d'une montre et vont à la position d'origine pour la lumière du soleil du lendemain.
 <br>
 <br>
-Our Solar Panel tracking energy is a technology for orienting a solar collector, reflector, or photovoltaic panel towards the sun. As the sun moves across the sky, a tracking device makes sure that the solar collector automatically follows and maintains the optimum angle to receive the most of the solar radiation
+Notre énergie de suivi de panneau solaire est une technologie permettant d'orienter un capteur solaire, un réflecteur ou un panneau photovoltaïque vers le soleil. Au fur et à mesure que le soleil se déplace dans le ciel, un dispositif de suivi s'assure que le capteur solaire suit automatiquement et maintient l'angle optimal pour recevoir le maximum de rayonnement solaire
 
-<h1 style="font-size:1.5vw"><span style="color:black">I. Required Materials</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">I. Matériaux nécessaires</span></h1>
 
 <link rel="stylesheet" href="css/bootstrap-grid.min.css"/>
 <div class="demo">
@@ -131,7 +131,7 @@ Our Solar Panel tracking energy is a technology for orienting a solar collector,
 </div>
 
 <br>
-<h1 style="font-size:1.5vw"><span style="color:black">II. Software Used</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">II. Logiciel utilisé</span></h1>
 
 <a href="https://www.arduino.cc/en/software" class="fab fa-facebook"><span style="font-size:1.2vw">Arduino IDE</span></a>
 <br>
@@ -139,27 +139,27 @@ Our Solar Panel tracking energy is a technology for orienting a solar collector,
 <br><br><a href="https://www.autodesk.com/products/fusion-360/free-trial" class="fab fa-facebook"><span style="font-size:1.2vw">Fusion 360</span></a>
 
 <br>
-<h1 style="font-size:1.5vw"><span style="color:black">III. Fusion 360 parts</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">III. Fusion 360 parties</span></h1>
 
 <br>
 
 <img src="images/fusion.jpg" alt="fusion.jpg" max-width="1200" height="800">
 
 <br>
-<h1 style="font-size:1.5vw"><span style="color:black">IV. How to make </span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">IV. Comment le réaliser </span></h1>
 
 <br>
-We first bought the materials and printed the 3D parts 
+Nous avons d'abord acheté les matériaux et imprimé les pièces en 3D 
 <br>
 
 <img src="images/allparts.jpg" alt="allparts.jpg" max-width="1200" height="800">
 
-<br>After we used Easyeda to design the schematic and made our self custom pcb
+<br>Après avoir utilisé Easyeda pour concevoir le schéma et créer notre circuit imprimé personnalisé
 <br><div class="loader"><img src="images/pcb.png" alt="#" /></div>
 <br><div class="loader"><img src="images/pcb1.jpg" alt="#" /></div>
 
 <br><br>
-Now before we can try out the self custom pcb, we compiled and upload the codes to the arduino nano. The codes for this project can be found here.
+Maintenant, avant de pouvoir essayer le circuit imprimé personnalisé, nous avons compilé et téléchargé les codes sur l'arduino nano. Les codes de ce projet se trouvent ici.
 
 ```html
 
@@ -312,30 +312,30 @@ vertical.write(pos2);           // tell servo to go to position in variable 'pos
 <br><div class="loader"><img src="images/pcb2.jpg" alt="#" /></div>
 <br><br>
 
-After, we created a gerber file and orderd a custom pcb from [NEXTPCB](https://passport.hqonline.com/register?reurl=https%3A%2F%2Fwww.nextpcb.com%2Fregister%3Fcode%3Dtechboysxwd)
+Après, nous avons créé un fichier gerber et commandé un pcb personnalisé à partir de [NEXTPCB](https://passport.hqonline.com/register?reurl=https%3A%2F%2Fwww.nextpcb.com%2Fregister%3Fcode%3Dtechboysxwd)
 
 <br><div class="loader"><img src="images/nextpcb.jpg" alt="#" /></div>
 <br><div class="loader"><img src="images/pcbf.jpg" alt="#" /></div>
 
 <br>
-<h1 style="font-size:1.5vw"><span style="color:black">Solar Panels connection </span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Connexion des panneaux solaires </span></h1>
 <br><div class="loader"><img src="images/solar panel.jpg" alt="#" /></div>
 <br> 
-<br> We are going to use 6 pieces of solar panel and each has 6V 70mAh power output, We will wire the one pair of panels in series and 3 pairs in parallel, then the voltage output will be 6+6=12v, So basically when the panels are fully opened the voltage output is 12V and when the panel goes on in home position the voltage output will be 1-3 volts.
+<br> Nous allons utiliser 6 panneaux solaires et chacun a une puissance de sortie de 6 V 70 mAh, nous allons câbler une paire de panneaux en série et 3 paires en parallèle, puis la tension de sortie sera de 6 + 6 = 12 V, donc fondamentalement quand le les panneaux sont complètement ouverts, la tension de sortie est de 12 V et lorsque le panneau s'allume en position initiale, la tension de sortie sera de 1 à 3 volts.
 <br><div class="loader"><img src="images/solars.jpg" alt="#" /></div>
 <br><div class="loader"><img src="images/solarm.jpg" alt="#" /></div>
 <br><div class="loader"><img src="images/solaro.jpg" alt="#" /></div>
 <br>
 <br> 
-<h1 style="font-size:1.2vw"><span style="color:black">LDRS and Working Principle </span></h1>
-<br>Light depending resistor is a photo-resistor, which decrease the resistance when the light increases.
-An LDR or photo-resistor is made any semiconductor material with a high resistance. It has a high resistance because there are very few electrons that are free and able to move – the vast majority of the electrons are locked into the crystal lattice and unable to move. Therefore in this state there is a high LDR resistance.
-<br>As light falls on the semiconductor, the light photons are absorbed by the semiconductor lattice and some of their energy is transferred to the electrons. This gives some of them sufficient energy to break free from the crystal lattice so that they can then conduct electricity. This results in a lowering of the resistance of the semiconductor and hence the overall LDR resistance.The process is progressive, and as more light shines on the LDR semiconductor, so more electrons are released to conduct electricity and the resistance falls further.
+<h1 style="font-size:1.2vw"><span style="color:black">LDRS et principe de fonctionnement </span></h1>
+<br>La résistance dépendant de la lumière est une photo-résistance, qui diminue la résistance lorsque la lumière augmente.
+Une LDR ou photo-résistance est constituée de tout matériau semi-conducteur à haute résistance. Il a une résistance élevée car il y a très peu d'électrons libres et capables de se déplacer - la grande majorité des électrons sont enfermés dans le réseau cristallin et incapables de se déplacer. Par conséquent, dans cet état, il existe une résistance LDR élevée.
+<br>Lorsque la lumière tombe sur le semi-conducteur, les photons lumineux sont absorbés par le réseau semi-conducteur et une partie de leur énergie est transférée aux électrons. Cela donne à certains d'entre eux suffisamment d'énergie pour se libérer du réseau cristallin afin qu'ils puissent ensuite conduire l'électricité. Cela se traduit par une baisse de la résistance du semi-conducteur et donc de la résistance LDR globale. Le processus est progressif et, à mesure que la lumière brille sur le semi-conducteur LDR, davantage d'électrons sont libérés pour conduire l'électricité et la résistance diminue davantage.
 <br><div class="loader"><img src="images/solarl.jpg" alt="#" /></div>
-<br>You can see the fifth resistor is placed on the middle position of the solar top,
-when the light is minimum, the micro controller Arduino read the resistance value and the the threshold value is sated in the coding section, when the light is available and the threshold level breaks, the Arduino rotate the n20 gear motor anticlockwise through the L293D Driver till the limit switch level high, when anticlockwise limit switch pressed the panel stop rotating and panel is fully opened position when the button is pressed, now the main work is going to progress, according the sun rotation other 4 LDRs sense the light and send data to the Arduino, and Arduino process the data then rotate the servo motors according the sun rotation, the rotation position of the servo is max 170 degrees,when the sun goes down the fifth LDR sense data again and this time the process is reverse condition, the LDR data goes down blow the threshold level and Arduino Rotate the N20 motor clockwise till the 2nd limit switch press and run the servo in home position, when light is available in next day the same process goes on again.
+<br>Vous pouvez voir que la cinquième résistance est placée sur la position médiane du toit solaire,
+lorsque la lumière est minimale, le microcontrôleur Arduino lit la valeur de résistance et la valeur de seuil est satisfaite dans la section de codage, lorsque la lumière est disponible et que le niveau de seuil se brise, l'Arduino fait tourner le moteur à engrenages n20 dans le sens inverse des aiguilles d'une montre via le pilote L293D jusqu'à le niveau de l'interrupteur de fin de course est élevé, lorsque l'interrupteur de fin de course dans le sens inverse des aiguilles d'une montre est enfoncé, le panneau arrête de tourner et le panneau est complètement ouvert lorsque le bouton est enfoncé, maintenant le travail principal va progresser, en fonction de la rotation du soleil, les 4 autres LDR détectent la lumière et envoient des données à l'Arduino et l'Arduino traitent les données puis font pivoter les servomoteurs en fonction de la rotation du soleil, la position de rotation du servo est de 170 degrés maximum, lorsque le soleil se couche à nouveau les données de détection LDR cinquième et cette fois le processus est inverse condition, le Les données LDR baissent le niveau de seuil et Arduino Faites tourner le moteur N20 dans le sens des aiguilles d'une montre jusqu'à ce que le 2ème interrupteur de fin de course appuie et fasse tourner le servo en position de repos, lorsque la lumière est disponible le lendemain, le même processus se répète.
 <br>
-<h1 style="font-size:1.5vw"><span style="color:black">Project Circuit</span></h1>  
+<h1 style="font-size:1.5vw"><span style="color:black">Circuit du projet</span></h1>  
 <br><div class="loader"><img src="images/solara.jpg" alt="#" /></div>
 
 <br>
@@ -348,7 +348,7 @@ when the light is minimum, the micro controller Arduino read the resistance valu
 <img src="images/trial1.gif" alt="trial3.gif" max-width="1000" height="700">
 <br>
 <br>
-<br><h1 style="font-size:1.5vw"><span style="color:black">Final design with Power and current display (voltage=11.14v, current=445mA and the power=4.978W)</span></h1> 
+<br><h1 style="font-size:1.5vw"><span style="color:black">Conception finale avec affichage de la puissance et du courant (voltage=11.14v, current=445mA and the power=4.978W)</span></h1> 
 <br><div class="loader"><img src="images/display.jpg" alt="#" /></div>
 <br><br><div class="loader"><img src="images/displayp.jpg" alt="#" /></div>
 <br><br><div class="loader"><img src="images/displaypo.jpg" alt="#" /></div>
@@ -359,51 +359,51 @@ when the light is minimum, the micro controller Arduino read the resistance valu
 
 <br>
 <h1 style="font-size:1.5vw"><span style="color:black">Innovation</span></h1>
-Our Solar Panel Tracking Energy have 6 panels rotating at a 90-degree angle, producing 40% more energy than fixed solar panels. They work with a dual-axis tracking system, so they always face the sun — increasing productivity by up to 10%. Their elevated design also allows the panels to cool naturally, increasing their efficiency.
+Notre énergie de suivi de panneau solaire a 6 panneaux tournant à un angle de 90 degrés, produisant 40 % d'énergie en plus que les panneaux solaires fixes. Ils fonctionnent avec un système de suivi à deux axes, de sorte qu'ils font toujours face au soleil, ce qui augmente la productivité jusqu'à 10 %. Leur conception surélevée permet également aux panneaux de se refroidir naturellement, augmentant ainsi leur efficacité.
 
 <br>
 <br>
-<h1 style="font-size:1.5vw"><span style="color:black">Solar Flower Market- Global Industry Analysis and Forecast (2022-2029)</span></h1>
-<br>The Global Solar Flower Market was valued at US $14 million in 2022 and is predicted to reach 39.20 million in 2028, at a compound annual growth rate of ( CAGR )16.00% between 2023 and 2028.
+<h1 style="font-size:1.5vw"><span style="color:black">Marché des fleurs solaires – Analyse et prévisions de l’industrie mondiale (2022-2029)</span></h1>
+<br>Le marché mondial des fleurs solaires était évalué à 14 millions de dollars américains en 2022 et devrait atteindre 39,20 millions en 2028, à un taux de croissance annuel composé (TCAC) de 16,00 % entre 2023 et 2028.
 
-<br>Main benefits: Solar flower is a ground-mounted, all-in-one solar system with a tracker that follows the sun. It utilizes advanced automation to quickly monitor the sun, manufacturing up to 40% additional power than conventional static solar panels.
-<br>Along with this, the solar flower possesses a unique feature of self-cleansing. Increase in recognition about the utilization of solar power and increase in advantages towards encouragement of sustainable power are major elements operating the global solar flower market. 
-<br>Cons:However, the high initial investment and lack of skill professionals are the major factors restraining the global solar flower market.
+<br>Principaux avantages : Solar Flower est un système solaire tout-en-un monté au sol avec un tracker qui suit le soleil. Il utilise une automatisation avancée pour surveiller rapidement le soleil, produisant jusqu'à 40 % de puissance supplémentaire par rapport aux panneaux solaires statiques conventionnels.
+<br>Parallèlement à cela, la fleur solaire possède une caractéristique unique d'auto-nettoyage. L'augmentation de la reconnaissance de l'utilisation de l'énergie solaire et l'augmentation des avantages pour l'encouragement de l'énergie durable sont des éléments majeurs du marché mondial des fleurs solaires.
+<br>Inconvénients : Cependant, l'investissement initial élevé et le manque de compétences professionnelles sont les principaux facteurs qui freinent le marché mondial des fleurs solaires.
 <br>
-<h1 style="font-size:1vw"><span style="color:black">Top Impacting Factors</span></h1>
-Execution of strict rules to assist environmental preservation increases the energy industry to move to clean environment-friendly power resources. Moreover, the prices of power created using solar power is expected to decrease in the coming years, due to technological advancements.
-
-<br>
-<h1 style="font-size:1vw"><span style="color:black">Market Trends</span></h1>
-● Awareness towards Environment and Use of Renewable Resources for Energy Generation Process
-<br>● With increase in awareness about the carbon emission from several non-renewable resources and the rise in prices of fuels, the solar flower market is expected to have a surge in demand.
-<br>● Favorable Government Policies and Priority is Key Driver for Market Growth
-<br>● Technological Advancements and Increase in R&D Programs in Solar Energy Field is a Positive Factor for Growth of Market
-<br>● Increase in demand for eco-friendly sources of energy coupled with advancement in the field of solar power generation technique had a positive impact on the market of solar flower.
+<h1 style="font-size:1vw"><span style="color:black">Principaux facteurs d'impact</span></h1>
+L'exécution de règles strictes pour aider à la préservation de l'environnement incite l'industrie de l'énergie à passer à des ressources énergétiques propres et respectueuses de l'environnement. De plus, les prix de l'électricité créée à partir de l'énergie solaire devraient baisser dans les années à venir, en raison des progrès technologiques.
 
 <br>
-<h1 style="font-size:1vw"><span style="color:black">Solar Flower Market Segment Analysis:</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">Tendances du marché</span></h1>
+● Sensibilisation à l'environnement et à l'utilisation des ressources renouvelables pour le processus de production d'énergie
+<br>● Avec une prise de conscience accrue des émissions de carbone de plusieurs ressources non renouvelables et de la hausse des prix des carburants, le marché des fleurs solaires devrait connaître une forte augmentation de la demande.
+<br>● Les politiques gouvernementales favorables et la priorité sont le principal moteur de la croissance du marché
+<br>● Les progrès technologiques et l'augmentation des programmes de R&D dans le domaine de l'énergie solaire sont un facteur positif pour la croissance du marché
+<br>● L'augmentation de la demande de sources d'énergie respectueuses de l'environnement associée aux progrès dans le domaine de la technique de production d'énergie solaire a eu un impact positif sur le marché de la fleur solaire.
 
-<br>Solar Flower Market is divided by: 
-<br>Connectivity (On Grid and Off Grid)
-<br>The off-grid segment is expected to enlarge at a quicker CAGR throughout the projected period.
-<br>Application (Residential area, Schools and Universities, Recreational Parks, Mountainous Region, and Others)
-<br>The schools and universities segment are estimated to enlarge at a quicker rate, due to the enormous scale implementations of solar flowers located in Europe and the U.S. 
-<br>Region (North America, Europe, Asia Pacific, Middle East and Africa, and Latin America)
-<br>North America is estimated to be the dominant region in the solar flower market. Development in expenditure in solar implementations is the major factor estimated to increase the market in the zone in the coming year. The U.S influenced the solar flower market in North America in 2021. 
-<br>In July 2021, Virginia Wesleyan University became one of the first institutes in the nation to implement the smart flower, an advanced kind of solar function. The Asia Pacific is an alternate major zone of the worldwide solar flower market.
+<br>
+<h1 style="font-size:1vw"><span style="color:black">Analyse du segment de marché des fleurs solaires:</span></h1>
+
+<br>Le marché aux fleurs solaires est divisé en :
+<br>Connectivité (sur réseau et hors réseau)
+<br>Le segment hors réseau devrait s'agrandir à un TCAC plus rapide tout au long de la période projetée.
+<br>Application (zone résidentielle, écoles et universités, parcs de loisirs, région montagneuse et autres)
+<br>On estime que le segment des écoles et des universités s'agrandit à un rythme plus rapide, en raison des mises en œuvre à grande échelle de fleurs solaires situées en Europe et aux États-Unis.
+<br>Région (Amérique du Nord, Europe, Asie-Pacifique, Moyen-Orient et Afrique et Amérique latine)
+<br>On estime que l'Amérique du Nord est la région dominante sur le marché des fleurs solaires. L'évolution des dépenses dans les implémentations solaires est le principal facteur estimé pour augmenter le marché dans la zone au cours de l'année à venir. Les États-Unis ont influencé le marché des fleurs solaires en Amérique du Nord en 2021.
+<br>En juillet 2021, la Virginia Wesleyan University est devenue l'un des premiers instituts du pays à mettre en œuvre la fleur intelligente, un type avancé de fonction solaire. L'Asie-Pacifique est une autre zone majeure du marché mondial des fleurs solaires.
 
 
-<h1 style="font-size:1.5vw"><span style="color:black">Key Tech Analysis</span></h1>
-<h1 style="font-size:1vw"><span style="color:black">*01 Photovoltaic Cell (Solar PV) </span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Analyse technique clé</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">*01 Cellule photovoltaïque (Solar PV) </span></h1>
 <br><div class="loader"><img src="images/solar-photovoltaic-pv.jpeg" alt="#" /></div>
-<br>Solar PV generation increased by a record 179 TWh (up 22%) in 2021 to exceed 1 000 TWh. It demonstrated the second largest absolute generation growth of all renewable technologies in 2021, after wind. Solar PV is becoming the lowest-cost option for new electricity generation in most of the world, which is expected to propel investment in the coming years. However, average annual generation growth of 25% in the period 2022-2030 is needed to follow the Net Zero Emissions by 2050 Scenario. This corresponds to a more than threefold increase in annual capacity deployment until 2030, requiring much greater policy ambition and more effort from both public and private stakeholders, especially in the areas of grid integration and the mitigation of policy, regulation and financing challenges. This is particularly the case in emerging and developing countries.
+<br>La production solaire photovoltaïque a augmenté d'un record de 179 TWh (+ 22 %) en 2021 pour dépasser 1000 TWh. Il a démontré la deuxième plus grande croissance de production absolue de toutes les technologies renouvelables en 2021, après l'éolien. Le solaire photovoltaïque devient l'option la moins coûteuse pour la nouvelle production d'électricité dans la majeure partie du monde, ce qui devrait stimuler les investissements dans les années à venir. Cependant, une croissance annuelle moyenne de la production de 25 % sur la période 2022-2030 est nécessaire pour suivre le scénario zéro émission nette d'ici 2050. Cela correspond à une multiplication par plus de trois du déploiement annuel des capacités jusqu'en 2030, nécessitant une ambition politique beaucoup plus grande et davantage d'efforts de la part des acteurs publics et privés, en particulier dans les domaines de l'intégration du réseau et de l'atténuation des défis politiques, réglementaires et financiers. C'est particulièrement le cas dans les pays émergents et en développement.
 
 <br>
 <h1 style="font-size:1vw"><span style="color:black">*02 Arduino Nano v3</span></h1>
 <br><div class="loader"><img src="images/v3.webp" alt="#" /></div>
-<br>The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328 (Arduino Nano 3.x). It has more or less the same functionality of the Arduino Duemilanove, but in a different package. It lacks only a DC power jack, and works with a Mini-B USB cable instead of a standard one. The Arduino Nano can be powered via the Mini-B USB connection, 6-20V unregulated external power supply (pin 30), or 5V regulated external power supply (pin 27). The power source is automatically selected to the highest voltage source.
-<br>Each of the 14 digital pins on the Nano can be used as an input or output, using pinMode(), digitalWrite(), and digitalRead() functions. They operate at 5 volts. Each pin can provide or receive a maximum of 40 mA and has an internal pull-up resistor (disconnected by default) of 20-50 kOhms. In addition, some pins have specialized functions:
+<br>L'Arduino Nano est une petite carte complète et compatible avec les planches à pain basée sur l'ATmega328 (Arduino Nano 3.x). Il a plus ou moins les mêmes fonctionnalités que l'Arduino Duemilanove, mais dans un package différent. Il ne manque qu'une prise d'alimentation CC et fonctionne avec un câble USB Mini-B au lieu d'un câble standard. L'Arduino Nano peut être alimenté via la connexion USB Mini-B, une alimentation externe non régulée 6-20V (broche 30) ou une alimentation externe régulée 5V (broche 27). La source d'alimentation est automatiquement sélectionnée sur la source de tension la plus élevée.
+<br>Chacune des 14 broches numériques du Nano peut être utilisée comme entrée ou sortie, en utilisant les fonctions pinMode(), digitalWrite() et digitalRead(). Ils fonctionnent à 5 volts. Chaque broche peut fournir ou recevoir un maximum de 40 mA et possède une résistance pull-up interne (déconnectée par défaut) de 20-50 kOhms. De plus, certaines broches ont des fonctions spécialisées :
 <br>
 
 * Serial: 0 (RX) and 1 (TX). Used to receive (RX) and transmit (TX) TTL serial data. These pins are connected to the corresponding pins of the FTDI USB-to-TTL Serial chip.
