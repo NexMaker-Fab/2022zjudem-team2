@@ -43,29 +43,29 @@ Modifications faciles
 Installer [AutoCAD](https://www.autodesk.com/products/autocad/free-trial)
 <br>
 
-[STEP 01] Go to https://www.autodesk.com/education/free-software/autocad on your Windows side, open a web browser (Chrome is recommended because the instructor tested).
+[STEP 01] Aller https://www.autodesk.com/education/free-software/autocad Sur votre ordinateur sous Windows, ouvrez un navigateur web (Chrome est recommandé car c'est celui testé par l'instructeur).
 <br>
 
-[STEP 02] Click [CREATE ACCOUNT] if you do not have one. If you already have an Autodesk account, please sign in by clicking [SIGN IN](https://accounts.autodesk.com/Authentication/LogOn?viewmode=iframe&ReturnUrl=%2Fauthorize%3Fviewmode%3Diframe%26lang%3Den%26realm%3Ddownload-www.autodesk.com%26ctx%3Dadsk-download-www%26AuthKey%3Dfbdb35f8-2a05-4fa8-a190-5941bc22236d#username).
+[STEP 02] Click [CREER UN COMPTE] Si vous n'en avez pas. Si vous avez déjà un compte Autodesk, veuillez vous connecter en cliquant. [Se Connecter](https://accounts.autodesk.com/Authentication/LogOn?viewmode=iframe&ReturnUrl=%2Fauthorize%3Fviewmode%3Diframe%26lang%3Den%26realm%3Ddownload-www.autodesk.com%26ctx%3Dadsk-download-www%26AuthKey%3Dfbdb35f8-2a05-4fa8-a190-5941bc22236d#username).
 <br>
 
-[STEP 03] Select an appropriate version of AutoCAD, for your system and language.
+[STEP 03] Sélectionnez une version appropriée d'AutoCAD pour votre système et votre langue.
 <br>
 
-[STEP 04] Click [INSTALL](https://www.autodesk.com/products/autocad/free-trial).
+[STEP 04] Click [INSTALLER](https://www.autodesk.com/products/autocad/free-trial).
 <br>
 
-[STEP 05] Accept the license and services agreement.
+[STEP 05] Acceptez le contrat de licence et les conditions de service.
 <br>
 
-[STEP 06] You will receive an email from Autodesk for the license information (Product key and Serial Number). It will be needed for the activation process.
+[STEP 06] Vous recevrez un e-mail d'Autodesk contenant les informations de licence (clé de produit et numéro de série). Celles-ci seront nécessaires pour le processus d'activation.
 <br>
 
-[STEP 07] Click the downloaded installation file to install. The installation will take a while.
+[STEP 07] Cliquez sur le fichier d'installation téléchargé pour l'installer. L'installation prendra un certain temps.
 <br>
 
-[STEP 08] After installation, the software will require activation. Please use the license information.
-<br><h1 style="font-size:1.5vw"><span style="color:black">System Requirements </span></h1>
+[STEP 08] Après l'installation, le logiciel demandera une activation. Veuillez utiliser les informations de licence pour l'activer.
+<br><h1 style="font-size:1.5vw"><span style="color:black">Exigences du système </span></h1>
 <br>
 AutoCAD est généralement compatible avec les systèmes d'exploitation Windows et Mac. Son programme de base peut fonctionner sur l'un ou l'autre système d'exploitation sans aucun problème.
 <br>Cependant, lorsque vous accédez aux outils spécialisés, il existe quelques exceptions notables. Si vous avez besoin de l'une de ces fonctionnalités, assurez-vous de pouvoir utiliser AutoCAD sur une machine Windows.:
@@ -77,41 +77,41 @@ Cartographie 3D : une fonctionnalité plus générale qui aide toute personne q
 <h1 style="font-size:1.5vw"><span style="color:black">Cela dit, voici la configuration système requise pour AutoCAD 2020: </span></h1>
 <br><br>
 <h1 style="font-size:1.5vw"><span style="color:black">Windows </span></h1>
-<br>Versions: Windows 7 SP1, 8.1, or 10 (64-bit only)
-<br>Processor: 2.5 GHz required, 3+ GHz recommended
-<br>Memory: 8 GB required, 16 GB recommended
-<br>Display: 1920 x 1080 with true color for conventional displays, 3840 x 2160 for high resolution and 4K displays
-<br>Display card: 1-GB GPU with 29 GB/s bandwidth, DirectX 11 compliant required; 4-GB GPU with 106 GB/s bandwidth and DirectX 11 compliant recommended
-<br>Disk space: 6 GB
+<br>Versions : Windows 7 SP1, 8.1 ou 10 (uniquement 64 bits)
+<br>Processeur : 2,5 GHz minimum, 3 GHz ou plus recommandé.
+<br>Mémoire : 8 Go requis, 16 Go recommandé
+<br>Affichage: 1920 x 1080 avec couleurs vraies pour les écrans conventionnels, 3840 x 2160 pour les écrans haute résolution et 4K.
+<br>Carte graphique: GPU de 1 Go avec une bande passante de 29 Go/s, compatible DirectX 11 requis ; GPU de 4 Go avec une bande passante de 106 Go/s et compatible DirectX 11 recommandé.
+<br>Disk space: 6 Go
 <h1 style="font-size:1.5vw"><span style="color:black">Mac </span></h1>
-<br>Versions: Catalina v10.15, Mojave v10.14, or High Sierra v10.13
-<br>Processor: 64-bit Intel CPU (Intel Core Duo CPU requried, 2 GHz or faster recommended)
-<br>Memory: 4 GB required, 8+ GB recommended
-<br>Display: 1280 x 800 with true color required, 2880 x 1800 with Retina Display recommended
-<br>Display card: Mac native-installed graphics cards
-<br>Disk space: 3 GB
+<br>Versions : Catalina v10.15, Mojave v10.14 ou High Sierra v10.13.
+<br>Processor: Processeur Intel 64 bits (Processeur Intel Core Duo requis, 2 GHz ou plus rapide recommandé)
+<br>Mémoire: 4 Go requis, 8+ Go recommandé
+<br>Affichage : 1280 x 800 avec des couleurs fidèles requises, 2880 x 1800 avec l'affichage Retina recommandé
+<br>Carte graphique : cartes graphiques installées nativement sur Mac
+<br>Espace disque : 3 Go
 <br><br>
 <br>
 
-[200 AutoCAD Command and Shortcut list](https://www.thesourcecad.com/autocad-commands/)
+[200 Commandes et Raccourcis AutoCAD](https://www.thesourcecad.com/autocad-commands/)
 
 
-<h1 style="font-size:1.5vw"><span style="color:black">Features & Functions</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Fonctionnalités et Fonctions</span></h1>
 
-2D Functions
-<br>Text settings: Creates the text on your designs as a single or multi-line object so you can adjust the formatting all at once.
-<br>Data extraction: Exports object metadata for use outside AutoCAD without needing a user to manually copy from the file. This ensures fast and accurate information transfers.
-<br>Live data links: Creates a live link between data in an Excel spreadsheet and your AutoCAD file. Excellent for real-time calculations as projects change.
-<br>Create your own parametric constraints: Maintains your design’s specific geometric parameters so you don’t have to worry about manually adhering to them as you’re working. It’s also good for keeping the proportions you want within your design.
-<br>Centerlines and marks: Stays with each object as it moves so you’re always aware of its center no matter where it ends up on the design as a whole.
-<br>Revision clouds: Lets you freehand (or use a shape outline) to highlight areas that you’d like to revise without becoming part of the design. This eliminates the need for you to remember to remove it or to go back and forth between old and new versions to make sure you caught the change.
-<br>Arrays: Multiplies a selected object to create a repetitive pattern in a specified geometric pattern. Great for designs featuring evenly-spaced recurrences.
+Les fonctions 2D:
+<br>Parametre de Texte: crée le texte sur vos dessins en tant qu'objet à une ou plusieurs lignes pour que vous puissiez ajuster la mise en forme en une seule fois.
+<br>Extraction de données: Exporte les métadonnées des objets pour une utilisation en dehors d'AutoCAD sans nécessiter qu'un utilisateur les copie manuellement à partir du fichier. Cela garantit des transferts d'informations rapides et précis.
+<br>Les liens de données en direct: Créent un lien en temps réel entre les données d'une feuille de calcul Excel et votre fichier AutoCAD. Excellent pour les calculs en temps réel à mesure que les projets évoluent.
+<br>Créez vos propres contraintes paramétriques : Maintenez les paramètres géométriques spécifiques de votre conception afin que vous n'ayez pas à vous préoccuper de les respecter manuellement pendant que vous travaillez. C'est également utile pour maintenir les proportions que vous souhaitez dans votre conception.
+<br>Centerlines et marques : Reste avec chaque objet lorsqu'il se déplace, de sorte que vous êtes toujours conscient de son centre, peu importe où il se retrouve sur la conception dans son ensemble.
+<br>Les nuages de révision : vous permettent de dessiner à main levée (ou utiliser un contour de forme) pour mettre en évidence les zones que vous souhaitez réviser sans devenir partie intégrante de la conception. Cela élimine le besoin de se souvenir de le supprimer ou d'aller de l'ancienne à la nouvelle version pour s'assurer que vous avez capturé le changement.
+<br>Arrays: Multiplie un objet sélectionné pour créer un motif répétitif selon un modèle géométrique spécifié. Idéal pour les dessins comportant des répétitions régulières.
 
-<br><br>3D Functions
-<br>Solid, surface, and mesh modeling: Offers a variety of control over your 3D modeling so you can choose the process that best fits with your needs.
-<br>Light and shading controls: Adjusts to show how your 3D object looks with types of light, illuminated at different angles, and with different strengths of shadows.
-<br>Cloud rendering: Uses network capabilities to render your design without tying up your computer for the process.
-<br>Model documentation: Like with 2D designs, offers thorough information about your 3D model to share, export, and update in real-time.
-<br>Section planes: Creates planes that dissect your 3D object to show you its cross views at whatever angle you need.
-<br>Point clouds: Lets you import data from 3D scanners to create your design from real-life objects (a bit like connect-the-dots).
+<br><br>Fonctions 3D.
+<br>Solid, surface, et modélisation de maillage : Offre une variété de contrôles sur votre modélisation 3D afin que vous puissiez choisir le processus qui convient le mieux à vos besoins.
+<br>Contrôles de lumière et d'ombrage : S'ajuste pour montrer comment votre objet en 3D apparaît avec différents types de lumière, illuminé sous différents angles et avec différentes forces d'ombres.
+<br>Rendu en nuage : Utilise les capacités du réseau pour rendre votre conception sans monopoliser votre ordinateur pour le processus.
+<br>Documentation de modèles: Tout comme pour les conceptions en 2D, elle offre des informations détaillées sur votre modèle 3D à partager, exporter et mettre à jour en temps réel.
+<br>Section planes: Crée des plans qui découpent votre objet 3D pour vous montrer ses vues en coupe à n'importe quel angle dont vous avez besoin.
+<br>Point clouds: vous permet d'importer des données à partir de scanners 3D pour créer votre conception à partir d'objets réels (un peu comme un jeu de points à relier).
 
