@@ -338,6 +338,16 @@ when the light is minimum, the micro controller Arduino read the resistance valu
 <h1 style="font-size:1.5vw"><span style="color:black">Project Circuit</span></h1>  
 <br><div class="loader"><img src="images/solara.jpg" alt="#" /></div>
 
+<br>
+<h1 style="font-size:1.5vw"><span style="color:black">Trials</span></h1>  
+<br><br>
+<div class="loader"><img src="images/trial1.gif" alt="#" />
+<br><br>
+<div class="loader"><img src="images/trial2.gif" alt="#" />
+<br><br>
+<div class="loader"><img src="images/trial3.gif" alt="#" />
+<br> Final design with Power and current display
+<br><br><div class="loader"><img src="images/display.jpg" alt="#" /></div>
 
 
 <br>
