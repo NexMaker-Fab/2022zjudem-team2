@@ -15,7 +15,7 @@
 + Arduino
   - [评估](Cn/class/3ardla/arduino.md)
 
-+ 编程语言
++ Processing 编程语言
   - [评估](Cn/class/3ardla/processing.md)
   
 + 三 D 打印
@@ -25,6 +25,7 @@
 + 最终项目
    - [1.题目](Cn/project/assessment.md)
    - [2.内容](Cn/project/intro.md)
+   - [3.最后未报](project/presentation)
 
 + [笔记](Cn/class/1pm/doing.md)
    
