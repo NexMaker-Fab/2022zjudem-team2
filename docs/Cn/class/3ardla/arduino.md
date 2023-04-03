@@ -1,11 +1,10 @@
 <!-- Arduino/arduino.md -->
-<h1 style="font-size:2vw"><span style="color:black">ARDUINO APPLICATION</span></h1>
-<h1 style="font-size:1.5vw"><span style="color:black">Arduino Open Source Hardware</span></h1>
-Arduino has over the years released over 100 hardware products: boards, shields, carriers, kits and other accessories. In this page, you will find an overview of some active Arduino hardware
-<li><a href="https://www.arduino.cc/en/hardware#classic-family"><h1 style="font-size:1vw"><span style="color:green">Classic Family</span></h1></a></li>
-
-In the Classic Family, you will find boards such as the legendary Arduino UNO and other classics such as the Leonardo & Micro. These boards are considered the backbone of the Arduino project, and has been a success for many years (and more to come).
-<h1 style="font-size:1vw"><span style="color:black">Boards</span></h1>
+<h1 style="font-size:2vw"><span style="color:black">ARDUINO 应用程序</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Arduino  开源硬件</span></h1>
+Arduino这些年来推出了超过100种硬件产品：板卡、扩展板、载板、套件和其他附件。在这个页面中，您将找到一些活跃的Arduino硬件的概述。
+<li><a href="https://www.arduino.cc/en/hardware#classic-family"><h1 style="font-size:1vw"><span style="color:green">经典系列</span></h1></a></li>
+在经典系列中，您会发现像传奇Arduino UNO和其他经典板子，例如Leonardo和Micro这样的板子。这些板子被认为是Arduino项目的骨干，多年来一直非常成功（未来也会更多）。
+<h1 style="font-size:1vw"><span style="color:black">开发板</span></h1>
 
 <link rel="stylesheet" href="css/bootstrap-grid.min.css"/>
 <div class="demo">
@@ -63,7 +62,7 @@ In the Classic Family, you will find boards such as the legendary Arduino UNO an
                         <div class="pic">
                             <img src="images/mini.webp">
                             <ul class="social">
-                                <li><a href="https://store.arduino.cc/products/uno-mini-le" class="fab fa-facebook">Arduino UNO Mini Limited Edition</a></li>
+                                <li><a href="https://store.arduino.cc/products/uno-mini-le" class="fab fa-facebook">Arduino UNO Mini 限制版</a></li>
                             </ul>
                         </div>
                         <div class="team-content">
@@ -100,204 +99,203 @@ In the Classic Family, you will find boards such as the legendary Arduino UNO an
                     </div>
                 </div>
             </div>
-“Open hardware,” or “open source hardware,” refers to the design specifications of a physical object which are licensed in such a way that said object can be studied, modified, created, and distributed by anyone.
+“开放硬件”或“开源硬件”指的是物理对象的设计规范以这样的方式进行许可，使得任何人都可以研究、修改、创建和分发该对象。
 <br>
 
-Check here for more about [Arduino Hardware](https://www.arduino.cc/en/hardware)
+这里查看更多关于 [Arduino 硬件](https://www.arduino.cc/en/hardware)
 <br>
 
-Click here for the [basics about Arduino](https://www.nexmaker.com/doc/5arduino/arduino_basic.html) and [download software](https://www.arduino.cc/en/software)
-<br><h1 style="font-size:1.5vw"><span style="color:black">About Arduino</span></h1>
-Arduino can sense the environment throught a variety of sensors, and feedback and influence the environment by controlling lights,motors and other devices. The microcontroller on the board can be programmed in the Arduino programming language, compiled into binary files. The programm is implemented using the Arduino programming language (based on wiring) and the Arduino development environment (based on processing). Arduino based projects can include only Arduino, or they can include Arduino and some other software running on a PC, and they communicate with each other (such as Flash, Processing, MaxMSP) to achieve. 
+点击这里看 [关于 Arduino 基本础](https://www.nexmaker.com/doc/5arduino/arduino_basic.html) 于 [下载软件](https://www.arduino.cc/en/software)
+<br><h1 style="font-size:1.5vw"><span style="color:black">关于 Arduino</span></h1>
+Arduino可以通过各种传感器感知环境，并通过控制灯、电机和其他设备来反馈和影响环境。板子上的微控制器可以使用Arduino编程语言编程，并编译成二进制文件。该程序使用Arduino编程语言（基于Wiring）和Arduino开发环境（基于Processing）实现。基于Arduino的项目可以仅包括Arduino，也可以包括在PC上运行的其他软件，并彼此通信（例如Flash、Processing 编程语言、MaxMSP）以实现交互。
 
 <br><h1 style="font-size:1.5vw"><span style="color:black">Open Source</span></h1>
 
 1. Definition
 
-Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration. [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                    <br>
-2. Open Source Software
-<br>An Open-source software is a program that has publicly available code which anyone with technical expertise can use, modify and distribute. These types of software solutions don't always solve the same problems. In fact, most open-source software is geared towards different niche solutions. However, because it is accessible to the general public, it is typically very easy to obtain and incorporate into digital solutions.
-<br>Now, it is important to remember that just because open source software is free to use, it doesn't mean that just anyone can use it. Open-source software refers to lines of code (and its variations) that are available. So, depending on the type of this software, you'll likely still need a qualified software developer to inspect that code, customize the software to your specifications, and integrate it into your current operations.
-<br>
-Open source CRM
-<br>CRM (customer relationship management) software allows companies to manage customer interactions and meet their requirements easier.
-<br>In other words, it helps businesses improve customer care which is essential in boosting client satisfaction and bringing profitability.  
+开源产品包括使用产品的源代码、设计文档或内容的许可。它最常见的是指开源模型，其中开源软件或其他产品作为开源软件运动的一部分发布在开源许可下。这个术语的使用起源于软件领域，但已扩展到涵盖其他开放内容和形式的开放协作。 [Wikipedia](https://en.wikipedia.org/wiki/Open_source)                                                                                                                                                                                                    <br>
+2. 开源软件
+<br>开源软件是指程序具有公开可用的代码，任何具备技术专长的人都可以使用、修改和分发。这些软件解决的问题并不总是相同的，事实上，大部分开源软件都针对不同的特定领域。然而，由于它对普通公众开放，通常很容易获取并集成到数字解决方案中
+<br>现在，重要的是要记住，虽然开源软件是免费使用的，但并不意味着任何人都可以使用它。开源软件是指可用的代码行（及其变体）。因此，根据此软件的类型，您可能仍需要一位合格的软件开发人员检查该代码，根据您的规格自定义软件，并将其集成到当前操作中。<br>
+开源CRM
+<br>CRM (customer relationship management) 软件可以帮助公司更轻松地管理客户互动并满足他们的需求。
+<br>换句话说，它有助于企业提高客户服务水平，这对于增强客户满意度和带来盈利至关重要。
+<br>这种软件可以帮助你保持组织，提高生产力。有不同的开源CRM软件可供选择，通常可以免费下载。
 
-<br>This software makes it possible to stay organized and boost your productivity as well. There are different open source examples for CRM and they are usually free to download.
+<br>然而，它们需要技术能力才能使用，并且可以根据您的需求进行定制。<br>
 
-<br>However, they do require technical ability to use and are customizable to your needs.
-<br>
-
-Example: [Freshworks](https://www.freshworks.com/crm/sales/?utm_source=DesignRush&utm_medium=blog&utm_campaign=develop_an_app)
+例如: [Freshworks](https://www.freshworks.com/crm/sales/?utm_source=DesignRush&utm_medium=blog&utm_campaign=develop_an_app)
 
 <br><div class="loader"><img src="images/Freshworks.jpg" alt="#" /></div>
 
-<br>Freshworks software fits businesses of all sizes and it allows them to manage contacts and develop customer success strategies.
-<br>This is an open source tool helping organizations boost customer engagement and drive more sales.
+<br>Freshworks软件适用于各种规模的企业，可以帮助他们管理联系人并制定客户成功策略。
+<br>这是一种开源工具，帮助组织增强客户参与度并推动更多的销售。.
 <br>
 
-Some of its key features are lead management, email marketing, [IT integration management](https://www.designrush.com/agency/it-services/trends/it-integration), phone and email support.
+一些它的关键功能包括潜在客户管理，电子邮件营销, [IT 集成管理](https://www.designrush.com/agency/it-services/trends/it-integration), 电话和电子邮件支持。
 <br>
 
-Get started with Freshworks today! [Try Freshworks](https://www.freshworks.com/crm/sales/?utm_source=DesignRush&utm_medium=blog&utm_campaign=develop_an_app)
+开始使用Freshworks! [尝试使用Freshworks](https://www.freshworks.com/crm/sales/?utm_source=DesignRush&utm_medium=blog&utm_campaign=develop_an_app)
 
 <h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
 
-- [Open source software&Hardware](https://www.nexmaker.com/doc/5arduino/open_source.html)
-- [Open source Hardware wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_hardware)
+- [开源软件和硬件](https://www.nexmaker.com/doc/5arduino/open_source.html)
+- [维基百科上的开源硬件](https://en.wikipedia.org/wiki/List_of_open-source_hardware)
 <br>
 <br>
 
-<h1 style="font-size:1.5vw"><span style="color:black">Arduino Control</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Arduino 控制</span></h1>
 
 <h1 style="font-size:1.2vw"><span style="color:black">1.Arduino IDE</span></h1> 
 <br>
 
-The Arduino Integrated Development Environment - or [Arduino Software(IDE)](https://www.arduino.cc/en/software) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
-<h1 style="font-size:1vw"><span style="color:black">Writing Sketches</span></h1>
-<br>Programs written using Arduino Software (IDE) are called sketches. These sketches are written in the text editor and are saved with the file extension .ino. The editor has features for cutting/pasting and for searching/replacing text. The message area gives feedback while saving and exporting and also displays errors. The console displays text output by the Arduino Software (IDE), including complete error messages and other information. The bottom righthand corner of the window displays the configured board and serial port. The toolbar buttons allow you to verify and upload programs, create, open, and save sketches, and open the serial monitor.
-<br>Verify Checks your code for errors compiling it.
-<br>Upload Compiles your code and uploads it to the configured board. See uploading below for details.
-<br>Note: If you are using an external programmer with your board, you can hold down the "shift" key on your computer when using this icon. The text will change to "Upload using Programmer"
-<br>New Creates a new sketch.
-<br>Open Presents a menu of all the sketches in your sketchbook. Clicking one will open it within the current window overwriting its content.
+Arduino集成开发环境（Integrated Development Environment，IDE）是用于编写Arduino代码的软件平台，包含了一个文本编辑器、消息区域、文本控制台、常用功能按钮工具栏和一系列菜单。它连接到Arduino硬件板，可以上传程序并与其进行通信。 -者[Arduino 软件(IDE)](https://www.arduino.cc/en/software) - 它包含一个文本编辑器用于编写代码，一个消息区域，一个文本控制台，一个带有常用功能按钮的工具栏以及一系列菜单。它连接到Arduino硬件以上传程序并与其通信。
+<h1 style="font-size:1vw"><span style="color:black">编写Sketch</span></h1>
+<br>使用Arduino软件（IDE）编写的程序称为Sketch。这些Sketch在文本编辑器中编写，并保存为扩展名.ino的文件。编辑器具有剪切/粘贴和搜索/替换文本的功能。消息区域在保存和导出时提供反馈，同时还显示错误信息。控制台显示Arduino软件（IDE）输出的文本，包括完整的错误消息和其他信息。窗口右下角显示配置的板和串口。工具栏按钮允许您验证和上传程序，创建、打开和保存Sketch，并打开串行监视器。
+<br>验证会编译您的代码并检查其中的错误。
+<br>上传会编译您的代码并将其上传到配置的板子上。有关详细信息，请参阅下面的上传。
+<br>注意：如果您正在使用外部编程器与您的板子一起使用，使用此图标时，您可以在计算机上按住“shift”键。文本将更改为“使用编程器上传”。
+<br>新建：创建一个新的Sketch。
+<br>打开：显示您Sketchbook中所有Sketch的菜单。单击其中一个将在当前窗口中打开它，并覆盖其内容。
+<br>注意：由于Java中的一个错误，此菜单无法滚动；如果您需要打开列表中的后面的Sketch，请改用“文件| Sketchbook”菜单。
+<br>保存：保存您的Sketch。
+<br>串行监视器：打开串行监视器。
 
-<br>Note: due to a bug in Java, this menu doesn't scroll; if you need to open a sketch late in the list, use the File | Sketchbook menu instead.
-<br>Save Saves your sketch.
-<br>Serial Monitor Opens the serial monitor.
-
-<br>Additional commands are found within the five menus: File, Edit, Sketch, Tools, Help. The menus are context sensitive, which means only those items relevant to the work currently being carried out are available.
+<br>其他命令可以在五个菜单中找到：文件、编辑、Sketch、工具、帮助。菜单是上下文敏感的，这意味着只有与当前正在进行的工作相关的项可用。
 <br><div class="loader"><img src="images/ide.jpg" alt="#" /></div>
-<br>File
+<br>文件
 
-- New Creates a new instance of the editor, with the bare minimum structure of a sketch already in place.
+- 新建：创建一个新的Sketch编辑器实例，其中已经设置了最基本的结构。
 
-- Open Allows to load a sketch file browsing through the computer drives and folders.
+- 打开：允许通过浏览计算机驱动器和文件夹来加载Sketch文件。
 
-- Open Recent Provides a short list of the most recent sketches, ready to be opened.
+- 最近打开：提供最近打开的Sketch的简短列表，可随时打开。
 
-- Sketchbook Shows the current sketches within the sketchbook folder structure; clicking on any name opens the corresponding sketch in a new editor instance.
+- Sketchbook：显示Sketchbook文件夹结构中的当前Sketch，单击任何名称将在新的编辑器实例中打开相应的Sketch。
 
-- Examples Any example provided by the Arduino Software (IDE) or library shows up in this menu item. All the examples are structured in a tree that allows easy access by topic or library.
+- 示例：Arduino软件（IDE）或库提供的任何示例都会出现在此菜单项中。所有示例都以树形结构组织，可根据主题或库轻松访问。
 
-- Close Closes the instance of the Arduino Software from which it is clicked.
+- 关闭：关闭点击它的Arduino软件实例。
 
-- Save Saves the sketch with the current name. If the file hasn't been named before, a name will be provided in a "Save as.." window.
+- 保存：使用当前名称保存Sketch。如果文件之前没有命名过，则会在“另存为..”窗口中提供名称。
 
-- Save as... Allows to save the current sketch with a different name.
+- 另存为...：允许使用不同的名称保存当前Sketch。
 
-- Page Setup It shows the Page Setup window for printing.
+- 页面设置：显示打印的页面设置窗口。
 
-- Print Sends the current sketch to the printer according to the settings defined in Page Setup.
+- 打印：根据页面设置中定义的设置将当前Sketch发送到打印机。
 
-- Preferences Opens the Preferences window where some settings of the IDE may be customized, as the language of the IDE interface.
+- 首选项：打开首选项窗口，可以自定义IDE的某些设置，例如IDE界面的语言。
 
-- Quit Closes all IDE windows. The same sketches open when Quit was chosen will be automatically reopened the next time you start the IDE.
-<br>Edit
+- 退出：关闭所有IDE窗口。当选择退出时打开的相同Sketch将在下次启动IDE时自动重新打开。
+<br>编辑
 
-- Undo/Redo Goes back of one or more steps you did while editing; when you go back, you may go forward with Redo.
+- 撤销/重做：撤销或恢复你在编辑时所做的一个或多个步骤；当你撤销时，可以用重做重新进行。
 
-- Cut Removes the selected text from the editor and places it into the clipboard.
+- 剪切：从编辑器中删除所选文本，并将其放入剪贴板中。
 
-- Copy Duplicates the selected text in the editor and places it into the clipboard.
+- 复制：在编辑器中复制所选文本，并将其放入剪贴板中。
 
-- Copy for Forum Copies the code of your sketch to the clipboard in a form suitable for posting to the forum, complete with syntax coloring.
+- 复制到论坛：将您的Sketch代码以适合在论坛中发布的形式复制到剪贴板中，包括语法着色。
 
-- Copy as HTML Copies the code of your sketch to the clipboard as HTML, suitable for embedding in web pages.
+- 复制为HTML：将您的Sketch代码以HTML形式复制到剪贴板中，适合嵌入网页中。
 
-- Paste Puts the contents of the clipboard at the cursor position, in the editor.
+- 粘贴：将剪贴板的内容放置在光标位置，在编辑器中。
 
-- Select All Selects and highlights the whole content of the editor.
+- 全选：选择并突出显示编辑器的全部内容。
 
-- Comment/Uncomment Puts or removes the // comment marker at the beginning of each selected line.
+- 注释/取消注释：在每个选定行的开头添加或删除//注释标记。
 
-- Increase/Decrease Indent Adds or subtracts a space at the beginning of each selected line, moving the text one space on the right or eliminating a space at the beginning.
+- 增加/减少缩进：在每个选定行的开头添加或删除一个空格，将文本向右移动一个空格或消除开头的一个空格。
 
-- Find Opens the Find and Replace window where you can specify text to search inside the current sketch according to several options.
+- 查找 在打开的窗口中查找并替换文本，可按多种选项指定要搜索的文本。
 
-- Find Next Highlights the next occurrence - if any - of the string specified as the search item in the Find window, relative to the cursor position.
+- 查找下一个 在与光标位置相关联的查找窗口中，突出显示指定为搜索项的下一个出现位置（如果有）。
 
-- Find Previous Highlights the previous occurrence - if any - of the string specified as the search item in the Find window relative to the cursor position.
+- 查找上一个 在与光标位置相关联的查找窗口中，突出显示指定为搜索项的前一个出现位置（如果有）。
+
 <br>Sketch
 
-- Verify/Compile Checks your sketch for errors compiling it; it will report memory usage for code and variables in the console area.
+- 验证/编译 检查您的草图是否编译错误；它将在控制台区域报告代码和变量的内存使用情况。
 
-- Upload Compiles and loads the binary file onto the configured board through the configured Port.
+- 上传 编译并将二进制文件加载到配置的端口通过配置的板。
 
-- Upload Using Programmer This will overwrite the bootloader on the board; you will need to use Tools > Burn Bootloader to restore it and be able to Upload to USB serial port again. However, it allows you to use the full capacity of the Flash memory for your sketch. Please note that this command will NOT burn the fuses. To do so a Tools -> Burn Bootloader command must be executed.
+- 使用程序员上传 这将覆盖板上的启动加载程序；您需要使用“工具”>“烧录启动加载程序”来恢复它并能够再次上传到USB串行端口。但是，它允许您使用Flash存储器的全部容量来存储您的草图。请注意，此命令不会烧写熔丝。要执行此操作，必须执行“工具”->“烧录启动加载程序”命令。
 
-- Export Compiled Binary Saves a .hex file that may be kept as archive or sent to the board using other tools.
+- 导出编译的二进制文件 保存为 .hex 文件，可保存为档案或使用其他工具将其发送到板子上。
 
-- Show Sketch Folder Opens the current sketch folder.
+- 显示草图文件夹 打开当前草图文件夹。
 
-- Include Library Adds a library to your sketch by inserting #include statements at the start of your code. For more details, see libraries below. Additionally, from this menu item you can access the Library Manager and import new libraries from .zip files.
+- 包含库 通过在代码开头插入 #include 语句将库添加到您的草图中。有关更多详细信息，请参见下面的库。此外，从此菜单项中，您可以访问库管理器并从 .zip 文件导入新库。
 
-- Add File... Adds a supplemental file to the sketch (it will be copied from its current location). The file is saved to the data subfolder of the sketch, which is intended for assets such as documentation. The contents of the data folder are not compiled, so they do not become part of the sketch program.
+- 添加文件… 将补充文件添加到草图中（它将从其当前位置复制）。该文件将保存到草图的 data 子文件夹中，该文件夹用于资产（例如文档）等。数据文件夹的内容不会被编译，因此它们不会成为草图程序的一部分。
 
-<br>Tools
+<br>工具
 
-- Auto Format This formats your code nicely: i.e. indents it so that opening and closing curly braces line up, and that the statements inside curly braces are indented more.
+- 自动格式化 该功能能够美化您的代码：即对齐花括号，并且花括号内的语句缩进更多。
 
-- Archive Sketch Archives a copy of the current sketch in .zip format. The archive is placed in the same directory as the sketch.
+- 存档 能够将当前的代码以 .zip 格式存档。存档文件将会被保存在与代码文件相同的目录下。
 
-- Fix Encoding & Reload Fixes possible discrepancies between the editor char map encoding and other operating systems char maps.
+- 修复编码并重新加载 修复编辑器字符编码与其他操作系统字符编码之间的潜在差异。
 
-- Serial Monitor Opens the serial monitor window and initiates the exchange of data with any connected board on the currently selected Port. This usually resets the board, if the board supports Reset over serial port opening.
+- 串口监视器 打开串口监视器窗口，并且与当前选定端口上的任何连接的板子进行数据交换。这通常会重置板子，如果板子支持串口打开时的复位。
 
-- Board Select the board that you're using. See below for descriptions of the various boards.
+- 板子 选择您正在使用的板子。下面是各种板子的描述。
 
-- Port This menu contains all the serial devices (real or virtual) on your machine. It should automatically refresh every time you open the top-level tools menu.
+- 端口 此菜单包含计算机上所有串口设备（真实或虚拟）。它应该在每次打开顶层工具菜单时自动刷新。
 
-- Programmer For selecting a hardware programmer when programming a board or chip and not using the onboard USB-serial connection. Normally you won't need this, but if you're burning a bootloader to a new microcontroller, you will use this.
+- 编程器 用于在编程板子或芯片时选择硬件编程器，而不使用板子上的USB-串口连接。通常情况下，您不需要使用此选项，但如果要为新微控制器烧写引导加载程序，则需要使用此选项。
 
-- Burn Bootloader The items in this menu allow you to burn a bootloader onto the microcontroller on an Arduino board. This is not required for normal use of an Arduino board but is useful if you purchase a new ATmega microcontroller (which normally come without a bootloader). Ensure that you've selected the correct board from the Boards menu before burning the bootloader on the target board. This command also set the right fuses.
+- 烧写引导加载程序 该菜单中的选项允许您向Arduino板子上的微控制器烧写引导加载程序。通常情况下，您不需要使用此功能，但如果购买了新的ATmega微控制器（它们通常没有引导加载程序），则该功能很有用。在烧录目标板子的引导加载程序之前，请确保您已从板子菜单中选择了正确的板子。该命令还将设置正确的熔断位。
 
-<br>Help
+<br>帮助
 
-- Here you find easy access to a number of documents that come with the Arduino Software (IDE). You have access to Getting Started, Reference, this guide to the IDE and other documents locally, without an internet connection. The documents are a local copy of the online ones and may link back to our online website.
+- 这里您可以轻松访问Arduino软件（IDE）附带的一些文档。您可以在没有互联网连接的情况下本地访问入门指南，参考文献，IDE指南和其他文档。这些文档是在线文档的本地副本，可能链接回我们的在线网站。
 
-- Find in Reference This is the only interactive function of the Help menu: it directly selects the relevant page in the local copy of the Reference for the function or command under the cursor.
+- 在参考文献中查找：这是帮助菜单中唯一的交互功能：它直接为光标下的函数或命令选择本地参考文献中的相关页面。
 Sketchbook
-- The Arduino Software (IDE) uses the concept of a sketchbook: a standard place to store your programs (or sketches). The sketches in your sketchbook can be opened from the File > Sketchbook menu or from the Open button on the toolbar. The first time you run the Arduino software, it will automatically create a directory for your sketchbook. You can view or change the location of the sketchbook location from with the Preferences dialog.
 
-- Beginning with version 1.0, files are saved with a .ino file extension. Previous versions use the .pde extension. You may still open .pde named files in version 1.0 and later, the software will automatically rename the extension to .ino.
+- Arduino软件（IDE）使用“sketchbook”概念：一个标准的地方存储您的程序（或草图）。您的草图可以从“文件”>“草图簿”菜单或工具栏上的“打开”按钮中打开。第一次运行Arduino软件时，它会自动创建一个用于草图簿的目录。您可以从“首选项”对话框中查看或更改草图簿位置。
 
-- Tabs, Multiple Files, and Compilation
-Allows you to manage sketches with more than one file (each of which appears in its own tab). These can be normal Arduino code files (no visible extension), C files (.c extension), C++ files (.cpp), or header files (.h).
+- 从1.0版本开始，文件保存为.ino文件扩展名。早期版本使用.pde扩展名。您仍然可以在1.0版本及更高版本中打开.pde命名的文件，软件将自动将扩展名更改为.ino。
 
-- Before compiling the sketch, all the normal Arduino code files of the sketch (.ino, .pde) are concatenated into a single file following the order the tabs are shown in. The other file types are left as is.
+- 标签，多文件和编译
 
-<br>Uploading
+- 允许您管理具有多个文件的草图（每个文件都显示在其自己的选项卡中）。这些可以是普通的Arduino代码文件（没有可见扩展名），C文件（.c扩展名），C ++文件（.cpp）或头文件（.h）。
 
-- Before uploading your sketch, you need to select the correct items from the Tools > Board and Tools > Port menus. The boards are described below. On the Mac, the serial port is probably something like /dev/tty.usbmodem241 (for an UNO or Mega2560 or Leonardo) or /dev/tty.usbserial-1B1 (for a Duemilanove or earlier USB board), or /dev/tty.USA19QW1b1P1.1 (for a serial board connected with a Keyspan USB-to-Serial adapter). On Windows, it's probably COM1 or COM2 (for a serial board) or COM4, COM5, COM7, or higher (for a USB board) - to find out, you look for USB serial device in the ports section of the Windows Device Manager. On Linux, it should be /dev/ttyACMx , /dev/ttyUSBx or similar. Once you've selected the correct serial port and board, press the upload button in the toolbar or select the Upload item from the Sketch menu. Current Arduino boards will reset automatically and begin the upload. With older boards (pre-Diecimila) that lack auto-reset, you'll need to press the reset button on the board just before starting the upload. On most boards, you'll see the RX and TX LEDs blink as the sketch is uploaded. The Arduino Software (IDE) will display a message when the upload is complete, or show an error.
+- 在编译草图之前，所有草图的普通Arduino代码文件（.ino，.pde）将按照选项卡显示的顺序连接为一个文件。其他文件类型保持不变。
 
-- When you upload a sketch, you're using the Arduino bootloader, a small program that has been loaded on to the microcontroller on your board. It allows you to upload code without using any additional hardware. The bootloader is active for a few seconds when the board resets; then it starts whichever sketch was most recently uploaded to the microcontroller. The bootloader will blink the on-board (pin 13) LED when it starts (i.e. when the board resets).
+<br>上传
 
-<br>Libraries
+- 在上传你的代码之前，你需要从“工具”（Tools）菜单中选择正确的开发板和端口。下面会详细介绍各种开发板。在 Mac 上，串行端口可能是 /dev/tty.usbmodem241（UNO 或 Mega2560 或 Leonardo），/dev/tty.usbserial-1B1（Duemilanove 或早期的 USB 开发板），或 /dev/tty.USA19QW1b1P1.1（通过 Keyspan USB 转串口线连接的串口开发板）。在 Windows 上，串行端口可能是 COM1 或 COM2（串口开发板），或者 COM4、COM5、COM7 或更高（USB 开发板）——你可以在 Windows 设备管理器的端口部分中查找 USB 串行设备来确定。在 Linux 上，串行端口通常为 /dev/ttyACMx、/dev/ttyUSBx 或类似的名称。一旦你选择了正确的串行端口和开发板，就可以在工具栏上单击上传按钮，或从“文件”（Sketch）菜单中选择“上传”（Upload）项。目前的 Arduino 开发板将自动重置并开始上传。对于旧的（Diecimila 之前的）不带自动重置功能的开发板，你需要在开始上传之前按下开发板上的重置按钮。在大多数开发板上，你将看到 RX 和 TX 的 LED 会在上传代码时闪烁。Arduino 软件（IDE）会在上传完成时显示一条消息，或显示一个错误信息。
 
-- Libraries provide extra functionality for use in sketches, e.g. working with hardware or manipulating data. To use a library in a sketch, select it from the Sketch > Import Library menu. This will insert one or more #include statements at the top of the sketch and compile the library with your sketch. Because libraries are uploaded to the board with your sketch, they increase the amount of space it takes up. If a sketch no longer needs a library, simply delete its #include statements from the top of your code.
+- 上传代码时，你将使用 Arduino 引导程序（bootloader），这是一个小程序，已加载到开发板上的微控制器中。它使你可以上传代码而不需要使用任何额外的硬件。引导程序在开发板重置时会激活几秒钟；然后它会启动最近上传到微控制器的任何一个代码。当它启动时（即当开发板重置时），引导程序会让板载（pin 13）LED 闪烁。
 
-- There is a list of libraries in the reference. Some libraries are included with the Arduino software. Others can be downloaded from a variety of sources or through the Library Manager. Starting with version 1.0.5 of the IDE, you do can import a library from a zip file and use it in an open sketch. See these instructions for installing a third-party library.
+<br>库文件
 
-<h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
+- 库（kù）为sketch提供额外的功能，例如与硬件交互或操作数据。要在sketch中使用库，请从“Sketch > 导入库”菜单中选择它。这将在sketch顶部插入一个或多个#include语句，并将库与您的sketch一起编译。由于库与您的sketch一起上传到板子上，因此它们会增加所占用的空间。如果一个sketch不再需要库，请从代码顶部删除其#include语句。
+
+- 参考文档中有一个库列表。一些库包含在Arduino软件中。其他库可以从各种来源或通过库管理器下载。从IDE 1.0.5版本开始，您可以从zip文件中导入库并在打开的sketch中使用它。请参阅安装第三方库的说明。
+
+<h1 style="font-size:1.2vw"><span style="color:black">参考</span></h1>
 
 - [Nexmaker](https://www.nexmaker.com/doc/9IOT/NodeMCUESP8266_ALiYun.html)
 
-<h1 style="font-size:1.2vw"><span style="color:black">2.Arduino class works</span></h1>
-<h1 style="font-size:1vw"><span style="color:black">Switch</span></h1>
-We can use swith to control the circuit, in this case we use pin 7 as input port
+<h1 style="font-size:1.2vw"><span style="color:black">2.Arduino 练习</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">开关</span></h1>
+我们可以使用开关来控制电路，在这种情况下，我们使用引脚7作为输入端口。
 <br><div class="loader"><img src="images/tinkerswitch.jpg" alt="#" /></div>
 <div class="loader"><img src="images/switch.gif" alt="switch.gif"max-width="800" height="500" />
-<h1 style="font-size:1vw"><span style="color:black">LED Lights</span></h1>
-<h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
-This is a eight lights circuit which has a delay time that makes the LED lights light up at separate times. 
+<h1 style="font-size:1vw"><span style="color:black">LED 灯</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">01.描述与材料</span></h1>
+这是一个有延迟时间的八灯电路，使LED灯在不同的时间点亮起来。 
 
-<br>Material used are:
+<br>使用的材料:
 
 - 1 Arduino Uno
-- 8 LEDs
-- 8 Resistors (220ohms)
-<h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
+- 8个LED灯
+- 8个电阻（220欧姆）
+<h1 style="font-size:1vw"><span style="color:black">02.代码</span></h1>
 
 ```html
 const int LED1=8;
@@ -397,20 +395,20 @@ void loop()
     delay(500);
 }
 ```
-<h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">03.输出</span></h1>
 <br><div class="loader"><img src="images/leds.png" alt="#" /></div>
 <div class="loader"><img src="images/leds.gif" alt="leds.gif"max-width="600" height="1200" />
-<h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
-The system run smoothly and without fault.
-<h1 style="font-size:1vw"><span style="color:black">Humidity/Temperature sensors</span></h1>
-<h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
-This is a simple humidity and temperature sensor circuit that detect a room temperature and humidity with a delay time of 1 second.
-<br>Material used are:
+<h1 style="font-size:1vw"><span style="color:black">04.分析</span></h1>
+系统运行平稳，没有故障。
+<h1 style="font-size:1vw"><span style="color:black">湿度/温度传感器</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">01.描述和材料</span></h1>
+这是一个简单的湿度和温度传感器电路，可以检测室内温度和湿度，延迟时间为1秒。
+<br>使用的材料:
 
 - 1 Arduino Uno
-- DHT11
-- 1 Resistors (4.7Kohms)
-<h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
+- DHT11 温湿度传感器
+- 1 电阻器（4.7K欧姆）
+<h1 style="font-size:1vw"><span style="color:black">02.代码</span></h1>
 
 ```html
 
@@ -450,26 +448,25 @@ void loop()
 }
 
 ```
-<h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">03.输出</span></h1>
 <br><div class="loader"><img src="images/temperature.png" alt="#" /></div>
 <br><div class="loader"><img src="images/temperature.jpg" alt="#" /></div>
-<h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
-The system run smoothly and without fault.
+<h1 style="font-size:1vw"><span style="color:black">04.分析</span></h1>
+系统运行平稳，没有故障
 
-<h1 style="font-size:1vw"><span style="color:black">DIY Security Alarm using LCD and Ultrasonic sensor.</span></h1>
-<h1 style="font-size:1vw"><span style="color:black">01.Description and Materials</span></h1>
-This is a simple Security alarm system that displays the level of risk. It makes different type of alerting sound based on distance, it also bright different type of LED based on distance.
+<h1 style="font-size:1vw"><span style="color:black">DIY安全警报，使用LCD和超声波传感器。</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">01.描述材料</span></h1>
+这是一个简单的安全警报系统，可以显示风险级别。根据距离发出不同类型的警报声音，还可以根据距离点亮不同类型的LED灯。
+<br>使用的材料:
 
-<br>Material used are:
+- 1个Arduino Uno控制板
 
-- 1 Arduino Uno
-- 1 green LED
-- 4 red LED
-- LCD display screen
-- Ultrasonic sensor
-- Buzzer
-- 1 Resistors (1Kohms)
-<h1 style="font-size:1vw"><span style="color:black">02.Codes</span></h1>
+- 1个绿色LED
+- 4个红色LED
+- LCD显示屏
+- 超声波传感
+- 1个1千欧姆电阻
+<h1 style="font-size:1vw"><span style="color:black">02.代码</span></h1>
 
 ```html
 
@@ -606,24 +603,24 @@ void loop()
 }
 
 ```
-<h1 style="font-size:1vw"><span style="color:black">03.Output</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">03.输出</span></h1>
 <br><div class="loader"><img src="images/ultrasonic.jpg" alt="#" /></div>
 <br>
  <video width="1280" height="960" controls>
-  <source src="images/ultrasonic.mp4" id="ultrasonic.mp4"> loop autoplay muted</video>
+  <source src="images/ultrasonic.mp4" id="ultrasonic.mp4"> 循环播放 自动播放 静音</video>
 <br>
 
-<h1 style="font-size:1vw"><span style="color:black">04.Analysis</span></h1>
-The system run smoothly and without fault.
-<br>This project will help the People to identify the Distance of an object from the Sensor and shows the level of Risk through LED, LCD and Buzzer.
+<h1 style="font-size:1vw"><span style="color:black">04.分析</span></h1>
+系统运行顺畅，没有故障。
+<br>这个项目将帮助人们通过LED，LCD和蜂鸣器来识别传感器与物体之间的距离，并显示风险级别。
 
-It's Glows different type of LED based on Distance and Make Different type of Alarm
+它会根据距离发光不同类型的 LED 并发出不同类型的警报。
 
-When there is no Object it Glows green LED and Display Safe no Risk on LCD
+当没有物体时，它会发出绿色 LED，并在液晶屏上显示“安全，无风险”。
 
-You can Change distance as per your requirement, you can change color of LED you can change beeping of Alarm as per your Requirement
+您可以根据需要更改距离、更改 LED 的颜色、更改警报的哔哔声。
 
-<h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
+<h1 style="font-size:1.2vw"><span style="color:black">参考</span></h1>
 
 - [https://docs.arduino.cc/hardware/uno-rev3](https://docs.arduino.cc/hardware/uno-rev3)
 - [http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/liquidcrystal-library/](http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/liquidcrystal-library/)

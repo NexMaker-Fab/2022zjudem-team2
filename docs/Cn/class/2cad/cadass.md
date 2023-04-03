@@ -5,11 +5,11 @@
 设计和组装 [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
 <br>
  <video width="1280" height="960" controls>
-  <source src="images/AutodeskFusion.mp4" id="video/AutodeskFusion.mp4"> loop autoplay muted</video>
+  <source src="images/AutodeskFusion.mp4" id="video/AutodeskFusion.mp4"> 循环播放 自动播放 静音</video>
 <br>
 导出为 stl 格式文件，打开方式为 [闪印](https://www.sz3dp.com/download-center?category=12)
 <br>
-打开您的 Flashprint 软件并在软件上下载 stl 文件
+打开您的 闪电打印 软件并在软件上下载 stl 文件
 <br>
 <div class="loader"><img src="images/fp1.png" alt="#" /></div>
 <br>

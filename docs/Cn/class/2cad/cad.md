@@ -11,7 +11,7 @@
 <br><br>
 AutoCAD 一直是许多设计行业的主导程序，因为它不断更新。每年都会发布一个新版本，并且总是会添加新功能。
 
-<br><h1 style="font-size:1.5vw"><span style="color:black">Characteristics</span></h1>
+<br><h1 style="font-size:1.5vw"><span style="color:black">AutoCAD特性</span></h1>
 <br>AutoCAD 的核心竞争力是二维设计。它的工作区基本上是您计算机上的绘图台，并且自推出以来就没有改变。
 
 <br><br>
@@ -24,7 +24,7 @@ AutoCAD 一直是许多设计行业的主导程序，因为它不断更新。每
 <br><br>
 对于 3D 工作，AutoCAD 提供了多种方式来查看您的设计，因此您可以从各个角度处理它。无论您处于哪个维度，该软件都会自动保存有用的设计数据以供共享和未来参考。稍后我们将更详细地讨论特别有趣的特定功能。
 
-<br><h1 style="font-size:1.5vw"><span style="color:black">Here are a few other benefits of AutoCAD:</span></h1>
+<br><h1 style="font-size:1.5vw"><span style="color:black">以下是AutoCAD的其他几个优点：</span></h1>
 轻松编辑
 <br>更快的生产
 <br>更准确
@@ -93,7 +93,7 @@ AutoCAD 通常与 Windows 和 Mac 操作系统兼容。它的核心程序可以�
 <br><br>
 <br>
 
-[200 AutoCAD Command and Shortcut list](https://www.thesourcecad.com/autocad-commands/)
+[200个AutoCAD命令和快捷键列表](https://www.thesourcecad.com/autocad-commands/)
 
 
 <h1 style="font-size:1.5vw"><span style="color:black">特性与功能</span></h1>

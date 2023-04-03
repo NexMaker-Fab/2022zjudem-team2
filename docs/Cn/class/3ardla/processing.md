@@ -5,38 +5,38 @@
 
 [Processing 编程语言](https://processing.org/download) 是一个灵活的软件草图本和一种在视觉艺术背景下学习编码的语言。自 2001 年以来，Processing 在视觉艺术领域推广软件素养，并在技术领域推广视觉素养。有成千上万的学生、艺术家、设计师、研究人员和爱好者使用 Processing 进行学习和原型制作。<br>Processing 编程语言是一个免费的图形库和集成开发环境（IDE），旨在为电子艺术、新媒体艺术和视觉设计社区提供帮助，并通过可视化编程的方式教授非程序员计算机编程的基础知识。
 
-<br>Processing uses the Java language, with additional simplifications such as additional classes and aliased mathematical functions and operations. It also provides a graphical user interface for simplifying the compilation and execution stage.
+<br>Processing 编程语言使用Java语言，提供了额外的简化，如额外的类和别名数学函数和操作。它还提供了一个图形用户界面，简化了编译和执行阶段。
 
-<br>The Processing language and IDE have been the precursor to other projects including Arduino and Wiring.
+<br>Processing语言和IDE是其他项目的先驱，包括Arduino和Wiring。
 
-- [Download Software](https://processing.org/download)
+- [下载软件](https://processing.org/download)
 
-<h1 style="font-size:1.5vw"><span style="color:black">Similar Softwares</span></h1>
+<h1 style="font-size:1.5vw"><span style="color:black">相似的软件</span></h1>
 
 [Processing.js](https://www.tutorialspoint.com/online_processingjs_editor.php)
-<br>Processing.js is an open programming language, port of the processing Visualization Language, for people who want to program images, animation, and interactions for the web without using Flash or Java applets. Processing.
+<br>Processing.js是一个开源编程语言，是processing可视化语言的移植版本，为那些想要在Web上编写图像、动画和交互而不使用Flash或Java小程序的人们提供了方便。
 <br>
 
 [Vvvv](https://www.visualprogramming.net/)
-<br>vvvv is a graphical programming environment for easy prototyping and development. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.
+<br>vvv是一个图形化的编程环境，用于简化原型设计和开发。它被设计用于处理具有物理接口、实时动态图形、音频和视频的大型媒体环境，可以与多个用户同时交互。
 <br>
 
-[OpenFrameworks](https://openframeworks.cc/download/)
-<br>openFrameworks is an open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation.
+[开放框架](https://openframeworks.cc/download/)
+<br>开放框架(openFrameworks)是一个开源的C++工具包，旨在通过提供简单直观的实验框架来协助创意过程。
 
-<h1 style="font-size:1.2vw"><span style="color:black">Reference</span></h1>
+<h1 style="font-size:1.2vw"><span style="color:black">参考</span></h1>
 
 - [Nexmaker](https://www.nexmaker.com/doc/10Interface-application-programming/processing.html)
-- [Learning Processing](https://www.amazon.com/gp/product/0123944430/ref=as_li_ss_tl?ref_=nav_ya_signin&linkCode=sl1&tag=processing09-20&linkId=fb0eeedd8fb1016a790e83d538a1c030)
+- [学习Processing编程语言](https://www.amazon.com/gp/product/0123944430/ref=as_li_ss_tl?ref_=nav_ya_signin&linkCode=sl1&tag=processing09-20&linkId=fb0eeedd8fb1016a790e83d538a1c030)
 
 
-<h1 style="font-size:1.5vw"><span style="color:black">Processing Demo</span></h1>
-<h1 style="font-size:1vw"><span style="color:black">Mouse Interaction</span>: Reach</h1>
+<h1 style="font-size:1.5vw"><span style="color:black">Processing 编程语言 Demo</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">鼠标交互</span>: Reach</h1>
 
-The arm follows the position of the mouse by calculating the angles with [atan2()](https://processing.org/reference/atan2_.html).
+机械臂通过计算角度来跟随鼠标的位置： [atan2()](https://processing.org/reference/atan2_.html).
 <div class="loader"><img src="images/mouse.gif" alt="mouse.gif"max-width="800" height="500" />
 
-<h1 style="font-size:1vw"><span style="color:black">Codes</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">代码</span></h1>
 
 
 ```html
@@ -101,12 +101,12 @@ void segment(float x, float y, float a, float sw) {
 }
 ```
 
-- [Reference](https://processing.org/examples/reach2.html)
+- [代码](https://processing.org/examples/reach2.html)
 
-<h1 style="font-size:1vw"><span style="color:black">Keyboard Interaction</span>: Snake game</h1>
-This is a simple snake game and a test for creating small games in processing
+<h1 style="font-size:1vw"><span style="color:black">键盘交互</span>: 贪吃蛇游戏</h1>
+这是一个简单的贪吃蛇游戏，也是在Processing中创建小游戏的一个测试。
 <div class="loader"><img src="images/snakegame.gif" alt="snakegame.gif"max-width="800" height="500" />
-<h1 style="font-size:1vw"><span style="color:black">Codes</span></h1>
+<h1 style="font-size:1vw"><span style="color:black">代码</span></h1>
 
 ```html
 
@@ -314,4 +314,4 @@ float sinecolor(float percent)
 
 ```
 
-- [Reference](https://openprocessing.org/sketch/50988/#)
+- [参考e](https://openprocessing.org/sketch/50988/#)
